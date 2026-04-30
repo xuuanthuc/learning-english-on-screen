@@ -1,5 +1,6 @@
 package com.example.learning
 
+import android.content.ClipData
 import android.os.Build
 import android.os.Bundle
 import android.view.WindowManager
@@ -34,6 +35,7 @@ import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -50,8 +52,16 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.CompositingStrategy
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.platform.ClipEntry
+import androidx.compose.ui.platform.LocalClipboard
+import androidx.compose.ui.platform.LocalClipboardManager
+import androidx.compose.ui.text.AnnotatedString
+import androidx.compose.ui.text.capitalize
 import androidx.compose.ui.text.style.TextAlign
+import java.util.Locale
 import kotlin.math.abs
+import androidx.compose.ui.platform.LocalClipboardManager
+import androidx.compose.ui.platform.toClipEntry
 
 class AlarmOverlayActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -89,7 +99,8 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
     }
 
     val word by viewModel.currentWord.collectAsState()
-
+    val clipboardManager = LocalClipboard.current
+    val scope = rememberCoroutineScope()
     LaunchedEffect(word) {
         word?.let {
             viewModel.saveCurrentWordStatus(it)
@@ -112,6 +123,11 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
 
             Spacer(modifier = Modifier.weight(1f))
             Text(
+                modifier = Modifier.clickable {
+                    val clipData =
+                        ClipData.newPlainText(word?.word?.word ?: "", word?.word?.word ?: "")
+                    scope.launch { clipboardManager.setClipEntry(clipData.toClipEntry()) }
+                },
                 text = word?.word?.word ?: "", style = TextStyle(
                     fontSize = 40.sp,
                     fontWeight = FontWeight.Bold,
@@ -125,14 +141,16 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                 modifier = Modifier.padding(bottom = 12.dp),
             ) {
 
-                Text(
-                    modifier = Modifier
-                        .border(width = 1.dp, color = Color.Gray, CircleShape)
-                        .padding(4.dp), text = word?.word?.level ?: "", style = TextStyle(
-                        fontSize = 11.sp,
-                        color = Color.White,
+                word?.let {
+                    Text(
+                        modifier = Modifier
+                            .border(width = 1.dp, color = Color.Gray, CircleShape)
+                            .padding(4.dp), text = word?.word?.level ?: "", style = TextStyle(
+                            fontSize = 11.sp,
+                            color = Color.White,
+                        )
                     )
-                )
+                }
                 Spacer(modifier = Modifier.width(8.dp))
                 val phoneticText = word?.word?.phonetic?.takeIf { it.isNotBlank() }
                     ?: word?.phonetics?.firstOrNull { it.text.isNullOrBlank().not() }?.text
@@ -157,7 +175,7 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
             Box(
                 modifier = Modifier
                     .padding(top = 16.dp)
-                    .height(260.dp)
+                    .height(300.dp)
                     .fillMaxWidth()
             ) {
                 val bottomFade = Brush.verticalGradient(
@@ -189,10 +207,15 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                                         color = Color.White, shape = RoundedCornerShape(4.dp)
                                     )
                                     .padding(vertical = 2.dp, horizontal = 8.dp),
-                                text = m.meaning.partOfSpeech ?: "",
+                                text = (m.meaning.partOfSpeech ?: "").replaceFirstChar {
+                                    if (it.isLowerCase()) it.titlecase(
+                                        Locale.ROOT
+                                    ) else it.toString()
+                                },
                                 style = TextStyle(
                                     fontSize = 14.sp,
                                     color = Color.Black,
+                                    fontWeight = FontWeight.Bold,
                                     fontStyle = FontStyle.Italic
                                 )
                             )
@@ -206,6 +229,7 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                                     .fillMaxWidth()
                                     .padding(vertical = 12.dp, horizontal = 30.dp),
                             ) {
+                                val definition = d.definition ?: ""
                                 Text(
                                     modifier = Modifier
                                         .width(20.dp)
@@ -222,10 +246,15 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                                 Spacer(modifier = Modifier.width(8.dp))
                                 Text(
                                     modifier = Modifier
-                                        .fillMaxWidth(),
-                                    text = d.definition ?: "",
+                                        .fillMaxWidth()
+                                        .clickable {
+                                            val clipData =
+                                                ClipData.newPlainText(definition, definition)
+                                            scope.launch { clipboardManager.setClipEntry(clipData.toClipEntry()) }
+                                        },
+                                    text = definition,
                                     style = TextStyle(
-                                        fontSize = 16.sp,
+                                        fontSize = 15.sp,
                                         color = Color.White,
                                         fontWeight = FontWeight.Bold
                                     )
