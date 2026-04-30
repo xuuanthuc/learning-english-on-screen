@@ -2,4 +2,7 @@
 <resources>
 
     <style name="Theme.Learning" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Learning.WordActivity" parent="Theme.Learning">
+        <item name="android:windowBackground">@color/bg_dark_purple</item>
+    </style>
 </resources>

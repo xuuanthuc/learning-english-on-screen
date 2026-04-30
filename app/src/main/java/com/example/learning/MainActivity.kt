@@ -9,12 +9,16 @@ import androidx.activity.enableEdgeToEdge
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import android.content.Intent
 import android.provider.Settings
-import android.util.Log
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
 import androidx.room.Room
 import com.example.learning.models.AppDatabase
@@ -23,6 +27,7 @@ import com.example.learning.models.MeaningEntity
 import com.example.learning.models.PhoneticEntity
 import com.example.learning.models.WordData
 import com.example.learning.models.WordEntity
+import com.example.learning.viewmodels.WordViewModel
 import com.google.gson.Gson
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -41,13 +46,18 @@ class MainActivity : ComponentActivity() {
         setContent {
             val context = LocalContext.current
             MaterialTheme {
+                val viewModel = remember {
+                    WordViewModel(db.wordDao())
+                }
                 Column(
                     modifier = Modifier.fillMaxSize(),
                     horizontalAlignment = Alignment.CenterHorizontally,
                     verticalArrangement = Arrangement.Center
                 ) {
+                    WordsCount(viewModel)
+
                     Button(onClick = { importWordsFromJson(context) }) {
-                        Text("Build database")
+                        Text("Update database")
                     }
 
                     Button(onClick = { startScreenService() }) {
@@ -56,6 +66,13 @@ class MainActivity : ComponentActivity() {
 
                     Button(onClick = { stopScreenService() }) {
                         Text("Tắt tính năng hiển thị khi mở khóa")
+                    }
+
+                    Button(onClick = {
+                        val intent = Intent(context, AlarmOverlayActivity::class.java)
+                        context.startActivity(intent)
+                    }) {
+                        Text("Mở màn hình test")
                     }
                 }
             }
@@ -137,7 +154,6 @@ class MainActivity : ComponentActivity() {
             }
         }
         if (!Settings.canDrawOverlays(this)) {
-            // Nếu chưa, mở màn hình Cài đặt để họ cấp quyền
             val intent = Intent(
                 Settings.ACTION_MANAGE_OVERLAY_PERMISSION, "package:$packageName".toUri()
             )
@@ -145,7 +161,6 @@ class MainActivity : ComponentActivity() {
             return
         }
 
-        // 2. Nếu đã có quyền, khởi chạy Foreground Service
         val serviceIntent = Intent(this, ScreenReceiverService::class.java)
         startForegroundService(serviceIntent)
     }
@@ -154,4 +169,25 @@ class MainActivity : ComponentActivity() {
         val serviceIntent = Intent(this, ScreenReceiverService::class.java)
         stopService(serviceIntent) // Lệnh này sẽ kích hoạt onDestroy() trong Service
     }
+}
+
+@Composable
+fun WordsCount(viewModel: WordViewModel) {
+    val countB1 by viewModel.countB1.collectAsState()
+    val countB2 by viewModel.countB2.collectAsState()
+    val countC1 by viewModel.countC1.collectAsState()
+    val countC2 by viewModel.countC2.collectAsState()
+    val learnedCount by viewModel.learnedCount.collectAsState()
+
+    Column(
+        modifier = Modifier.fillMaxWidth(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(text = "Total B1 Words: $countB1")
+        Text(text = "Total B2 words: $countB2")
+        Text(text = "Total C1 words: $countC1")
+        Text(text = "Total C2 words: $countC2")
+        Text(text = "Total words learned: $learnedCount")
+    }
+    Spacer(modifier = Modifier.height(16.dp))
 }

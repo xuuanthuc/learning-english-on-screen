@@ -38,7 +38,7 @@
             android:showWhenLocked="true"
             android:turnScreenOn="true"
             android:launchMode="singleInstance"
-            android:theme="@style/Theme.Learning"
+            android:theme="@style/Theme.Learning.WordActivity"
             tools:targetApi="27" />
     </application>
 
