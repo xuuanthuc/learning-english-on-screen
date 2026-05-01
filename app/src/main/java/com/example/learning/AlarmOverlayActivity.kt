@@ -277,7 +277,7 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
             CircleSwipeToDismiss(onDismiss = onDismiss)
             Row(
                 modifier = Modifier
-                    .padding(horizontal = 30.dp, vertical = 50.dp)
+                    .padding(horizontal = 30.dp, vertical = 30.dp)
                     .height(45.dp)
                     .border(width = 1.dp, color = Color.White, shape = RoundedCornerShape(12.dp))
             ) {
