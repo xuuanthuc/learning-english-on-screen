@@ -1,17 +1,20 @@
 package com.example.learning.viewmodels
 
+import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.learning.models.LearningProgressEntity
 import com.example.learning.models.WordDao
 import com.example.learning.models.WordEntity
 import com.example.learning.models.WordFull
+import com.example.learning.tools.SettingsRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.launch
 
-class WordViewModel(private val dao: WordDao) : ViewModel() {
+class WordViewModel(private val dao: WordDao,private val repo: SettingsRepository) : ViewModel() {
     val countB1 = dao.observeWordCount("B1")
         .stateIn(
             scope = viewModelScope,
@@ -48,12 +51,34 @@ class WordViewModel(private val dao: WordDao) : ViewModel() {
         )
 
     val currentWord = MutableStateFlow<WordFull?>(null)
+    val historyFlow = dao.getHistory()
+    val levelsFlow = repo.levelsFlow
+    val repeatEnabled = repo.repeatEnabledFlow
+
     suspend fun getNextWord() {
-        val w = dao.getNextWord(System.currentTimeMillis())
+        var levels = repo.levelsFlow.first()
+        Log.d("SEE DATA", "$levels")
+        if (levels.isEmpty()) {
+            repo.saveLevels(listOf("B1","B2","C1","C2"))
+            levels = listOf("B1","B2","C1","C2")
+        }
+
+        val w = dao.getNextWord(System.currentTimeMillis(), levels)
         val f = dao.getNextWordFull(w?.word ?: "")
         currentWord.value = f
     }
 
+    fun updateLevels(levels: List<String>) {
+        viewModelScope.launch {
+            repo.saveLevels(levels)
+        }
+    }
+
+    fun updateRepeat(enabled: Boolean) {
+        viewModelScope.launch {
+            repo.setRepeatEnabled(enabled)
+        }
+    }
     fun saveCurrentWordStatus(word: WordFull) {
         viewModelScope.launch {
             dao.insertProgress(
@@ -87,6 +112,23 @@ class WordViewModel(private val dao: WordDao) : ViewModel() {
                 lastSeen = System.currentTimeMillis(),
                 nextShowTime = null
             )
+        }
+    }
+
+    fun updateHistoryStatus(word: String, status: Int, time: Long?) {
+        viewModelScope.launch {
+            dao.updateLearningProgressStatus(
+                word = word,
+                status = status,
+                lastSeen = System.currentTimeMillis(),
+                nextShowTime = time
+            )
+        }
+    }
+
+    fun deleteFromHistory(word: String) {
+        viewModelScope.launch {
+            dao.deleteProgress(word)
         }
     }
 }

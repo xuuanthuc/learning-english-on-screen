@@ -14,7 +14,6 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.*
@@ -23,7 +22,6 @@ import androidx.room.Room
 import com.example.learning.models.AppDatabase
 import com.example.learning.viewmodels.WordViewModel
 import androidx.compose.animation.core.Animatable
-import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.Orientation
@@ -41,7 +39,6 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
-import androidx.compose.material3.ButtonColors
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.draw.drawWithContent
@@ -52,16 +49,12 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.CompositingStrategy
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.graphicsLayer
-import androidx.compose.ui.platform.ClipEntry
 import androidx.compose.ui.platform.LocalClipboard
-import androidx.compose.ui.platform.LocalClipboardManager
-import androidx.compose.ui.text.AnnotatedString
-import androidx.compose.ui.text.capitalize
 import androidx.compose.ui.text.style.TextAlign
 import java.util.Locale
 import kotlin.math.abs
-import androidx.compose.ui.platform.LocalClipboardManager
 import androidx.compose.ui.platform.toClipEntry
+import com.example.learning.tools.SettingsRepository
 
 class AlarmOverlayActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -75,16 +68,14 @@ class AlarmOverlayActivity : ComponentActivity() {
                 WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED or WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON
             )
         }
-
+        val repo = SettingsRepository(applicationContext)
+        val db = Room.databaseBuilder(
+            applicationContext, AppDatabase::class.java, "word-db"
+        ).fallbackToDestructiveMigration(true).build()
         setContent {
-            val context = LocalContext.current
-            val db = Room.databaseBuilder(
-                context, AppDatabase::class.java, "word-db"
-            ).fallbackToDestructiveMigration(true).build()
             val viewModel = remember {
-                WordViewModel(db.wordDao())
+                WordViewModel(db.wordDao(), repo)
             }
-
             MyOverlayScreen(viewModel = viewModel, onDismiss = { finish() })
         }
     }

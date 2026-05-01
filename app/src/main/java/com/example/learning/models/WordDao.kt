@@ -13,6 +13,9 @@ interface WordDao {
     @Query("SELECT * FROM words")
     suspend fun getAllWords(): List<WordFull>
 
+    @Query("SELECT * FROM learning_progress")
+    fun getHistory(): Flow<List<LearningProgressEntity>>
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertWord(word: WordEntity)
 
@@ -42,9 +45,11 @@ interface WordDao {
         SELECT w.* FROM words w
     LEFT JOIN learning_progress p ON w.word = p.word
     WHERE 
-        p.word IS NULL
-        OR (p.status = 3 AND p.nextShowTime <= :now)
-
+        (
+            p.word IS NULL
+            OR (p.status = 3 AND p.nextShowTime <= :now)
+        )
+        AND w.level IN (:levels)
     ORDER BY 
         CASE 
             WHEN p.status = 3 THEN 0
@@ -54,7 +59,7 @@ interface WordDao {
     LIMIT 1
     """
     )
-    suspend fun getNextWord(now: Long): WordEntity?
+    suspend fun getNextWord(now: Long,levels: List<String>): WordEntity?
 
     @Transaction
     @Query("SELECT * FROM words WHERE word = :word LIMIT 1")
@@ -73,4 +78,7 @@ interface WordDao {
         lastSeen: Long,
         nextShowTime: Long?
     )
+
+    @Query("DELETE FROM learning_progress WHERE word = :word")
+    suspend fun deleteProgress(word: String)
 }
