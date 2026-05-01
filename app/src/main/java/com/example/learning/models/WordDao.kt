@@ -81,4 +81,7 @@ interface WordDao {
 
     @Query("DELETE FROM learning_progress WHERE word = :word")
     suspend fun deleteProgress(word: String)
+
+    @Query("DELETE FROM learning_progress")
+    suspend fun resetAll()
 }

@@ -131,4 +131,10 @@ class WordViewModel(private val dao: WordDao,private val repo: SettingsRepositor
             dao.deleteProgress(word)
         }
     }
+
+    fun resetAllHistory() {
+        viewModelScope.launch {
+            dao.resetAll()
+        }
+    }
 }
