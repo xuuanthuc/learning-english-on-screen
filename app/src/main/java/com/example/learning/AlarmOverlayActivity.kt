@@ -296,7 +296,10 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                         .height(45.dp)
                 ) {
                     Text(
-                        text = "Never show again"
+                        text = "Never show again",
+                        style = TextStyle(
+                            fontSize = 10.sp
+                        )
                     )
                 }
                 Box(
@@ -320,7 +323,10 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                         .height(45.dp)
                 ) {
                     Text(
-                        text = "Prioritize re-display"
+                        text = "Prioritize re-display",
+                        style = TextStyle(
+                            fontSize = 10.sp
+                        )
                     )
                 }
             }
@@ -334,8 +340,8 @@ fun CircleSwipeToDismiss(
     onDismiss: () -> Unit, modifier: Modifier = Modifier
 ) {
     val scope = rememberCoroutineScope()
-    val size = 140.dp
-    val knobSize = 84.dp
+    val size = 120.dp
+    val knobSize = 74.dp
     val density = LocalDensity.current
     val radiusPx = with(density) { (size / 2 - knobSize / 2).toPx() }
     val offsetX = remember { Animatable(0f) }
