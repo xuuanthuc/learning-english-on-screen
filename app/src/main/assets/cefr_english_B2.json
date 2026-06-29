@@ -69200,5 +69200,2402 @@
         "vietnamese": "vùng"
       }
     ]
+  },
+  {
+    "word": "abolish",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially end a law, system, or practice.",
+            "example": "The government voted to abolish the outdated law."
+          }
+        ],
+        "vietnamese": "bãi bỏ"
+      }
+    ]
+  },
+  {
+    "word": "abortion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The deliberate ending of a pregnancy.",
+            "example": "The debate about abortion rights continued for hours."
+          }
+        ],
+        "vietnamese": "phá thai"
+      }
+    ]
+  },
+  {
+    "word": "absence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The fact of not being present in a place or situation.",
+            "example": "Her absence from the meeting was noticed immediately."
+          }
+        ],
+        "vietnamese": "sự vắng mặt"
+      }
+    ]
+  },
+  {
+    "word": "abuse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Cruel, violent, or unfair treatment of a person or animal.",
+            "example": "The charity supports victims of domestic abuse."
+          }
+        ],
+        "vietnamese": "sự lạm dụng"
+      }
+    ]
+  },
+  {
+    "word": "academy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A school or organization for special training in a particular subject or skill.",
+            "example": "He studied at a military academy."
+          }
+        ],
+        "vietnamese": "học viện"
+      }
+    ]
+  },
+  {
+    "word": "accessory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An additional item that is useful or attractive but not essential.",
+            "example": "The phone comes with several accessories."
+          }
+        ],
+        "vietnamese": "phụ kiện"
+      }
+    ]
+  },
+  {
+    "word": "accommodate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To provide someone with a place to stay, or to have enough room for something.",
+            "example": "The hotel can accommodate up to 300 guests."
+          }
+        ],
+        "vietnamese": "chứa; cung cấp chỗ ở"
+      }
+    ]
+  },
+  {
+    "word": "accuse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To say that someone has done something wrong or illegal.",
+            "example": "He was accused of stealing company data."
+          }
+        ],
+        "vietnamese": "buộc tội"
+      }
+    ]
+  },
+  {
+    "word": "acid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A chemical substance, often with a sharp taste, that can react strongly with other substances.",
+            "example": "The liquid contains a weak acid used in cleaning products."
+          }
+        ],
+        "vietnamese": "axit"
+      }
+    ]
+  },
+  {
+    "word": "acquisition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of getting something, or something that has been obtained.",
+            "example": "The company announced the acquisition of a smaller rival."
+          }
+        ],
+        "vietnamese": "sự mua lại; sự đạt được"
+      }
+    ]
+  },
+  {
+    "word": "adaptation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A change made to suit different conditions, or a version changed for a new use.",
+            "example": "The film is an adaptation of a famous novel."
+          }
+        ],
+        "vietnamese": "sự thích nghi; bản chuyển thể"
+      }
+    ]
+  },
+  {
+    "word": "adequate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Enough in quantity or good enough in quality for a particular purpose.",
+            "example": "The emergency supplies were adequate for a few days."
+          }
+        ],
+        "vietnamese": "đầy đủ"
+      }
+    ]
+  },
+  {
+    "word": "adjustment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A small change made to improve something or make it more suitable.",
+            "example": "A slight adjustment to the chair made it more comfortable."
+          }
+        ],
+        "vietnamese": "sự điều chỉnh"
+      }
+    ]
+  },
+  {
+    "word": "admiration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A feeling of respect and approval.",
+            "example": "I have great admiration for her determination."
+          }
+        ],
+        "vietnamese": "sự ngưỡng mộ"
+      }
+    ]
+  },
+  {
+    "word": "adolescent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A young person who is developing from a child into an adult.",
+            "example": "Many adolescents feel pressure from social media."
+          }
+        ],
+        "vietnamese": "thanh thiếu niên"
+      }
+    ]
+  },
+  {
+    "word": "adoption",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of taking another person’s child legally into your family, or the act of starting to use something.",
+            "example": "The adoption of new technology has changed the industry."
+          }
+        ],
+        "vietnamese": "sự nhận nuôi; sự áp dụng"
+      }
+    ]
+  },
+  {
+    "word": "adverse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Unfavorable or harmful.",
+            "example": "The project was delayed by adverse weather conditions."
+          }
+        ],
+        "vietnamese": "bất lợi"
+      }
+    ]
+  },
+  {
+    "word": "advocate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To publicly support or recommend something.",
+            "example": "Many scientists advocate stricter environmental laws."
+          }
+        ],
+        "vietnamese": "ủng hộ"
+      }
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with beauty or the study of beauty.",
+            "example": "The building was designed for both practical and aesthetic reasons."
+          }
+        ],
+        "vietnamese": "thuộc thẩm mỹ"
+      }
+    ]
+  },
+  {
+    "word": "affection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A gentle feeling of love or liking.",
+            "example": "Children need affection as well as discipline."
+          }
+        ],
+        "vietnamese": "tình cảm"
+      }
+    ]
+  },
+  {
+    "word": "agricultural",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to farming or the growing of crops and animals.",
+            "example": "The region depends heavily on agricultural exports."
+          }
+        ],
+        "vietnamese": "thuộc nông nghiệp"
+      }
+    ]
+  },
+  {
+    "word": "aid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Help, support, or money given to a person, country, or organization.",
+            "example": "Emergency aid arrived after the earthquake."
+          }
+        ],
+        "vietnamese": "viện trợ; sự giúp đỡ"
+      }
+    ]
+  },
+  {
+    "word": "aircraft",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Any vehicle designed for travel through the air.",
+            "example": "Several aircraft were delayed by the storm."
+          }
+        ],
+        "vietnamese": "máy bay"
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Belonging to a foreign country or culture; strange and unfamiliar.",
+            "example": "The customs felt completely alien to her."
+          }
+        ],
+        "vietnamese": "xa lạ; thuộc nước ngoài"
+      }
+    ]
+  },
+  {
+    "word": "alignment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way in which things are arranged in relation to one another.",
+            "example": "The mechanic checked the alignment of the wheels."
+          }
+        ],
+        "vietnamese": "sự sắp thẳng hàng"
+      }
+    ]
+  },
+  {
+    "word": "allegation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A statement saying that someone has done something wrong, without proof yet.",
+            "example": "The company denied the allegations of corruption."
+          }
+        ],
+        "vietnamese": "lời cáo buộc"
+      }
+    ]
+  },
+  {
+    "word": "allocate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially give something to someone for a particular purpose.",
+            "example": "The budget was allocated to healthcare and education."
+          }
+        ],
+        "vietnamese": "phân bổ"
+      }
+    ]
+  },
+  {
+    "word": "allowance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An amount of money given regularly for a particular purpose.",
+            "example": "Employees receive a travel allowance each month."
+          }
+        ],
+        "vietnamese": "trợ cấp"
+      }
+    ]
+  },
+  {
+    "word": "alongside",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "Next to or together with someone or something.",
+            "example": "She worked alongside experienced engineers."
+          }
+        ],
+        "vietnamese": "bên cạnh"
+      }
+    ]
+  },
+  {
+    "word": "altogether",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Completely; in total.",
+            "example": "The plan was rejected altogether."
+          }
+        ],
+        "vietnamese": "hoàn toàn; tổng cộng"
+      }
+    ]
+  },
+  {
+    "word": "amateur",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who does an activity for pleasure rather than as a job.",
+            "example": "The competition was open to both amateurs and professionals."
+          }
+        ],
+        "vietnamese": "người nghiệp dư"
+      }
+    ]
+  },
+  {
+    "word": "amendment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A change made to a law, document, or statement in order to improve it.",
+            "example": "They proposed an amendment to the contract."
+          }
+        ],
+        "vietnamese": "sự sửa đổi"
+      }
+    ]
+  },
+  {
+    "word": "analogy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A comparison between two things that helps explain one of them.",
+            "example": "The teacher used an analogy to explain the concept."
+          }
+        ],
+        "vietnamese": "phép so sánh tương đồng"
+      }
+    ]
+  },
+  {
+    "word": "anchor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A heavy object used to keep a boat in one place.",
+            "example": "The sailors dropped the anchor near the shore."
+          }
+        ],
+        "vietnamese": "mỏ neo"
+      }
+    ]
+  },
+  {
+    "word": "animation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the technique of making drawings or models appear to move in a film or video.",
+            "example": "The studio is famous for its animation films."
+          }
+        ],
+        "vietnamese": "hoạt hình"
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To expect something and prepare for it in advance.",
+            "example": "We anticipate heavy traffic during the holiday weekend."
+          }
+        ],
+        "vietnamese": "dự đoán trước"
+      }
+    ]
+  },
+  {
+    "word": "apology",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Words or actions expressing regret for something wrong or hurtful.",
+            "example": "He offered a sincere apology for the mistake."
+          }
+        ],
+        "vietnamese": "lời xin lỗi"
+      }
+    ]
+  },
+  {
+    "word": "apparatus",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The equipment or tools needed for a particular purpose.",
+            "example": "The laboratory apparatus must be cleaned after use."
+          }
+        ],
+        "vietnamese": "thiết bị"
+      }
+    ]
+  },
+  {
+    "word": "applicant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who formally requests something, especially a job or place at a school.",
+            "example": "Each applicant was interviewed for thirty minutes."
+          }
+        ],
+        "vietnamese": "người nộp đơn"
+      }
+    ]
+  },
+  {
+    "word": "appreciation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Recognition of the good qualities or value of someone or something.",
+            "example": "She showed her appreciation by writing a thank-you note."
+          }
+        ],
+        "vietnamese": "sự đánh giá cao"
+      }
+    ]
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Based on personal choice rather than reason or a system.",
+            "example": "The decision seemed arbitrary and unfair."
+          }
+        ],
+        "vietnamese": "tùy ý"
+      }
+    ]
+  },
+  {
+    "word": "architectural",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to the design and style of buildings.",
+            "example": "The city is known for its architectural heritage."
+          }
+        ],
+        "vietnamese": "thuộc kiến trúc"
+      }
+    ]
+  },
+  {
+    "word": "archive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A collection of historical records or documents.",
+            "example": "The photographs were stored in a digital archive."
+          }
+        ],
+        "vietnamese": "kho lưu trữ"
+      }
+    ]
+  },
+  {
+    "word": "arena",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large building for sports, concerts, or other public events.",
+            "example": "Thousands of fans filled the arena."
+          }
+        ],
+        "vietnamese": "đấu trường; nhà thi đấu"
+      }
+    ]
+  },
+  {
+    "word": "armed",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Carrying weapons.",
+            "example": "Armed guards protected the entrance."
+          }
+        ],
+        "vietnamese": "có vũ trang"
+      }
+    ]
+  },
+  {
+    "word": "array",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large group or arrangement of things.",
+            "example": "The store displayed an array of local products."
+          }
+        ],
+        "vietnamese": "mảng; sự sắp xếp"
+      }
+    ]
+  },
+  {
+    "word": "arrow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A thin pointed weapon shot from a bow, or a symbol showing direction.",
+            "example": "A red arrow pointed toward the exit."
+          }
+        ],
+        "vietnamese": "mũi tên"
+      }
+    ]
+  },
+  {
+    "word": "artwork",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Paintings, drawings, and other artistic creations.",
+            "example": "The gallery displayed modern artwork from young artists."
+          }
+        ],
+        "vietnamese": "tác phẩm nghệ thuật"
+      }
+    ]
+  },
+  {
+    "word": "ash",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The grey powder left after something has burned.",
+            "example": "Ash covered the ground after the fire."
+          }
+        ],
+        "vietnamese": "tro"
+      }
+    ]
+  },
+  {
+    "word": "aspiration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong hope or ambition to achieve something.",
+            "example": "Her aspiration is to become a surgeon."
+          }
+        ],
+        "vietnamese": "khát vọng"
+      }
+    ]
+  },
+  {
+    "word": "assassination",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The murder of an important person for political or religious reasons.",
+            "example": "The assassination shocked the entire country."
+          }
+        ],
+        "vietnamese": "vụ ám sát"
+      }
+    ]
+  },
+  {
+    "word": "assault",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A violent physical attack.",
+            "example": "He was charged with assault after the fight."
+          }
+        ],
+        "vietnamese": "vụ tấn công"
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To bring people or things together in one place.",
+            "example": "The children were asked to assemble in the hall."
+          }
+        ],
+        "vietnamese": "tập hợp; lắp ráp"
+      }
+    ]
+  },
+  {
+    "word": "assert",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To state something confidently and firmly.",
+            "example": "She asserted that the data was accurate."
+          }
+        ],
+        "vietnamese": "khẳng định"
+      }
+    ]
+  },
+  {
+    "word": "assess",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To judge or calculate the nature, quality, or value of something.",
+            "example": "Teachers assess students throughout the course."
+          }
+        ],
+        "vietnamese": "đánh giá"
+      }
+    ]
+  },
+  {
+    "word": "asset",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something valuable or useful.",
+            "example": "Her language skills are a major asset to the team."
+          }
+        ],
+        "vietnamese": "tài sản"
+      }
+    ]
+  },
+  {
+    "word": "assign",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give someone a particular task or responsibility.",
+            "example": "Each student was assigned a research topic."
+          }
+        ],
+        "vietnamese": "giao phó"
+      }
+    ]
+  },
+  {
+    "word": "assistance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Help or support.",
+            "example": "Thank you for your assistance with the report."
+          }
+        ],
+        "vietnamese": "sự hỗ trợ"
+      }
+    ]
+  },
+  {
+    "word": "assumption",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that you accept as true without complete proof.",
+            "example": "Their plan was based on the assumption that sales would rise."
+          }
+        ],
+        "vietnamese": "giả định"
+      }
+    ]
+  },
+  {
+    "word": "assurance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A statement intended to make someone feel confident or certain.",
+            "example": "He gave us assurance that the work would be finished on time."
+          }
+        ],
+        "vietnamese": "sự cam đoan"
+      }
+    ]
+  },
+  {
+    "word": "astonishing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very surprising or impressive.",
+            "example": "The athlete made an astonishing recovery."
+          }
+        ],
+        "vietnamese": "đáng kinh ngạc"
+      }
+    ]
+  },
+  {
+    "word": "attachment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A feeling of affection, or a file sent with an email.",
+            "example": "Please open the attachment before the meeting."
+          }
+        ],
+        "vietnamese": "tệp đính kèm; sự gắn bó"
+      }
+    ]
+  },
+  {
+    "word": "attain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To succeed in achieving something, especially after effort.",
+            "example": "Few players attain that level of skill."
+          }
+        ],
+        "vietnamese": "đạt được"
+      }
+    ]
+  },
+  {
+    "word": "attendance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The number of people present at an event, or the act of being present.",
+            "example": "Attendance at the lecture was higher than expected."
+          }
+        ],
+        "vietnamese": "sự tham dự"
+      }
+    ]
+  },
+  {
+    "word": "attorney",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A lawyer.",
+            "example": "She spoke with her attorney before signing the agreement."
+          }
+        ],
+        "vietnamese": "luật sư"
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To say or believe that something is caused by a particular person or thing.",
+            "example": "She attributes her success to hard work."
+          }
+        ],
+        "vietnamese": "quy cho"
+      }
+    ]
+  },
+  {
+    "word": "auction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A public sale in which goods are sold to the person who offers the most money.",
+            "example": "The painting was sold at auction for a record price."
+          }
+        ],
+        "vietnamese": "cuộc đấu giá"
+      }
+    ]
+  },
+  {
+    "word": "audit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official examination of accounts or systems.",
+            "example": "The company ordered an independent audit."
+          }
+        ],
+        "vietnamese": "kiểm toán"
+      }
+    ]
+  },
+  {
+    "word": "authentic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Real and genuine, not false or copied.",
+            "example": "The restaurant serves authentic Thai food."
+          }
+        ],
+        "vietnamese": "chính gốc"
+      }
+    ]
+  },
+  {
+    "word": "authorize",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give official permission for something.",
+            "example": "Only managers can authorize refunds."
+          }
+        ],
+        "vietnamese": "ủy quyền"
+      }
+    ]
+  },
+  {
+    "word": "autonomy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to govern or control yourself.",
+            "example": "The region demanded greater political autonomy."
+          }
+        ],
+        "vietnamese": "quyền tự trị"
+      }
+    ]
+  },
+  {
+    "word": "await",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To wait for something to happen.",
+            "example": "Several important decisions still await the committee."
+          }
+        ],
+        "vietnamese": "chờ đợi"
+      }
+    ]
+  },
+  {
+    "word": "backing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Support, especially financial or political support.",
+            "example": "The project received strong backing from investors."
+          }
+        ],
+        "vietnamese": "sự ủng hộ"
+      }
+    ]
+  },
+  {
+    "word": "bail",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Money paid to a court so that someone can be released while waiting for trial.",
+            "example": "The judge set bail at a high amount."
+          }
+        ],
+        "vietnamese": "tiền bảo lãnh"
+      }
+    ]
+  },
+  {
+    "word": "ballot",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A system or paper used for voting secretly.",
+            "example": "Voters cast their ballots early in the day."
+          }
+        ],
+        "vietnamese": "lá phiếu"
+      }
+    ]
+  },
+  {
+    "word": "bankruptcy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being unable to pay your debts.",
+            "example": "The company filed for bankruptcy after years of losses."
+          }
+        ],
+        "vietnamese": "phá sản"
+      }
+    ]
+  },
+  {
+    "word": "banner",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A long piece of cloth or material with words or signs on it.",
+            "example": "Protesters carried a banner through the street."
+          }
+        ],
+        "vietnamese": "biểu ngữ"
+      }
+    ]
+  },
+  {
+    "word": "baseline",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A starting point used for comparison.",
+            "example": "We need a baseline before measuring improvement."
+          }
+        ],
+        "vietnamese": "mức cơ sở"
+      }
+    ]
+  },
+  {
+    "word": "beam",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A line or narrow flow of light, energy, or sound.",
+            "example": "A beam of sunlight came through the window."
+          }
+        ],
+        "vietnamese": "tia sáng"
+      }
+    ]
+  },
+  {
+    "word": "beast",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large or dangerous animal.",
+            "example": "The story describes a terrifying beast in the forest."
+          }
+        ],
+        "vietnamese": "thú dữ"
+      }
+    ]
+  },
+  {
+    "word": "behalf",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Interest, support, or representation of another person.",
+            "example": "She accepted the award on behalf of her team."
+          }
+        ],
+        "vietnamese": "thay mặt"
+      }
+    ]
+  },
+  {
+    "word": "beloved",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Loved very much.",
+            "example": "The town lost one of its most beloved teachers."
+          }
+        ],
+        "vietnamese": "yêu quý"
+      }
+    ]
+  },
+  {
+    "word": "beneficial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Producing good results or helping someone or something.",
+            "example": "Regular exercise is beneficial to mental health."
+          }
+        ],
+        "vietnamese": "có lợi"
+      }
+    ]
+  },
+  {
+    "word": "bias",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An unfair tendency to support one side or opinion.",
+            "example": "The report showed a clear bias against small businesses."
+          }
+        ],
+        "vietnamese": "sự thiên vị"
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An offer to pay a particular price for something.",
+            "example": "Several companies made a bid for the contract."
+          }
+        ],
+        "vietnamese": "giá chào; sự đấu thầu"
+      }
+    ]
+  },
+  {
+    "word": "biography",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A book or article about a person’s life, written by someone else.",
+            "example": "I’m reading a biography of Marie Curie."
+          }
+        ],
+        "vietnamese": "tiểu sử"
+      }
+    ]
+  },
+  {
+    "word": "bishop",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A senior priest in some Christian churches.",
+            "example": "The bishop visited several local schools."
+          }
+        ],
+        "vietnamese": "giám mục"
+      }
+    ]
+  },
+  {
+    "word": "bizarre",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very strange or unusual.",
+            "example": "They told us a bizarre story about the house."
+          }
+        ],
+        "vietnamese": "kỳ lạ"
+      }
+    ]
+  },
+  {
+    "word": "blade",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The flat cutting part of a knife, tool, or machine.",
+            "example": "Be careful, the blade is extremely sharp."
+          }
+        ],
+        "vietnamese": "lưỡi dao"
+      }
+    ]
+  },
+  {
+    "word": "blast",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An explosion or a sudden strong movement of air.",
+            "example": "The blast damaged nearby buildings."
+          }
+        ],
+        "vietnamese": "vụ nổ"
+      }
+    ]
+  },
+  {
+    "word": "blessing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that brings happiness or benefit.",
+            "example": "Good health is a blessing that many people take for granted."
+          }
+        ],
+        "vietnamese": "phúc lành"
+      }
+    ]
+  },
+  {
+    "word": "blend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To mix different substances or qualities together.",
+            "example": "Blend the fruit with yogurt until smooth."
+          }
+        ],
+        "vietnamese": "trộn lẫn"
+      }
+    ]
+  },
+  {
+    "word": "boost",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To increase or improve something.",
+            "example": "The campaign helped boost ticket sales."
+          }
+        ],
+        "vietnamese": "thúc đẩy; tăng cường"
+      }
+    ]
+  },
+  {
+    "word": "boundary",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A real or imagined line that marks the limits of an area.",
+            "example": "The fence marks the boundary between the two farms."
+          }
+        ],
+        "vietnamese": "ranh giới"
+      }
+    ]
+  },
+  {
+    "word": "breach",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An act of breaking a law, agreement, or security system.",
+            "example": "The company reported a breach of customer data."
+          }
+        ],
+        "vietnamese": "sự vi phạm"
+      }
+    ]
+  },
+  {
+    "word": "breakdown",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A failure in a system or relationship, or a moment when someone loses control emotionally.",
+            "example": "Poor communication caused a breakdown in trust."
+          }
+        ],
+        "vietnamese": "sự đổ vỡ; hỏng hóc"
+      }
+    ]
+  },
+  {
+    "word": "breed",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To keep animals for producing young, or to cause a particular result.",
+            "example": "Some farmers breed horses for racing."
+          }
+        ],
+        "vietnamese": "nuôi sinh sản"
+      }
+    ]
+  },
+  {
+    "word": "briefing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A short meeting or report that gives important information.",
+            "example": "The team attended a safety briefing before the trip."
+          }
+        ],
+        "vietnamese": "cuộc phổ biến thông tin"
+      }
+    ]
+  },
+  {
+    "word": "broadcaster",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or organization that sends out television or radio programs.",
+            "example": "The broadcaster apologized for the technical error."
+          }
+        ],
+        "vietnamese": "đài phát sóng"
+      }
+    ]
+  },
+  {
+    "word": "broker",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who arranges business agreements or buys and sells for others.",
+            "example": "She works as an insurance broker."
+          }
+        ],
+        "vietnamese": "người môi giới"
+      }
+    ]
+  },
+  {
+    "word": "burden",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A heavy load or responsibility that causes difficulty.",
+            "example": "Rising prices place a burden on low-income families."
+          }
+        ],
+        "vietnamese": "gánh nặng"
+      }
+    ]
+  },
+  {
+    "word": "bureau",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An office or organization that collects information or performs a service.",
+            "example": "The tourism bureau published a new travel guide."
+          }
+        ],
+        "vietnamese": "cục; văn phòng"
+      }
+    ]
+  },
+  {
+    "word": "burial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of putting a dead body into the ground.",
+            "example": "The burial took place the following morning."
+          }
+        ],
+        "vietnamese": "sự chôn cất"
+      }
+    ]
+  },
+  {
+    "word": "cabinet",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A group of senior government ministers, or a piece of furniture with doors and shelves.",
+            "example": "The president met with the cabinet to discuss policy."
+          }
+        ],
+        "vietnamese": "nội các; tủ"
+      }
+    ]
+  },
+  {
+    "word": "calculation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of using numbers to find an amount or answer.",
+            "example": "By my calculation, we will arrive before noon."
+          }
+        ],
+        "vietnamese": "phép tính"
+      }
+    ]
+  },
+  {
+    "word": "canvas",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong cloth used for making sails, tents, or for painting on.",
+            "example": "The artist stretched a blank canvas on the frame."
+          }
+        ],
+        "vietnamese": "vải bạt; toan vẽ"
+      }
+    ]
+  },
+  {
+    "word": "capability",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability or qualities necessary to do something.",
+            "example": "The software has the capability to analyze large data sets."
+          }
+        ],
+        "vietnamese": "năng lực"
+      }
+    ]
+  },
+  {
+    "word": "capitalism",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An economic system in which businesses and property are mainly privately owned.",
+            "example": "The lecture examined the history of capitalism."
+          }
+        ],
+        "vietnamese": "chủ nghĩa tư bản"
+      }
+    ]
+  },
+  {
+    "word": "capture",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To catch a person or animal, or to record something such as an image or feeling.",
+            "example": "The camera captured the beauty of the landscape."
+          }
+        ],
+        "vietnamese": "bắt giữ; ghi lại"
+      }
+    ]
+  },
+  {
+    "word": "carriage",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A vehicle with wheels pulled by horses, or one of the separate parts of a train.",
+            "example": "They rode in a horse-drawn carriage through the park."
+          }
+        ],
+        "vietnamese": "xe ngựa; toa xe"
+      }
+    ]
+  },
+  {
+    "word": "casualty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person injured or killed in an accident or war.",
+            "example": "Fortunately, there were no casualties in the fire."
+          }
+        ],
+        "vietnamese": "thương vong"
+      }
+    ]
+  },
+  {
+    "word": "catalogue",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A list of items, often with descriptions, especially of things for sale.",
+            "example": "The library’s catalogue is now fully digital."
+          }
+        ],
+        "vietnamese": "danh mục"
+      }
+    ]
+  },
+  {
+    "word": "cattle",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Large farm animals such as cows and bulls kept for meat or milk.",
+            "example": "The cattle were moved to a safer field."
+          }
+        ],
+        "vietnamese": "gia súc"
+      }
+    ]
+  },
+  {
+    "word": "cautious",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Careful to avoid danger or mistakes.",
+            "example": "Investors are cautious about the uncertain market."
+          }
+        ],
+        "vietnamese": "thận trọng"
+      }
+    ]
+  },
+  {
+    "word": "cemetery",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A place where dead people are buried.",
+            "example": "Fresh flowers had been left at the cemetery gate."
+          }
+        ],
+        "vietnamese": "nghĩa trang"
+      }
+    ]
+  },
+  {
+    "word": "certainty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being completely sure about something.",
+            "example": "There is no certainty that the plan will succeed."
+          }
+        ],
+        "vietnamese": "sự chắc chắn"
+      }
+    ]
+  },
+  {
+    "word": "certificate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official document proving that something is true or has happened.",
+            "example": "You will receive a certificate at the end of the course."
+          }
+        ],
+        "vietnamese": "chứng chỉ"
+      }
+    ]
+  },
+  {
+    "word": "chairman",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The person in charge of a meeting or organization.",
+            "example": "The chairman opened the meeting with a short speech."
+          }
+        ],
+        "vietnamese": "chủ tịch"
+      }
+    ]
+  },
+  {
+    "word": "chaos",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A state of complete confusion and lack of order.",
+            "example": "Traffic chaos followed the sudden road closure."
+          }
+        ],
+        "vietnamese": "sự hỗn loạn"
+      }
+    ]
+  },
+  {
+    "word": "circulation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Movement around a system or area, especially of blood, air, or newspapers.",
+            "example": "Exercise improves blood circulation."
+          }
+        ],
+        "vietnamese": "sự lưu thông"
+      }
+    ]
+  },
+  {
+    "word": "citizenship",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The legal right to belong to a particular country.",
+            "example": "She applied for citizenship after living there for ten years."
+          }
+        ],
+        "vietnamese": "quốc tịch"
+      }
+    ]
+  },
+  {
+    "word": "civic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with a town, city, or the duties of people in society.",
+            "example": "Volunteering is an important civic responsibility."
+          }
+        ],
+        "vietnamese": "thuộc công dân"
+      }
+    ]
+  },
+  {
+    "word": "civilian",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who is not a member of the armed forces or police.",
+            "example": "Several civilians were evacuated from the area."
+          }
+        ],
+        "vietnamese": "thường dân"
+      }
+    ]
+  },
+  {
+    "word": "clarify",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make something clearer or easier to understand.",
+            "example": "Could you clarify the final point in your report?"
+          }
+        ],
+        "vietnamese": "làm rõ"
+      }
+    ]
+  },
+  {
+    "word": "clerk",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person whose job is to keep records, deal with documents, or serve customers in a shop.",
+            "example": "The bank clerk checked my identity card."
+          }
+        ],
+        "vietnamese": "nhân viên văn phòng; thư ký"
+      }
+    ]
+  },
+  {
+    "word": "closure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of closing something, or a feeling that something has ended emotionally.",
+            "example": "The factory closure affected hundreds of workers."
+          }
+        ],
+        "vietnamese": "sự đóng cửa"
+      }
+    ]
+  },
+  {
+    "word": "cluster",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A group of similar things close together.",
+            "example": "A cluster of stars appeared above the mountain."
+          }
+        ],
+        "vietnamese": "cụm"
+      }
+    ]
+  },
+  {
+    "word": "coalition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A temporary union of different groups or parties for a common purpose.",
+            "example": "The two parties formed a coalition government."
+          }
+        ],
+        "vietnamese": "liên minh"
+      }
+    ]
+  },
+  {
+    "word": "coastal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Located on or near the coast.",
+            "example": "The storm caused damage in several coastal towns."
+          }
+        ],
+        "vietnamese": "ven biển"
+      }
+    ]
+  },
+  {
+    "word": "cocktail",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An alcoholic drink made by mixing different liquids together.",
+            "example": "She ordered a fruit cocktail without alcohol."
+          }
+        ],
+        "vietnamese": "cocktail"
+      }
+    ]
+  },
+  {
+    "word": "cognitive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with mental processes such as thinking, knowing, and remembering.",
+            "example": "Music can support cognitive development in children."
+          }
+        ],
+        "vietnamese": "thuộc nhận thức"
+      }
+    ]
+  },
+  {
+    "word": "coincidence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A situation in which two things happen at the same time by chance.",
+            "example": "It was a strange coincidence that we met on the train."
+          }
+        ],
+        "vietnamese": "sự trùng hợp"
+      }
+    ]
+  },
+  {
+    "word": "collaborate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To work together with someone to produce or achieve something.",
+            "example": "The two artists decided to collaborate on a new project."
+          }
+        ],
+        "vietnamese": "hợp tác"
+      }
+    ]
+  },
+  {
+    "word": "collision",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An accident in which two vehicles or objects hit each other.",
+            "example": "The collision blocked the highway for hours."
+          }
+        ],
+        "vietnamese": "sự va chạm"
+      }
+    ]
+  },
+  {
+    "word": "columnist",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who writes a regular article for a newspaper or website.",
+            "example": "She is a columnist for a national newspaper."
+          }
+        ],
+        "vietnamese": "người viết chuyên mục"
+      }
+    ]
+  },
+  {
+    "word": "commence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To begin.",
+            "example": "Construction will commence in early spring."
+          }
+        ],
+        "vietnamese": "bắt đầu"
+      }
+    ]
+  },
+  {
+    "word": "commentator",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who describes or gives opinions on events in the media.",
+            "example": "The commentator analyzed the election results."
+          }
+        ],
+        "vietnamese": "bình luận viên"
+      }
+    ]
+  },
+  {
+    "word": "commentary",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A spoken or written discussion giving opinions or explanations.",
+            "example": "The documentary included expert commentary."
+          }
+        ],
+        "vietnamese": "lời bình luận"
+      }
+    ]
+  },
+  {
+    "word": "commissioner",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official with responsibility in a particular area of government or organization.",
+            "example": "The police commissioner held a press conference."
+          }
+        ],
+        "vietnamese": "ủy viên"
+      }
+    ]
+  },
+  {
+    "word": "commodity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A product or raw material that can be bought and sold.",
+            "example": "Oil remains a valuable global commodity."
+          }
+        ],
+        "vietnamese": "hàng hóa"
+      }
+    ]
+  },
+  {
+    "word": "communism",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A political and economic system in which property and industry are controlled by the community or the state.",
+            "example": "The course examined the history of communism in Europe."
+          }
+        ],
+        "vietnamese": "chủ nghĩa cộng sản"
+      }
+    ]
   }
 ]
