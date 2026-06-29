@@ -20492,23 +20492,8 @@
         "partOfSpeech": "verb",
         "definitions": [
           {
-            "definition": "To make (something) better; to increase the value or productivity (of something).",
-            "example": "Buying more servers would improve performance."
-          },
-          {
-            "definition": "To become better.",
-            "example": "I have improved since taking the tablets."
-          },
-          {
-            "definition": "To disprove or make void; to refute."
-          },
-          {
-            "definition": "To disapprove of; to find fault with; to reprove; to censure.",
-            "example": "to improve negligence"
-          },
-          {
-            "definition": "To use or employ to good purpose; to turn to profitable account.",
-            "example": "to improve one's time;  to improve his means"
+            "definition": "to make something better",
+            "example": "We want to improve our English."
           }
         ],
         "vietnamese": "cải thiện"
@@ -22231,31 +22216,8 @@
         "partOfSpeech": "noun",
         "definitions": [
           {
-            "definition": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
-            "example": "This is a strange kind of tobacco."
-          },
-          {
-            "definition": "A makeshift or otherwise atypical specimen.",
-            "example": "The opening served as a kind of window."
-          },
-          {
-            "definition": "One's inherent nature; character, natural disposition."
-          },
-          {
-            "definition": "Family, lineage."
-          },
-          {
-            "definition": "Manner."
-          },
-          {
-            "definition": "Goods or services used as payment, as e.g. in barter."
-          },
-          {
-            "definition": "Equivalent means used as response to an action.",
-            "example": "I'll pay in kind for his insult."
-          },
-          {
-            "definition": "Each of the two elements of the communion service, bread and wine."
+            "definition": "friendly and caring",
+            "example": "She is very kind to animals."
           }
         ],
         "vietnamese": "loại"
@@ -31405,7 +31367,8 @@
         "partOfSpeech": "adverb",
         "definitions": [
           {
-            "definition": "In all likelihood."
+            "definition": "very likely",
+            "example": "It will probably rain."
           }
         ],
         "vietnamese": "có lẽ"
@@ -47973,6 +47936,7180 @@
           }
         ],
         "vietnamese": "thiếu niên"
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the power or skill to do something",
+            "example": "She has the ability to learn quickly."
+          }
+        ],
+        "vietnamese": "khả năng"
+      }
+    ]
+  },
+  {
+    "word": "accept",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to agree to take or receive something",
+            "example": "He accepted the job offer."
+          }
+        ],
+        "vietnamese": "chấp nhận"
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "doing a lot of things and moving around a lot",
+            "example": "My grandfather is still very active."
+          }
+        ],
+        "vietnamese": "năng động"
+      }
+    ]
+  },
+  {
+    "word": "actually",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "used to say what is really true",
+            "example": "Actually, I live very close to here."
+          }
+        ],
+        "vietnamese": "thực ra"
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the details of where a person lives or works",
+            "example": "What is your email address?"
+          }
+        ],
+        "vietnamese": "địa chỉ"
+      }
+    ]
+  },
+  {
+    "word": "advice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "an opinion or suggestion about what someone should do",
+            "example": "My teacher gave me good advice."
+          }
+        ],
+        "vietnamese": "lời khuyên"
+      }
+    ]
+  },
+  {
+    "word": "against",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "in opposition to someone or something",
+            "example": "We are against violence."
+          }
+        ],
+        "vietnamese": "chống lại"
+      }
+    ]
+  },
+  {
+    "word": "age",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the number of years someone or something has lived",
+            "example": "What is your age?"
+          }
+        ],
+        "vietnamese": "tuổi tác"
+      }
+    ]
+  },
+  {
+    "word": "agree",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to have the same opinion or to say yes",
+            "example": "I agree with you."
+          }
+        ],
+        "vietnamese": "đồng ý"
+      }
+    ]
+  },
+  {
+    "word": "allow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to let someone do something",
+            "example": "Our parents allow us to stay out late."
+          }
+        ],
+        "vietnamese": "cho phép"
+      }
+    ]
+  },
+  {
+    "word": "answer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a reply to a question",
+            "example": "She gave the right answer."
+          }
+        ],
+        "vietnamese": "câu trả lời"
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make a formal request for something",
+            "example": "He applied for a scholarship."
+          }
+        ],
+        "vietnamese": "nộp đơn"
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to get to a place",
+            "example": "We arrived at the airport on time."
+          }
+        ],
+        "vietnamese": "đến nơi"
+      }
+    ]
+  },
+  {
+    "word": "at least",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "phrase",
+        "definitions": [
+          {
+            "definition": "used to show that something is the minimum amount",
+            "example": "You need at least two tickets."
+          }
+        ],
+        "vietnamese": "ít nhất"
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to be present at an event, school, or meeting",
+            "example": "I attend English classes every week."
+          }
+        ],
+        "vietnamese": "tham dự"
+      }
+    ]
+  },
+  {
+    "word": "available",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "able to be used or obtained",
+            "example": "The room is available now."
+          }
+        ],
+        "vietnamese": "có sẵn"
+      }
+    ]
+  },
+  {
+    "word": "begin",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to start doing something or to start to exist",
+            "example": "The lesson will begin soon."
+          }
+        ],
+        "vietnamese": "bắt đầu"
+      }
+    ]
+  },
+  {
+    "word": "believe",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to think that something is true",
+            "example": "I believe her story."
+          }
+        ],
+        "vietnamese": "tin tưởng"
+      }
+    ]
+  },
+  {
+    "word": "borrow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to take something for a short time and return it later",
+            "example": "Can I borrow your pen?"
+          }
+        ],
+        "vietnamese": "mượn"
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to separate into pieces or stop working",
+            "example": "Don’t break the glass."
+          }
+        ],
+        "vietnamese": "làm vỡ"
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make something by putting parts together",
+            "example": "They built a new school."
+          }
+        ],
+        "vietnamese": "xây dựng"
+      }
+    ]
+  },
+  {
+    "word": "busy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "having a lot to do",
+            "example": "I’m busy this afternoon."
+          }
+        ],
+        "vietnamese": "bận rộn"
+      }
+    ]
+  },
+  {
+    "word": "call",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to speak to someone by phone or to shout",
+            "example": "I will call you later."
+          }
+        ],
+        "vietnamese": "gọi"
+      }
+    ]
+  },
+  {
+    "word": "care",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to feel interest or concern for someone or something",
+            "example": "We care about the environment."
+          }
+        ],
+        "vietnamese": "quan tâm"
+      }
+    ]
+  },
+  {
+    "word": "certain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "sure or fixed, not possible to doubt",
+            "example": "I’m certain that she is right."
+          }
+        ],
+        "vietnamese": "chắc chắn"
+      }
+    ]
+  },
+  {
+    "word": "change",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make or become different",
+            "example": "People change over time."
+          }
+        ],
+        "vietnamese": "thay đổi"
+      }
+    ]
+  },
+  {
+    "word": "choose",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to decide which thing you want",
+            "example": "Please choose a seat."
+          }
+        ],
+        "vietnamese": "chọn"
+      }
+    ]
+  },
+  {
+    "word": "clean",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "free from dirt",
+            "example": "Please keep your room clean."
+          }
+        ],
+        "vietnamese": "sạch sẽ"
+      }
+    ]
+  },
+  {
+    "word": "clear",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "easy to understand or see through",
+            "example": "The instructions are clear."
+          }
+        ],
+        "vietnamese": "rõ ràng"
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to bring things together or gather them",
+            "example": "He collects old coins."
+          }
+        ],
+        "vietnamese": "thu thập"
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to move toward a place or person",
+            "example": "Please come inside."
+          }
+        ],
+        "vietnamese": "đến"
+      }
+    ]
+  },
+  {
+    "word": "common",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "happening often or shared by many people",
+            "example": "This is a common problem."
+          }
+        ],
+        "vietnamese": "phổ biến"
+      }
+    ]
+  },
+  {
+    "word": "compare",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to look at two or more things and notice differences and similarities",
+            "example": "Compare these two photos."
+          }
+        ],
+        "vietnamese": "so sánh"
+      }
+    ]
+  },
+  {
+    "word": "complete",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to finish something",
+            "example": "She completed the form."
+          }
+        ],
+        "vietnamese": "hoàn thành"
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to keep doing something without stopping",
+            "example": "Please continue reading."
+          }
+        ],
+        "vietnamese": "tiếp tục"
+      }
+    ]
+  },
+  {
+    "word": "control",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the power to decide what happens",
+            "example": "She has control over the project."
+          }
+        ],
+        "vietnamese": "kiểm soát"
+      }
+    ]
+  },
+  {
+    "word": "cost",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the amount of money needed for something",
+            "example": "How much does the ticket cost?"
+          }
+        ],
+        "vietnamese": "chi phí"
+      }
+    ]
+  },
+  {
+    "word": "decide",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to choose after thinking about different options",
+            "example": "We decided to stay home."
+          }
+        ],
+        "vietnamese": "quyết định"
+      }
+    ]
+  },
+  {
+    "word": "develop",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to grow or make something more advanced",
+            "example": "The town developed quickly."
+          }
+        ],
+        "vietnamese": "phát triển"
+      }
+    ]
+  },
+  {
+    "word": "easy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "not difficult",
+            "example": "The test was easy."
+          }
+        ],
+        "vietnamese": "dễ dàng"
+      }
+    ]
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to like something very much",
+            "example": "I enjoy listening to music."
+          }
+        ],
+        "vietnamese": "thích thú"
+      }
+    ]
+  },
+  {
+    "word": "enough",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "as much as needed",
+            "example": "We have enough time."
+          }
+        ],
+        "vietnamese": "đủ"
+      }
+    ]
+  },
+  {
+    "word": "enter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to go into a place",
+            "example": "Please enter the room quietly."
+          }
+        ],
+        "vietnamese": "đi vào"
+      }
+    ]
+  },
+  {
+    "word": "everybody",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "all people",
+            "example": "Everybody was happy."
+          }
+        ],
+        "vietnamese": "mọi người"
+      }
+    ]
+  },
+  {
+    "word": "example",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a thing that shows what something is like",
+            "example": "This is a good example."
+          }
+        ],
+        "vietnamese": "ví dụ"
+      }
+    ]
+  },
+  {
+    "word": "exercise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "physical activity or a task for practice",
+            "example": "Exercise is good for your health."
+          }
+        ],
+        "vietnamese": "bài tập"
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "knowledge or skill gained from doing something",
+            "example": "She has a lot of experience."
+          }
+        ],
+        "vietnamese": "trải nghiệm"
+      }
+    ]
+  },
+  {
+    "word": "explain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make something easier to understand",
+            "example": "Can you explain the rule?"
+          }
+        ],
+        "vietnamese": "giải thích"
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to experience an emotion or physical sensation",
+            "example": "I feel tired today."
+          }
+        ],
+        "vietnamese": "cảm thấy"
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to discover or get something that was lost or needed",
+            "example": "I can’t find my keys."
+          }
+        ],
+        "vietnamese": "tìm thấy"
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to go after someone or something, or to obey",
+            "example": "Please follow the signs."
+          }
+        ],
+        "vietnamese": "theo dõi"
+      }
+    ]
+  },
+  {
+    "word": "friend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a person you like and trust",
+            "example": "He is my best friend."
+          }
+        ],
+        "vietnamese": "bạn bè"
+      }
+    ]
+  },
+  {
+    "word": "future",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the time after now",
+            "example": "We should think about the future."
+          }
+        ],
+        "vietnamese": "tương lai"
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to hand something to someone",
+            "example": "Please give me your number."
+          }
+        ],
+        "vietnamese": "cho"
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to move from one place to another",
+            "example": "Let’s go home."
+          }
+        ],
+        "vietnamese": "đi"
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "of a high standard or quality",
+            "example": "That was a good idea."
+          }
+        ],
+        "vietnamese": "tốt"
+      }
+    ]
+  },
+  {
+    "word": "grow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to become bigger or older",
+            "example": "Plants grow in sunlight."
+          }
+        ],
+        "vietnamese": "phát triển"
+      }
+    ]
+  },
+  {
+    "word": "happen",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to take place",
+            "example": "What happened yesterday?"
+          }
+        ],
+        "vietnamese": "xảy ra"
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make it easier for someone to do something",
+            "example": "Can you help me?"
+          }
+        ],
+        "vietnamese": "giúp đỡ"
+      }
+    ]
+  },
+  {
+    "word": "hope",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to want something to happen and think it may happen",
+            "example": "I hope you feel better soon."
+          }
+        ],
+        "vietnamese": "hy vọng"
+      }
+    ]
+  },
+  {
+    "word": "idea",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a thought or suggestion",
+            "example": "That is a brilliant idea."
+          }
+        ],
+        "vietnamese": "ý tưởng"
+      }
+    ]
+  },
+  {
+    "word": "include",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to have something as part of a whole",
+            "example": "The price includes breakfast."
+          }
+        ],
+        "vietnamese": "bao gồm"
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "curiosity or attention about something",
+            "example": "He has an interest in history."
+          }
+        ],
+        "vietnamese": "sự quan tâm"
+      }
+    ]
+  },
+  {
+    "word": "invite",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to ask someone to go somewhere or do something",
+            "example": "They invited us to dinner."
+          }
+        ],
+        "vietnamese": "mời"
+      }
+    ]
+  },
+  {
+    "word": "join",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to become part of a group or activity",
+            "example": "I want to join the club."
+          }
+        ],
+        "vietnamese": "tham gia"
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to continue to have or hold something",
+            "example": "Keep the receipt."
+          }
+        ],
+        "vietnamese": "giữ"
+      }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "information and understanding gained from learning",
+            "example": "He has a lot of knowledge."
+          }
+        ],
+        "vietnamese": "kiến thức"
+      }
+    ]
+  },
+  {
+    "word": "leave",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to go away from a place",
+            "example": "We left early."
+          }
+        ],
+        "vietnamese": "rời đi"
+      }
+    ]
+  },
+  {
+    "word": "listen",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to pay attention to sounds or words",
+            "example": "Listen carefully to the teacher."
+          }
+        ],
+        "vietnamese": "lắng nghe"
+      }
+    ]
+  },
+  {
+    "word": "live",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to have your home in a place or to be alive",
+            "example": "They live in Hanoi."
+          }
+        ],
+        "vietnamese": "sống"
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to direct your eyes toward something",
+            "example": "Look at that mountain!"
+          }
+        ],
+        "vietnamese": "nhìn"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to create or produce something",
+            "example": "Can you make a sandwich?"
+          }
+        ],
+        "vietnamese": "làm"
+      }
+    ]
+  },
+  {
+    "word": "manage",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to be able to do something difficult",
+            "example": "I managed to finish on time."
+          }
+        ],
+        "vietnamese": "quản lý"
+      }
+    ]
+  },
+  {
+    "word": "maybe",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "possibly",
+            "example": "Maybe we can meet tomorrow."
+          }
+        ],
+        "vietnamese": "có lẽ"
+      }
+    ]
+  },
+  {
+    "word": "move",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to change place or position",
+            "example": "Please move the chair."
+          }
+        ],
+        "vietnamese": "di chuyển"
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to require something",
+            "example": "I need some water."
+          }
+        ],
+        "vietnamese": "cần"
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to say you are willing to do or give something",
+            "example": "They offered me a seat."
+          }
+        ],
+        "vietnamese": "đề nghị"
+      }
+    ]
+  },
+  {
+    "word": "often",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "many times or regularly",
+            "example": "I often walk to work."
+          }
+        ],
+        "vietnamese": "thường xuyên"
+      }
+    ]
+  },
+  {
+    "word": "own",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "belonging to you",
+            "example": "She has her own car."
+          }
+        ],
+        "vietnamese": "sở hữu"
+      }
+    ]
+  },
+  {
+    "word": "past",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "the time before now",
+            "example": "We should learn from the past."
+          }
+        ],
+        "vietnamese": "quá khứ"
+      }
+    ]
+  },
+  {
+    "word": "plan",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a set of actions for the future",
+            "example": "We made a plan for the trip."
+          }
+        ],
+        "vietnamese": "kế hoạch"
+      }
+    ]
+  },
+  {
+    "word": "play",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to do an activity for enjoyment or skill",
+            "example": "The children play outside."
+          }
+        ],
+        "vietnamese": "chơi"
+      }
+    ]
+  },
+  {
+    "word": "practice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to do something again and again to improve",
+            "example": "You need to practice every day."
+          }
+        ],
+        "vietnamese": "thực hành"
+      }
+    ]
+  },
+  {
+    "word": "prepare",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to get ready for something",
+            "example": "We prepared dinner early."
+          }
+        ],
+        "vietnamese": "chuẩn bị"
+      }
+    ]
+  },
+  {
+    "word": "problem",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "something that is difficult or unpleasant",
+            "example": "We have a problem to solve."
+          }
+        ],
+        "vietnamese": "vấn đề"
+      }
+    ]
+  },
+  {
+    "word": "provide",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to give someone something they need",
+            "example": "The school provides books."
+          }
+        ],
+        "vietnamese": "cung cấp"
+      }
+    ]
+  },
+  {
+    "word": "public",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "for all people to use or see",
+            "example": "This is a public park."
+          }
+        ],
+        "vietnamese": "công cộng"
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to move something into a place",
+            "example": "Put the bag on the table."
+          }
+        ],
+        "vietnamese": "đặt"
+      }
+    ]
+  },
+  {
+    "word": "question",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "a sentence asked to get information",
+            "example": "I have a question."
+          }
+        ],
+        "vietnamese": "câu hỏi"
+      }
+    ]
+  },
+  {
+    "word": "real",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "true or actually existing",
+            "example": "That is a real diamond."
+          }
+        ],
+        "vietnamese": "thực sự"
+      }
+    ]
+  },
+  {
+    "word": "receive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to get something that is sent or given",
+            "example": "I received your message."
+          }
+        ],
+        "vietnamese": "nhận"
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to keep something in your mind from the past",
+            "example": "Please remember my name."
+          }
+        ],
+        "vietnamese": "nhớ"
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to go back or give something back",
+            "example": "I will return tomorrow."
+          }
+        ],
+        "vietnamese": "trở lại"
+      }
+    ]
+  },
+  {
+    "word": "right",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "correct or true",
+            "example": "Your answer is right."
+          }
+        ],
+        "vietnamese": "đúng"
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to speak words",
+            "example": "What did you say?"
+          }
+        ],
+        "vietnamese": "nói"
+      }
+    ]
+  },
+  {
+    "word": "sell",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to give something for money",
+            "example": "They sell fresh bread here."
+          }
+        ],
+        "vietnamese": "bán"
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make something go to another place",
+            "example": "Send me an email."
+          }
+        ],
+        "vietnamese": "gửi"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to let others use or have part of something",
+            "example": "Please share your notes."
+          }
+        ],
+        "vietnamese": "chia sẻ"
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "modal",
+        "definitions": [
+          {
+            "definition": "used to say what is right or best",
+            "example": "You should rest."
+          }
+        ],
+        "vietnamese": "nên"
+      }
+    ]
+  },
+  {
+    "word": "show",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make something visible or clear",
+            "example": "Show me your homework."
+          }
+        ],
+        "vietnamese": "cho thấy"
+      }
+    ]
+  },
+  {
+    "word": "sing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make musical sounds with your voice",
+            "example": "She can sing very well."
+          }
+        ],
+        "vietnamese": "hát"
+      }
+    ]
+  },
+  {
+    "word": "small",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "not big in size",
+            "example": "The box is small."
+          }
+        ],
+        "vietnamese": "nhỏ"
+      }
+    ]
+  },
+  {
+    "word": "speak",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to say words or talk",
+            "example": "He speaks clearly."
+          }
+        ],
+        "vietnamese": "nói chuyện"
+      }
+    ]
+  },
+  {
+    "word": "start",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to begin",
+            "example": "The movie starts at seven."
+          }
+        ],
+        "vietnamese": "bắt đầu"
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to remain in a place",
+            "example": "Please stay here."
+          }
+        ],
+        "vietnamese": "ở lại"
+      }
+    ]
+  },
+  {
+    "word": "stop",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to not continue",
+            "example": "Stop talking for a moment."
+          }
+        ],
+        "vietnamese": "dừng lại"
+      }
+    ]
+  },
+  {
+    "word": "study",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to learn about a subject",
+            "example": "I study English every night."
+          }
+        ],
+        "vietnamese": "học tập"
+      }
+    ]
+  },
+  {
+    "word": "support",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to help or encourage someone or something",
+            "example": "We support local farmers."
+          }
+        ],
+        "vietnamese": "ủng hộ"
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to speak to someone",
+            "example": "Can we talk later?"
+          }
+        ],
+        "vietnamese": "trò chuyện"
+      }
+    ]
+  },
+  {
+    "word": "teach",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to help someone learn",
+            "example": "She teaches math."
+          }
+        ],
+        "vietnamese": "dạy"
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to give information or a story",
+            "example": "Tell me the truth."
+          }
+        ],
+        "vietnamese": "kể"
+      }
+    ]
+  },
+  {
+    "word": "try",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make an effort to do something",
+            "example": "I will try my best."
+          }
+        ],
+        "vietnamese": "cố gắng"
+      }
+    ]
+  },
+  {
+    "word": "understand",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to know the meaning of something",
+            "example": "I understand the lesson."
+          }
+        ],
+        "vietnamese": "hiểu"
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to do something with a tool, object, or method",
+            "example": "Use your phone carefully."
+          }
+        ],
+        "vietnamese": "sử dụng"
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to stay until something happens",
+            "example": "Please wait here."
+          }
+        ],
+        "vietnamese": "chờ đợi"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to wish for or need something",
+            "example": "I want a cup of tea."
+          }
+        ],
+        "vietnamese": "muốn"
+      }
+    ]
+  },
+  {
+    "word": "watch",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to look at something carefully",
+            "example": "We watch TV every evening."
+          }
+        ],
+        "vietnamese": "xem"
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to do a job or activity",
+            "example": "I work from Monday to Friday."
+          }
+        ],
+        "vietnamese": "làm việc"
+      }
+    ]
+  },
+  {
+    "word": "write",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "to make letters or words on a surface",
+            "example": "Write your name here."
+          }
+        ],
+        "vietnamese": "viết"
+      }
+    ]
+  },
+  {
+    "word": "about",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "về",
+            "example": "We talked about the trip."
+          }
+        ],
+        "vietnamese": "về"
+      }
+    ]
+  },
+  {
+    "word": "above",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "ở trên",
+            "example": "The clock is above the door."
+          }
+        ],
+        "vietnamese": "ở trên"
+      }
+    ]
+  },
+  {
+    "word": "activity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "hoạt động",
+            "example": "Swimming is a fun activity."
+          }
+        ],
+        "vietnamese": "hoạt động"
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "quảng cáo",
+            "example": "They want to advertise something."
+          }
+        ],
+        "vietnamese": "quảng cáo"
+      }
+    ]
+  },
+  {
+    "word": "after",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "sau",
+            "example": "We went home after dinner."
+          }
+        ],
+        "vietnamese": "sau"
+      }
+    ]
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "buổi chiều",
+            "example": "This is a afternoon example."
+          }
+        ],
+        "vietnamese": "buổi chiều"
+      }
+    ]
+  },
+  {
+    "word": "again",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "lại",
+            "example": "Please say it again."
+          }
+        ],
+        "vietnamese": "lại"
+      }
+    ]
+  },
+  {
+    "word": "ago",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "trước đây",
+            "example": "I met her two years ago."
+          }
+        ],
+        "vietnamese": "trước đây"
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "không khí",
+            "example": "The air is fresh today."
+          }
+        ],
+        "vietnamese": "không khí"
+      }
+    ]
+  },
+  {
+    "word": "airport",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sân bay",
+            "example": "We waited at the airport for our flight."
+          }
+        ],
+        "vietnamese": "sân bay"
+      }
+    ]
+  },
+  {
+    "word": "alive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "còn sống",
+            "example": "The room is alive."
+          }
+        ],
+        "vietnamese": "còn sống"
+      }
+    ]
+  },
+  {
+    "word": "almost",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "gần như",
+            "example": "We are almost ready."
+          }
+        ],
+        "vietnamese": "gần như"
+      }
+    ]
+  },
+  {
+    "word": "along",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "dọc theo",
+            "example": "We met along lunch."
+          }
+        ],
+        "vietnamese": "dọc theo"
+      }
+    ]
+  },
+  {
+    "word": "already",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "đã rồi",
+            "example": "I have already finished my homework."
+          }
+        ],
+        "vietnamese": "đã rồi"
+      }
+    ]
+  },
+  {
+    "word": "also",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "cũng",
+            "example": "She also likes music."
+          }
+        ],
+        "vietnamese": "cũng"
+      }
+    ]
+  },
+  {
+    "word": "among",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "giữa",
+            "example": "He was sitting among his friends."
+          }
+        ],
+        "vietnamese": "giữa"
+      }
+    ]
+  },
+  {
+    "word": "amount",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "số lượng",
+            "example": "The amount of sugar was too high."
+          }
+        ],
+        "vietnamese": "số lượng"
+      }
+    ]
+  },
+  {
+    "word": "ancient",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "cổ xưa",
+            "example": "They visited an ancient temple."
+          }
+        ],
+        "vietnamese": "cổ xưa"
+      }
+    ]
+  },
+  {
+    "word": "angry",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tức giận",
+            "example": "The room is angry."
+          }
+        ],
+        "vietnamese": "tức giận"
+      }
+    ]
+  },
+  {
+    "word": "animal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "động vật",
+            "example": "The zoo has many animals."
+          }
+        ],
+        "vietnamese": "động vật"
+      }
+    ]
+  },
+  {
+    "word": "another",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "khác",
+            "example": "Can I have another one?"
+          }
+        ],
+        "vietnamese": "khác"
+      }
+    ]
+  },
+  {
+    "word": "anyone",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "ai đó",
+            "example": "Anyone can join the class."
+          }
+        ],
+        "vietnamese": "ai đó"
+      }
+    ]
+  },
+  {
+    "word": "anything",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "bất cứ thứ gì",
+            "example": "Is there anything I can do?"
+          }
+        ],
+        "vietnamese": "bất cứ thứ gì"
+      }
+    ]
+  },
+  {
+    "word": "anywhere",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "bất cứ đâu",
+            "example": "We can meet anywhere you like."
+          }
+        ],
+        "vietnamese": "bất cứ đâu"
+      }
+    ]
+  },
+  {
+    "word": "apart from",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "phrase",
+        "definitions": [
+          {
+            "definition": "ngoài ra",
+            "example": "Apart from the rain, the day was perfect."
+          }
+        ],
+        "vietnamese": "ngoài ra"
+      }
+    ]
+  },
+  {
+    "word": "appeal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "thu hút",
+            "example": "They want to appeal something."
+          }
+        ],
+        "vietnamese": "thu hút"
+      }
+    ]
+  },
+  {
+    "word": "appear",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "xuất hiện",
+            "example": "They want to appear something."
+          }
+        ],
+        "vietnamese": "xuất hiện"
+      }
+    ]
+  },
+  {
+    "word": "apple",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "quả táo",
+            "example": "I ate an apple after lunch."
+          }
+        ],
+        "vietnamese": "quả táo"
+      }
+    ]
+  },
+  {
+    "word": "area",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "khu vực",
+            "example": "This area is very quiet."
+          }
+        ],
+        "vietnamese": "khu vực"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cánh tay",
+            "example": "He hurt his arm playing football."
+          }
+        ],
+        "vietnamese": "cánh tay"
+      }
+    ]
+  },
+  {
+    "word": "arrange",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "sắp xếp",
+            "example": "They want to arrange something."
+          }
+        ],
+        "vietnamese": "sắp xếp"
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bài báo",
+            "example": "I read an article about health."
+          }
+        ],
+        "vietnamese": "bài báo"
+      }
+    ]
+  },
+  {
+    "word": "artist",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nghệ sĩ",
+            "example": "The artist painted a beautiful picture."
+          }
+        ],
+        "vietnamese": "nghệ sĩ"
+      }
+    ]
+  },
+  {
+    "word": "asleep",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đang ngủ",
+            "example": "The room is asleep."
+          }
+        ],
+        "vietnamese": "đang ngủ"
+      }
+    ]
+  },
+  {
+    "word": "at all",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "phrase",
+        "definitions": [
+          {
+            "definition": "hoàn toàn",
+            "example": "I don't mind at all."
+          }
+        ],
+        "vietnamese": "hoàn toàn"
+      }
+    ]
+  },
+  {
+    "word": "attack",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "tấn công",
+            "example": "They want to attack something."
+          }
+        ],
+        "vietnamese": "tấn công"
+      }
+    ]
+  },
+  {
+    "word": "attempt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cố gắng",
+            "example": "This is a attempt example."
+          }
+        ],
+        "vietnamese": "cố gắng"
+      }
+    ]
+  },
+  {
+    "word": "attention",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sự chú ý",
+            "example": "This is a attention example."
+          }
+        ],
+        "vietnamese": "sự chú ý"
+      }
+    ]
+  },
+  {
+    "word": "attractive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "hấp dẫn",
+            "example": "The idea was attractive to many people."
+          }
+        ],
+        "vietnamese": "hấp dẫn"
+      }
+    ]
+  },
+  {
+    "word": "audience",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "khán giả",
+            "example": "This is a audience example."
+          }
+        ],
+        "vietnamese": "khán giả"
+      }
+    ]
+  },
+  {
+    "word": "author",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tác giả",
+            "example": "This is a author example."
+          }
+        ],
+        "vietnamese": "tác giả"
+      }
+    ]
+  },
+  {
+    "word": "awake",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tỉnh táo",
+            "example": "I was awake all night."
+          }
+        ],
+        "vietnamese": "tỉnh táo"
+      }
+    ]
+  },
+  {
+    "word": "baby",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "em bé",
+            "example": "The baby was sleeping."
+          }
+        ],
+        "vietnamese": "em bé"
+      }
+    ]
+  },
+  {
+    "word": "background",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nền",
+            "example": "The photo has a blue background."
+          }
+        ],
+        "vietnamese": "nền"
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "xấu",
+            "example": "The weather was bad yesterday."
+          }
+        ],
+        "vietnamese": "xấu"
+      }
+    ]
+  },
+  {
+    "word": "bag",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cái túi",
+            "example": "I put my books in my bag."
+          }
+        ],
+        "vietnamese": "cái túi"
+      }
+    ]
+  },
+  {
+    "word": "ball",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "quả bóng",
+            "example": "The children kicked the ball."
+          }
+        ],
+        "vietnamese": "quả bóng"
+      }
+    ]
+  },
+  {
+    "word": "band",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ban nhạc",
+            "example": "The band played three songs."
+          }
+        ],
+        "vietnamese": "ban nhạc"
+      }
+    ]
+  },
+  {
+    "word": "bar",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "quầy",
+            "example": "We met at a small bar."
+          }
+        ],
+        "vietnamese": "quầy"
+      }
+    ]
+  },
+  {
+    "word": "baseball",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bóng chày",
+            "example": "He plays baseball every weekend."
+          }
+        ],
+        "vietnamese": "bóng chày"
+      }
+    ]
+  },
+  {
+    "word": "basket",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giỏ",
+            "example": "She carried the fruit in a basket."
+          }
+        ],
+        "vietnamese": "giỏ"
+      }
+    ]
+  },
+  {
+    "word": "bath",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bồn tắm",
+            "example": "I took a long bath."
+          }
+        ],
+        "vietnamese": "bồn tắm"
+      }
+    ]
+  },
+  {
+    "word": "beach",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bãi biển",
+            "example": "We spent the day at the beach."
+          }
+        ],
+        "vietnamese": "bãi biển"
+      }
+    ]
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đẹp",
+            "example": "The garden looks beautiful in spring."
+          }
+        ],
+        "vietnamese": "đẹp"
+      }
+    ]
+  },
+  {
+    "word": "because of",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "phrase",
+        "definitions": [
+          {
+            "definition": "bởi vì",
+            "example": "The match was cancelled because of heavy rain."
+          }
+        ],
+        "vietnamese": "bởi vì"
+      }
+    ]
+  },
+  {
+    "word": "bed",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giường",
+            "example": "I went to bed early."
+          }
+        ],
+        "vietnamese": "giường"
+      }
+    ]
+  },
+  {
+    "word": "before",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "trước",
+            "example": "Wash your hands before dinner."
+          }
+        ],
+        "vietnamese": "trước"
+      }
+    ]
+  },
+  {
+    "word": "beginning",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sự bắt đầu",
+            "example": "The beginning of the film was exciting."
+          }
+        ],
+        "vietnamese": "sự bắt đầu"
+      }
+    ]
+  },
+  {
+    "word": "behind",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "đằng sau",
+            "example": "The car is behind the house."
+          }
+        ],
+        "vietnamese": "đằng sau"
+      }
+    ]
+  },
+  {
+    "word": "below",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "ở dưới",
+            "example": "The temperature dropped below zero."
+          }
+        ],
+        "vietnamese": "ở dưới"
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tốt nhất",
+            "example": "She is the best player on the team."
+          }
+        ],
+        "vietnamese": "tốt nhất"
+      }
+    ]
+  },
+  {
+    "word": "better",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tốt hơn",
+            "example": "This one is better than the other."
+          }
+        ],
+        "vietnamese": "tốt hơn"
+      }
+    ]
+  },
+  {
+    "word": "between",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "preposition",
+        "definitions": [
+          {
+            "definition": "giữa",
+            "example": "The shop is between the bank and the cafe."
+          }
+        ],
+        "vietnamese": "giữa"
+      }
+    ]
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "xe đạp",
+            "example": "He rode his bicycle to school."
+          }
+        ],
+        "vietnamese": "xe đạp"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "to lớn",
+            "example": "They live in a big house."
+          }
+        ],
+        "vietnamese": "to lớn"
+      }
+    ]
+  },
+  {
+    "word": "bill",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "hóa đơn",
+            "example": "The restaurant bill was high."
+          }
+        ],
+        "vietnamese": "hóa đơn"
+      }
+    ]
+  },
+  {
+    "word": "bird",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "con chim",
+            "example": "A bird sang in the tree."
+          }
+        ],
+        "vietnamese": "con chim"
+      }
+    ]
+  },
+  {
+    "word": "black",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đen",
+            "example": "The room is black."
+          }
+        ],
+        "vietnamese": "đen"
+      }
+    ]
+  },
+  {
+    "word": "blue",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "xanh dương",
+            "example": "The room is blue."
+          }
+        ],
+        "vietnamese": "xanh dương"
+      }
+    ]
+  },
+  {
+    "word": "boat",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thuyền",
+            "example": "We crossed the river by boat."
+          }
+        ],
+        "vietnamese": "thuyền"
+      }
+    ]
+  },
+  {
+    "word": "body",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cơ thể",
+            "example": "Exercise is good for your body."
+          }
+        ],
+        "vietnamese": "cơ thể"
+      }
+    ]
+  },
+  {
+    "word": "book",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sách",
+            "example": "I borrowed a book from the library."
+          }
+        ],
+        "vietnamese": "sách"
+      }
+    ]
+  },
+  {
+    "word": "boy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cậu bé",
+            "example": "The boy smiled at us."
+          }
+        ],
+        "vietnamese": "cậu bé"
+      }
+    ]
+  },
+  {
+    "word": "bread",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bánh mì",
+            "example": "I bought fresh bread."
+          }
+        ],
+        "vietnamese": "bánh mì"
+      }
+    ]
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bữa sáng",
+            "example": "We had breakfast at 7 a.m."
+          }
+        ],
+        "vietnamese": "bữa sáng"
+      }
+    ]
+  },
+  {
+    "word": "bright",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "sáng",
+            "example": "The room is bright and warm."
+          }
+        ],
+        "vietnamese": "sáng"
+      }
+    ]
+  },
+  {
+    "word": "brother",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "anh/em trai",
+            "example": "My brother lives in Da Nang."
+          }
+        ],
+        "vietnamese": "anh/em trai"
+      }
+    ]
+  },
+  {
+    "word": "brown",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "màu nâu",
+            "example": "The room is brown."
+          }
+        ],
+        "vietnamese": "màu nâu"
+      }
+    ]
+  },
+  {
+    "word": "building",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tòa nhà",
+            "example": "That building is very old."
+          }
+        ],
+        "vietnamese": "tòa nhà"
+      }
+    ]
+  },
+  {
+    "word": "bus",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "xe buýt",
+            "example": "I took the bus to work."
+          }
+        ],
+        "vietnamese": "xe buýt"
+      }
+    ]
+  },
+  {
+    "word": "business",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "kinh doanh",
+            "example": "She runs a small business."
+          }
+        ],
+        "vietnamese": "kinh doanh"
+      }
+    ]
+  },
+  {
+    "word": "butter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bơ",
+            "example": "Put some butter on the toast."
+          }
+        ],
+        "vietnamese": "bơ"
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "mua",
+            "example": "They want to buy something."
+          }
+        ],
+        "vietnamese": "mua"
+      }
+    ]
+  },
+  {
+    "word": "cake",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bánh",
+            "example": "We shared a chocolate cake."
+          }
+        ],
+        "vietnamese": "bánh"
+      }
+    ]
+  },
+  {
+    "word": "camera",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "máy ảnh",
+            "example": "I brought my camera on the trip."
+          }
+        ],
+        "vietnamese": "máy ảnh"
+      }
+    ]
+  },
+  {
+    "word": "car",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ô tô",
+            "example": "His car is parked outside."
+          }
+        ],
+        "vietnamese": "ô tô"
+      }
+    ]
+  },
+  {
+    "word": "careful",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "cẩn thận",
+            "example": "Be careful with the glass."
+          }
+        ],
+        "vietnamese": "cẩn thận"
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "mang",
+            "example": "They want to carry something."
+          }
+        ],
+        "vietnamese": "mang"
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "con mèo",
+            "example": "The cat is sleeping on the sofa."
+          }
+        ],
+        "vietnamese": "con mèo"
+      }
+    ]
+  },
+  {
+    "word": "centre",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trung tâm",
+            "example": "The shop is in the city centre."
+          }
+        ],
+        "vietnamese": "trung tâm"
+      }
+    ]
+  },
+  {
+    "word": "cheap",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "rẻ",
+            "example": "This bag is cheap."
+          }
+        ],
+        "vietnamese": "rẻ"
+      }
+    ]
+  },
+  {
+    "word": "check",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "kiểm tra",
+            "example": "They want to check something."
+          }
+        ],
+        "vietnamese": "kiểm tra"
+      }
+    ]
+  },
+  {
+    "word": "child",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đứa trẻ",
+            "example": "Every child needs care."
+          }
+        ],
+        "vietnamese": "đứa trẻ"
+      }
+    ]
+  },
+  {
+    "word": "choice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "lựa chọn",
+            "example": "You have a choice to make."
+          }
+        ],
+        "vietnamese": "lựa chọn"
+      }
+    ]
+  },
+  {
+    "word": "church",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhà thờ",
+            "example": "They went to church on Sunday."
+          }
+        ],
+        "vietnamese": "nhà thờ"
+      }
+    ]
+  },
+  {
+    "word": "city",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thành phố",
+            "example": "Hanoi is a busy city."
+          }
+        ],
+        "vietnamese": "thành phố"
+      }
+    ]
+  },
+  {
+    "word": "class",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "lớp học",
+            "example": "Our class starts at nine."
+          }
+        ],
+        "vietnamese": "lớp học"
+      }
+    ]
+  },
+  {
+    "word": "clock",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đồng hồ",
+            "example": "The clock stopped working."
+          }
+        ],
+        "vietnamese": "đồng hồ"
+      }
+    ]
+  },
+  {
+    "word": "clothes",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "quần áo",
+            "example": "Put your clothes in the cupboard."
+          }
+        ],
+        "vietnamese": "quần áo"
+      }
+    ]
+  },
+  {
+    "word": "cloud",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đám mây",
+            "example": "A cloud covered the sun."
+          }
+        ],
+        "vietnamese": "đám mây"
+      }
+    ]
+  },
+  {
+    "word": "coffee",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cà phê",
+            "example": "She likes black coffee."
+          }
+        ],
+        "vietnamese": "cà phê"
+      }
+    ]
+  },
+  {
+    "word": "cold",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "lạnh",
+            "example": "It was cold outside this morning."
+          }
+        ],
+        "vietnamese": "lạnh"
+      }
+    ]
+  },
+  {
+    "word": "colour",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "màu sắc",
+            "example": "Blue is my favourite colour."
+          }
+        ],
+        "vietnamese": "màu sắc"
+      }
+    ]
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "thoải mái",
+            "example": "The sofa is very comfortable."
+          }
+        ],
+        "vietnamese": "thoải mái"
+      }
+    ]
+  },
+  {
+    "word": "company",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "công ty",
+            "example": "He works for a big company."
+          }
+        ],
+        "vietnamese": "công ty"
+      }
+    ]
+  },
+  {
+    "word": "computer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "máy tính",
+            "example": "My computer is very fast."
+          }
+        ],
+        "vietnamese": "máy tính"
+      }
+    ]
+  },
+  {
+    "word": "corner",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "góc",
+            "example": "The cat is sleeping in the corner."
+          }
+        ],
+        "vietnamese": "góc"
+      }
+    ]
+  },
+  {
+    "word": "country",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "quốc gia",
+            "example": "She wants to travel to another country."
+          }
+        ],
+        "vietnamese": "quốc gia"
+      }
+    ]
+  },
+  {
+    "word": "course",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "khóa học",
+            "example": "I signed up for an English course."
+          }
+        ],
+        "vietnamese": "khóa học"
+      }
+    ]
+  },
+  {
+    "word": "cow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "con bò",
+            "example": "The cow is eating grass."
+          }
+        ],
+        "vietnamese": "con bò"
+      }
+    ]
+  },
+  {
+    "word": "cross",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "băng qua",
+            "example": "They want to cross something."
+          }
+        ],
+        "vietnamese": "băng qua"
+      }
+    ]
+  },
+  {
+    "word": "cry",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "khóc",
+            "example": "They want to cry something."
+          }
+        ],
+        "vietnamese": "khóc"
+      }
+    ]
+  },
+  {
+    "word": "cup",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cái cốc",
+            "example": "Please pass me a cup of tea."
+          }
+        ],
+        "vietnamese": "cái cốc"
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "cắt",
+            "example": "They want to cut something."
+          }
+        ],
+        "vietnamese": "cắt"
+      }
+    ]
+  },
+  {
+    "word": "dance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "nhảy múa",
+            "example": "They danced all night."
+          }
+        ],
+        "vietnamese": "nhảy múa"
+      }
+    ]
+  },
+  {
+    "word": "danger",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nguy hiểm",
+            "example": "The sign warns of danger."
+          }
+        ],
+        "vietnamese": "nguy hiểm"
+      }
+    ]
+  },
+  {
+    "word": "dark",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tối",
+            "example": "It is dark outside now."
+          }
+        ],
+        "vietnamese": "tối"
+      }
+    ]
+  },
+  {
+    "word": "daughter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "con gái",
+            "example": "Their daughter is at school."
+          }
+        ],
+        "vietnamese": "con gái"
+      }
+    ]
+  },
+  {
+    "word": "day",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ngày",
+            "example": "Today is a busy day."
+          }
+        ],
+        "vietnamese": "ngày"
+      }
+    ]
+  },
+  {
+    "word": "dead",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "chết",
+            "example": "The battery is dead."
+          }
+        ],
+        "vietnamese": "chết"
+      }
+    ]
+  },
+  {
+    "word": "dear",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "thân mến",
+            "example": "Dear Anna, thank you for your letter."
+          }
+        ],
+        "vietnamese": "thân mến"
+      }
+    ]
+  },
+  {
+    "word": "deep",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "sâu",
+            "example": "The lake is very deep."
+          }
+        ],
+        "vietnamese": "sâu"
+      }
+    ]
+  },
+  {
+    "word": "desk",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cái bàn",
+            "example": "My notebook is on the desk."
+          }
+        ],
+        "vietnamese": "cái bàn"
+      }
+    ]
+  },
+  {
+    "word": "die",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "chết",
+            "example": "People can die from serious illness."
+          }
+        ],
+        "vietnamese": "chết"
+      }
+    ]
+  },
+  {
+    "word": "different",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "khác nhau",
+            "example": "We have different opinions."
+          }
+        ],
+        "vietnamese": "khác nhau"
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bữa tối",
+            "example": "We had dinner together."
+          }
+        ],
+        "vietnamese": "bữa tối"
+      }
+    ]
+  },
+  {
+    "word": "dirty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "bẩn",
+            "example": "My shoes are dirty."
+          }
+        ],
+        "vietnamese": "bẩn"
+      }
+    ]
+  },
+  {
+    "word": "doctor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bác sĩ",
+            "example": "The doctor checked my temperature."
+          }
+        ],
+        "vietnamese": "bác sĩ"
+      }
+    ]
+  },
+  {
+    "word": "door",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cánh cửa",
+            "example": "Please close the door."
+          }
+        ],
+        "vietnamese": "cánh cửa"
+      }
+    ]
+  },
+  {
+    "word": "dream",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giấc mơ",
+            "example": "She had a strange dream."
+          }
+        ],
+        "vietnamese": "giấc mơ"
+      }
+    ]
+  },
+  {
+    "word": "drive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "lái xe",
+            "example": "They want to drive something."
+          }
+        ],
+        "vietnamese": "lái xe"
+      }
+    ]
+  },
+  {
+    "word": "driver",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tài xế",
+            "example": "The driver stopped the bus."
+          }
+        ],
+        "vietnamese": "tài xế"
+      }
+    ]
+  },
+  {
+    "word": "dry",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "khô",
+            "example": "Keep the paper dry."
+          }
+        ],
+        "vietnamese": "khô"
+      }
+    ]
+  },
+  {
+    "word": "each",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "mỗi",
+            "example": "Each student has a notebook."
+          }
+        ],
+        "vietnamese": "mỗi"
+      }
+    ]
+  },
+  {
+    "word": "early",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "sớm",
+            "example": "I woke up early today."
+          }
+        ],
+        "vietnamese": "sớm"
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "ăn",
+            "example": "They want to eat something."
+          }
+        ],
+        "vietnamese": "ăn"
+      }
+    ]
+  },
+  {
+    "word": "egg",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trứng",
+            "example": "This is a egg example."
+          }
+        ],
+        "vietnamese": "trứng"
+      }
+    ]
+  },
+  {
+    "word": "electric",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "điện",
+            "example": "The stove is electric."
+          }
+        ],
+        "vietnamese": "điện"
+      }
+    ]
+  },
+  {
+    "word": "email",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thư điện tử",
+            "example": "I sent an email to my teacher."
+          }
+        ],
+        "vietnamese": "thư điện tử"
+      }
+    ]
+  },
+  {
+    "word": "end",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "kết thúc",
+            "example": "The end of the road was blocked."
+          }
+        ],
+        "vietnamese": "kết thúc"
+      }
+    ]
+  },
+  {
+    "word": "engine",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "động cơ",
+            "example": "The car engine was very loud."
+          }
+        ],
+        "vietnamese": "động cơ"
+      }
+    ]
+  },
+  {
+    "word": "English",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tiếng Anh",
+            "example": "English is spoken around the world."
+          }
+        ],
+        "vietnamese": "tiếng Anh"
+      }
+    ]
+  },
+  {
+    "word": "even",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "thậm chí",
+            "example": "It was even colder last night."
+          }
+        ],
+        "vietnamese": "thậm chí"
+      }
+    ]
+  },
+  {
+    "word": "ever",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "bao giờ",
+            "example": "Have you ever been to Hanoi?"
+          }
+        ],
+        "vietnamese": "bao giờ"
+      }
+    ]
+  },
+  {
+    "word": "every",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "mọi",
+            "example": "Every child needs support."
+          }
+        ],
+        "vietnamese": "mọi"
+      }
+    ]
+  },
+  {
+    "word": "everyone",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "mọi người",
+            "example": "Everyone enjoyed the party."
+          }
+        ],
+        "vietnamese": "mọi người"
+      }
+    ]
+  },
+  {
+    "word": "everything",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "pronoun",
+        "definitions": [
+          {
+            "definition": "mọi thứ",
+            "example": "Everything is ready now."
+          }
+        ],
+        "vietnamese": "mọi thứ"
+      }
+    ]
+  },
+  {
+    "word": "excited",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "hào hứng",
+            "example": "She is excited about the trip."
+          }
+        ],
+        "vietnamese": "hào hứng"
+      }
+    ]
+  },
+  {
+    "word": "exciting",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "thú vị",
+            "example": "It was an exciting game."
+          }
+        ],
+        "vietnamese": "thú vị"
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đắt",
+            "example": "This phone is expensive."
+          }
+        ],
+        "vietnamese": "đắt"
+      }
+    ]
+  },
+  {
+    "word": "eye",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mắt",
+            "example": "He has blue eyes."
+          }
+        ],
+        "vietnamese": "mắt"
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "ngã",
+            "example": "They want to fall something."
+          }
+        ],
+        "vietnamese": "ngã"
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "gia đình",
+            "example": "My family is very close."
+          }
+        ],
+        "vietnamese": "gia đình"
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nông trại",
+            "example": "They live on a farm."
+          }
+        ],
+        "vietnamese": "nông trại"
+      }
+    ]
+  },
+  {
+    "word": "farmer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nông dân",
+            "example": "The farmer fed the animals."
+          }
+        ],
+        "vietnamese": "nông dân"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "nhanh",
+            "example": "The room is fast."
+          }
+        ],
+        "vietnamese": "nhanh"
+      }
+    ]
+  },
+  {
+    "word": "father",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cha",
+            "example": "This is a father example."
+          }
+        ],
+        "vietnamese": "cha"
+      }
+    ]
+  },
+  {
+    "word": "favourite",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "yêu thích",
+            "example": "Pizza is my favourite food."
+          }
+        ],
+        "vietnamese": "yêu thích"
+      }
+    ]
+  },
+  {
+    "word": "few",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "determiner",
+        "definitions": [
+          {
+            "definition": "một vài",
+            "example": "Only a few people came early."
+          }
+        ],
+        "vietnamese": "một vài"
+      }
+    ]
+  },
+  {
+    "word": "field",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cánh đồng",
+            "example": "The children played in the field."
+          }
+        ],
+        "vietnamese": "cánh đồng"
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phim",
+            "example": "We watched a good film."
+          }
+        ],
+        "vietnamese": "phim"
+      }
+    ]
+  },
+  {
+    "word": "final",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "cuối cùng",
+            "example": "This is the final answer."
+          }
+        ],
+        "vietnamese": "cuối cùng"
+      }
+    ]
+  },
+  {
+    "word": "finger",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ngón tay",
+            "example": "She cut her finger."
+          }
+        ],
+        "vietnamese": "ngón tay"
+      }
+    ]
+  },
+  {
+    "word": "finish",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "hoàn thành",
+            "example": "They want to finish something."
+          }
+        ],
+        "vietnamese": "hoàn thành"
+      }
+    ]
+  },
+  {
+    "word": "fire",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "lửa",
+            "example": "A fire started in the kitchen."
+          }
+        ],
+        "vietnamese": "lửa"
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đầu tiên",
+            "example": "She was the first to arrive."
+          }
+        ],
+        "vietnamese": "đầu tiên"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cá",
+            "example": "We ate fish for lunch."
+          }
+        ],
+        "vietnamese": "cá"
+      }
+    ]
+  },
+  {
+    "word": "floor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sàn nhà",
+            "example": "The floor is wet."
+          }
+        ],
+        "vietnamese": "sàn nhà"
+      }
+    ]
+  },
+  {
+    "word": "fly",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "bay",
+            "example": "They want to fly something."
+          }
+        ],
+        "vietnamese": "bay"
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thức ăn",
+            "example": "The food smells great."
+          }
+        ],
+        "vietnamese": "thức ăn"
+      }
+    ]
+  },
+  {
+    "word": "foot",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bàn chân",
+            "example": "He hurt his foot."
+          }
+        ],
+        "vietnamese": "bàn chân"
+      }
+    ]
+  },
+  {
+    "word": "forest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "rừng",
+            "example": "The forest is full of birds."
+          }
+        ],
+        "vietnamese": "rừng"
+      }
+    ]
+  },
+  {
+    "word": "forget",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "quên",
+            "example": "They want to forget something."
+          }
+        ],
+        "vietnamese": "quên"
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "miễn phí",
+            "example": "The room is free."
+          }
+        ],
+        "vietnamese": "miễn phí"
+      }
+    ]
+  },
+  {
+    "word": "fresh",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "tươi",
+            "example": "The bread is still fresh."
+          }
+        ],
+        "vietnamese": "tươi"
+      }
+    ]
+  },
+  {
+    "word": "front",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phía trước",
+            "example": "Stand at the front of the line."
+          }
+        ],
+        "vietnamese": "phía trước"
+      }
+    ]
+  },
+  {
+    "word": "fruit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trái cây",
+            "example": "Fruit is healthy."
+          }
+        ],
+        "vietnamese": "trái cây"
+      }
+    ]
+  },
+  {
+    "word": "full",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đầy",
+            "example": "The bus was full."
+          }
+        ],
+        "vietnamese": "đầy"
+      }
+    ]
+  },
+  {
+    "word": "fun",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "vui",
+            "example": "The party was fun."
+          }
+        ],
+        "vietnamese": "vui"
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "vườn",
+            "example": "They planted flowers in the garden."
+          }
+        ],
+        "vietnamese": "vườn"
+      }
+    ]
+  },
+  {
+    "word": "glass",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ly thủy tinh",
+            "example": "The glass broke on the floor."
+          }
+        ],
+        "vietnamese": "ly thủy tinh"
+      }
+    ]
+  },
+  {
+    "word": "gold",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "vàng",
+            "example": "Gold is expensive."
+          }
+        ],
+        "vietnamese": "vàng"
+      }
+    ]
+  },
+  {
+    "word": "goodbye",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "tạm biệt",
+            "example": "Goodbye, see you tomorrow."
+          }
+        ],
+        "vietnamese": "tạm biệt"
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ông",
+            "example": "My grandfather is retired."
+          }
+        ],
+        "vietnamese": "ông"
+      }
+    ]
+  },
+  {
+    "word": "grandmother",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bà",
+            "example": "Her grandmother lives with her."
+          }
+        ],
+        "vietnamese": "bà"
+      }
+    ]
+  },
+  {
+    "word": "green",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "xanh lá",
+            "example": "The grass is green."
+          }
+        ],
+        "vietnamese": "xanh lá"
+      }
+    ]
+  },
+  {
+    "word": "ground",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mặt đất",
+            "example": "The ball hit the ground."
+          }
+        ],
+        "vietnamese": "mặt đất"
+      }
+    ]
+  },
+  {
+    "word": "group",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhóm",
+            "example": "A group of students arrived."
+          }
+        ],
+        "vietnamese": "nhóm"
+      }
+    ]
+  },
+  {
+    "word": "guest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "khách",
+            "example": "We welcomed the guest at the door."
+          }
+        ],
+        "vietnamese": "khách"
+      }
+    ]
+  },
+  {
+    "word": "hair",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tóc",
+            "example": "She has long hair."
+          }
+        ],
+        "vietnamese": "tóc"
+      }
+    ]
+  },
+  {
+    "word": "half",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "một nửa",
+            "example": "I ate half of the cake."
+          }
+        ],
+        "vietnamese": "một nửa"
+      }
+    ]
+  },
+  {
+    "word": "hand",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bàn tay",
+            "example": "Raise your hand."
+          }
+        ],
+        "vietnamese": "bàn tay"
+      }
+    ]
+  },
+  {
+    "word": "happy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "vui vẻ",
+            "example": "We are happy to see you."
+          }
+        ],
+        "vietnamese": "vui vẻ"
+      }
+    ]
+  },
+  {
+    "word": "hard",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "khó",
+            "example": "This exam is hard."
+          }
+        ],
+        "vietnamese": "khó"
+      }
+    ]
+  },
+  {
+    "word": "head",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đầu",
+            "example": "He hit his head."
+          }
+        ],
+        "vietnamese": "đầu"
+      }
+    ]
+  },
+  {
+    "word": "healthy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "khỏe mạnh",
+            "example": "A balanced diet keeps you healthy."
+          }
+        ],
+        "vietnamese": "khỏe mạnh"
+      }
+    ]
+  },
+  {
+    "word": "hear",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "nghe",
+            "example": "They want to hear something."
+          }
+        ],
+        "vietnamese": "nghe"
+      }
+    ]
+  },
+  {
+    "word": "heart",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trái tim",
+            "example": "The heart pumps blood."
+          }
+        ],
+        "vietnamese": "trái tim"
+      }
+    ]
+  },
+  {
+    "word": "heavy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "nặng",
+            "example": "The box is very heavy."
+          }
+        ],
+        "vietnamese": "nặng"
+      }
+    ]
+  },
+  {
+    "word": "holiday",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "kỳ nghỉ",
+            "example": "We went on holiday in July."
+          }
+        ],
+        "vietnamese": "kỳ nghỉ"
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhà",
+            "example": "I stayed home yesterday."
+          }
+        ],
+        "vietnamese": "nhà"
+      }
+    ]
+  },
+  {
+    "word": "horse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "con ngựa",
+            "example": "He rode a horse."
+          }
+        ],
+        "vietnamese": "con ngựa"
+      }
+    ]
+  },
+  {
+    "word": "hospital",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bệnh viện",
+            "example": "She works in a hospital."
+          }
+        ],
+        "vietnamese": "bệnh viện"
+      }
+    ]
+  },
+  {
+    "word": "hour",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giờ",
+            "example": "The meeting lasted one hour."
+          }
+        ],
+        "vietnamese": "giờ"
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ngôi nhà",
+            "example": "They bought a new house."
+          }
+        ],
+        "vietnamese": "ngôi nhà"
+      }
+    ]
+  },
+  {
+    "word": "important",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "quan trọng",
+            "example": "This meeting is important."
+          }
+        ],
+        "vietnamese": "quan trọng"
+      }
+    ]
+  },
+  {
+    "word": "interesting",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "thú vị",
+            "example": "The story was interesting."
+          }
+        ],
+        "vietnamese": "thú vị"
+      }
+    ]
+  },
+  {
+    "word": "job",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "công việc",
+            "example": "He got a new job."
+          }
+        ],
+        "vietnamese": "công việc"
+      }
+    ]
+  },
+  {
+    "word": "journey",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chuyến đi",
+            "example": "The journey took five hours."
+          }
+        ],
+        "vietnamese": "chuyến đi"
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đứa trẻ",
+            "example": "The kid was laughing."
+          }
+        ],
+        "vietnamese": "đứa trẻ"
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "hồ",
+            "example": "The lake was calm."
+          }
+        ],
+        "vietnamese": "hồ"
+      }
+    ]
+  },
+  {
+    "word": "language",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ngôn ngữ",
+            "example": "English is an important language."
+          }
+        ],
+        "vietnamese": "ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "word": "large",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "lớn",
+            "example": "They bought a large table."
+          }
+        ],
+        "vietnamese": "lớn"
+      }
+    ]
+  },
+  {
+    "word": "late",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "muộn",
+            "example": "He arrived late to the meeting."
+          }
+        ],
+        "vietnamese": "muộn"
+      }
+    ]
+  },
+  {
+    "word": "learn",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "học",
+            "example": "They want to learn something."
+          }
+        ],
+        "vietnamese": "học"
+      }
+    ]
+  },
+  {
+    "word": "letter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thư",
+            "example": "I wrote a letter to my friend."
+          }
+        ],
+        "vietnamese": "thư"
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thư viện",
+            "example": "You can borrow books from the library."
+          }
+        ],
+        "vietnamese": "thư viện"
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "ánh sáng",
+            "example": "Turn on the light, please."
+          }
+        ],
+        "vietnamese": "ánh sáng"
+      }
+    ]
+  },
+  {
+    "word": "line",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "hàng",
+            "example": "Please stand in line."
+          }
+        ],
+        "vietnamese": "hàng"
+      }
+    ]
+  },
+  {
+    "word": "little",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "nhỏ",
+            "example": "There is little time left."
+          }
+        ],
+        "vietnamese": "nhỏ"
+      }
+    ]
+  },
+  {
+    "word": "long",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "dài",
+            "example": "The road is long."
+          }
+        ],
+        "vietnamese": "dài"
+      }
+    ]
+  },
+  {
+    "word": "machine",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "máy móc",
+            "example": "This machine makes coffee."
+          }
+        ],
+        "vietnamese": "máy móc"
+      }
+    ]
+  },
+  {
+    "word": "main",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "chính",
+            "example": "The main street is busy."
+          }
+        ],
+        "vietnamese": "chính"
+      }
+    ]
+  },
+  {
+    "word": "market",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chợ",
+            "example": "We bought vegetables at the market."
+          }
+        ],
+        "vietnamese": "chợ"
+      }
+    ]
+  },
+  {
+    "word": "meal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bữa ăn",
+            "example": "That was a delicious meal."
+          }
+        ],
+        "vietnamese": "bữa ăn"
+      }
+    ]
+  },
+  {
+    "word": "member",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thành viên",
+            "example": "She is a member of the team."
+          }
+        ],
+        "vietnamese": "thành viên"
+      }
+    ]
+  },
+  {
+    "word": "message",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tin nhắn",
+            "example": "I left you a message."
+          }
+        ],
+        "vietnamese": "tin nhắn"
+      }
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "sữa",
+            "example": "He drank a glass of milk."
+          }
+        ],
+        "vietnamese": "sữa"
+      }
+    ]
+  },
+  {
+    "word": "minute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phút",
+            "example": "Wait a minute, please."
+          }
+        ],
+        "vietnamese": "phút"
+      }
+    ]
+  },
+  {
+    "word": "money",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tiền",
+            "example": "She saved a lot of money."
+          }
+        ],
+        "vietnamese": "tiền"
+      }
+    ]
+  },
+  {
+    "word": "month",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tháng",
+            "example": "We meet once a month."
+          }
+        ],
+        "vietnamese": "tháng"
+      }
+    ]
+  },
+  {
+    "word": "morning",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "buổi sáng",
+            "example": "I wake up early in the morning."
+          }
+        ],
+        "vietnamese": "buổi sáng"
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mẹ",
+            "example": "My mother cooks well."
+          }
+        ],
+        "vietnamese": "mẹ"
+      }
+    ]
+  },
+  {
+    "word": "mountain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "núi",
+            "example": "We climbed a mountain."
+          }
+        ],
+        "vietnamese": "núi"
+      }
+    ]
+  },
+  {
+    "word": "music",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "âm nhạc",
+            "example": "I like listening to music."
+          }
+        ],
+        "vietnamese": "âm nhạc"
+      }
+    ]
+  },
+  {
+    "word": "name",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tên",
+            "example": "What is your name?"
+          }
+        ],
+        "vietnamese": "tên"
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "mới",
+            "example": "I bought a new notebook."
+          }
+        ],
+        "vietnamese": "mới"
+      }
+    ]
+  },
+  {
+    "word": "news",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tin tức",
+            "example": "The news was surprising."
+          }
+        ],
+        "vietnamese": "tin tức"
+      }
+    ]
+  },
+  {
+    "word": "night",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đêm",
+            "example": "It is cold at night."
+          }
+        ],
+        "vietnamese": "đêm"
+      }
+    ]
+  },
+  {
+    "word": "north",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phía bắc",
+            "example": "They live in the north of the country."
+          }
+        ],
+        "vietnamese": "phía bắc"
+      }
+    ]
+  },
+  {
+    "word": "number",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "số",
+            "example": "Choose a number from one to ten."
+          }
+        ],
+        "vietnamese": "số"
+      }
+    ]
+  },
+  {
+    "word": "office",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "văn phòng",
+            "example": "She works in an office."
+          }
+        ],
+        "vietnamese": "văn phòng"
+      }
+    ]
+  },
+  {
+    "word": "open",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "mở",
+            "example": "Please open the window."
+          }
+        ],
+        "vietnamese": "mở"
+      }
+    ]
+  },
+  {
+    "word": "page",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trang",
+            "example": "Turn to page 10."
+          }
+        ],
+        "vietnamese": "trang"
+      }
+    ]
+  },
+  {
+    "word": "paper",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giấy",
+            "example": "Please write your answer on paper."
+          }
+        ],
+        "vietnamese": "giấy"
+      }
+    ]
+  },
+  {
+    "word": "parent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phụ huynh",
+            "example": "Each parent came to the meeting."
+          }
+        ],
+        "vietnamese": "phụ huynh"
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "công viên",
+            "example": "The children are playing in the park."
+          }
+        ],
+        "vietnamese": "công viên"
+      }
+    ]
+  },
+  {
+    "word": "part",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phần",
+            "example": "This is the best part of the song."
+          }
+        ],
+        "vietnamese": "phần"
+      }
+    ]
+  },
+  {
+    "word": "people",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mọi người",
+            "example": "Many people came to the event."
+          }
+        ],
+        "vietnamese": "mọi người"
+      }
+    ]
+  },
+  {
+    "word": "picture",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bức tranh",
+            "example": "I took a picture of the beach."
+          }
+        ],
+        "vietnamese": "bức tranh"
+      }
+    ]
+  },
+  {
+    "word": "place",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nơi",
+            "example": "This is a good place to eat."
+          }
+        ],
+        "vietnamese": "nơi"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cây",
+            "example": "We planted a tree in the yard."
+          }
+        ],
+        "vietnamese": "cây"
+      }
+    ]
+  },
+  {
+    "word": "police",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cảnh sát",
+            "example": "The police arrived quickly."
+          }
+        ],
+        "vietnamese": "cảnh sát"
+      }
+    ]
+  },
+  {
+    "word": "possible",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "có thể",
+            "example": "It is possible to finish today."
+          }
+        ],
+        "vietnamese": "có thể"
+      }
+    ]
+  },
+  {
+    "word": "price",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giá",
+            "example": "The price went up."
+          }
+        ],
+        "vietnamese": "giá"
+      }
+    ]
+  },
+  {
+    "word": "program",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chương trình",
+            "example": "We watched a TV program."
+          }
+        ],
+        "vietnamese": "chương trình"
+      }
+    ]
+  },
+  {
+    "word": "rain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mưa",
+            "example": "It started to rain."
+          }
+        ],
+        "vietnamese": "mưa"
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "đọc",
+            "example": "I like to read at night."
+          }
+        ],
+        "vietnamese": "đọc"
+      }
+    ]
+  },
+  {
+    "word": "ready",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "sẵn sàng",
+            "example": "We are ready to start."
+          }
+        ],
+        "vietnamese": "sẵn sàng"
+      }
+    ]
+  },
+  {
+    "word": "reason",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "lý do",
+            "example": "There is a good reason for that."
+          }
+        ],
+        "vietnamese": "lý do"
+      }
+    ]
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhà hàng",
+            "example": "We ate at a restaurant downtown."
+          }
+        ],
+        "vietnamese": "nhà hàng"
+      }
+    ]
+  },
+  {
+    "word": "room",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phòng",
+            "example": "The room is very small."
+          }
+        ],
+        "vietnamese": "phòng"
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "trường học",
+            "example": "The school is near my house."
+          }
+        ],
+        "vietnamese": "trường học"
+      }
+    ]
+  },
+  {
+    "word": "sea",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "biển",
+            "example": "The sea was calm."
+          }
+        ],
+        "vietnamese": "biển"
+      }
+    ]
+  },
+  {
+    "word": "season",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mùa",
+            "example": "Spring is my favourite season."
+          }
+        ],
+        "vietnamese": "mùa"
+      }
+    ]
+  },
+  {
+    "word": "second",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "thứ hai",
+            "example": "The room is second."
+          }
+        ],
+        "vietnamese": "thứ hai"
+      }
+    ]
+  },
+  {
+    "word": "service",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "dịch vụ",
+            "example": "The service was excellent."
+          }
+        ],
+        "vietnamese": "dịch vụ"
+      }
+    ]
+  },
+  {
+    "word": "short",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "ngắn",
+            "example": "She has short hair."
+          }
+        ],
+        "vietnamese": "ngắn"
+      }
+    ]
+  },
+  {
+    "word": "simple",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "đơn giản",
+            "example": "The instructions are simple."
+          }
+        ],
+        "vietnamese": "đơn giản"
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chị/em gái",
+            "example": "My sister is younger than me."
+          }
+        ],
+        "vietnamese": "chị/em gái"
+      }
+    ]
+  },
+  {
+    "word": "snow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tuyết",
+            "example": "It may snow tonight."
+          }
+        ],
+        "vietnamese": "tuyết"
+      }
+    ]
+  },
+  {
+    "word": "song",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bài hát",
+            "example": "This song is very popular."
+          }
+        ],
+        "vietnamese": "bài hát"
+      }
+    ]
+  },
+  {
+    "word": "south",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "phía nam",
+            "example": "This is a south example."
+          }
+        ],
+        "vietnamese": "phía nam"
+      }
+    ]
+  },
+  {
+    "word": "space",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "không gian",
+            "example": "There is enough space for a chair."
+          }
+        ],
+        "vietnamese": "không gian"
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thể thao",
+            "example": "Football is a popular sport."
+          }
+        ],
+        "vietnamese": "thể thao"
+      }
+    ]
+  },
+  {
+    "word": "station",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhà ga",
+            "example": "We met at the bus station."
+          }
+        ],
+        "vietnamese": "nhà ga"
+      }
+    ]
+  },
+  {
+    "word": "story",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "câu chuyện",
+            "example": "She told me a funny story."
+          }
+        ],
+        "vietnamese": "câu chuyện"
+      }
+    ]
+  },
+  {
+    "word": "street",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đường phố",
+            "example": "Their house is on a quiet street."
+          }
+        ],
+        "vietnamese": "đường phố"
+      }
+    ]
+  },
+  {
+    "word": "sun",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mặt trời",
+            "example": "The sun is shining."
+          }
+        ],
+        "vietnamese": "mặt trời"
+      }
+    ]
+  },
+  {
+    "word": "table",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cái bàn",
+            "example": "Put the keys on the table."
+          }
+        ],
+        "vietnamese": "cái bàn"
+      }
+    ]
+  },
+  {
+    "word": "team",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "đội",
+            "example": "Our team won the game."
+          }
+        ],
+        "vietnamese": "đội"
+      }
+    ]
+  },
+  {
+    "word": "temperature",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhiệt độ",
+            "example": "The temperature is dropping."
+          }
+        ],
+        "vietnamese": "nhiệt độ"
+      }
+    ]
+  },
+  {
+    "word": "test",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "bài kiểm tra",
+            "example": "We had a math test today."
+          }
+        ],
+        "vietnamese": "bài kiểm tra"
+      }
+    ]
+  },
+  {
+    "word": "time",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "thời gian",
+            "example": "What time is it?"
+          }
+        ],
+        "vietnamese": "thời gian"
+      }
+    ]
+  },
+  {
+    "word": "train",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tàu hỏa",
+            "example": "We went by train."
+          }
+        ],
+        "vietnamese": "tàu hỏa"
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cây",
+            "example": "A tree fell during the storm."
+          }
+        ],
+        "vietnamese": "cây"
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chuyến đi",
+            "example": "We planned a short trip."
+          }
+        ],
+        "vietnamese": "chuyến đi"
+      }
+    ]
+  },
+  {
+    "word": "uncle",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "chú/cậu/bác",
+            "example": "My uncle is visiting us."
+          }
+        ],
+        "vietnamese": "chú/cậu/bác"
+      }
+    ]
+  },
+  {
+    "word": "useful",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "hữu ích",
+            "example": "This app is very useful."
+          }
+        ],
+        "vietnamese": "hữu ích"
+      }
+    ]
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "rau củ",
+            "example": "Vegetables are good for you."
+          }
+        ],
+        "vietnamese": "rau củ"
+      }
+    ]
+  },
+  {
+    "word": "visit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "thăm",
+            "example": "We will visit my grandparents."
+          }
+        ],
+        "vietnamese": "thăm"
+      }
+    ]
+  },
+  {
+    "word": "voice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "giọng nói",
+            "example": "She has a strong voice."
+          }
+        ],
+        "vietnamese": "giọng nói"
+      }
+    ]
+  },
+  {
+    "word": "week",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "tuần",
+            "example": "I study English every week."
+          }
+        ],
+        "vietnamese": "tuần"
+      }
+    ]
+  },
+  {
+    "word": "welcome",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "interjection",
+        "definitions": [
+          {
+            "definition": "chào mừng",
+            "example": "Welcome to our school."
+          }
+        ],
+        "vietnamese": "chào mừng"
+      }
+    ]
+  },
+  {
+    "word": "wind",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "gió",
+            "example": "The wind is very strong today."
+          }
+        ],
+        "vietnamese": "gió"
+      }
+    ]
+  },
+  {
+    "word": "window",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "cửa sổ",
+            "example": "Open the window, please."
+          }
+        ],
+        "vietnamese": "cửa sổ"
+      }
+    ]
+  },
+  {
+    "word": "wife",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "vợ",
+            "example": "His wife works in a bank."
+          }
+        ],
+        "vietnamese": "vợ"
+      }
+    ]
+  },
+  {
+    "word": "winter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "mùa đông",
+            "example": "Winter is cold here."
+          }
+        ],
+        "vietnamese": "mùa đông"
+      }
+    ]
+  },
+  {
+    "word": "woman",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "người phụ nữ",
+            "example": "The woman is reading a book."
+          }
+        ],
+        "vietnamese": "người phụ nữ"
+      }
+    ]
+  },
+  {
+    "word": "word",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "từ",
+            "example": "This word is easy to spell."
+          }
+        ],
+        "vietnamese": "từ"
+      }
+    ]
+  },
+  {
+    "word": "writer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "nhà văn",
+            "example": "The writer published a new book."
+          }
+        ],
+        "vietnamese": "nhà văn"
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "vàng",
+            "example": "The flowers are yellow."
+          }
+        ],
+        "vietnamese": "vàng"
+      }
+    ]
+  },
+  {
+    "word": "young",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "trẻ",
+            "example": "He is still young."
+          }
+        ],
+        "vietnamese": "trẻ"
       }
     ]
   }
