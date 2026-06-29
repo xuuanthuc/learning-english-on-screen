@@ -73416,5 +73416,1569 @@
         "vietnamese": "phẩm giá"
       }
     ]
+  },
+  {
+    "word": "dimension",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A measurable size such as length, width, or height, or an aspect of a situation.",
+            "example": "The problem has several political dimensions."
+          }
+        ],
+        "vietnamese": "chiều; khía cạnh"
+      }
+    ]
+  },
+  {
+    "word": "diminish",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become or make something smaller, weaker, or less important.",
+            "example": "His influence in the company began to diminish."
+          }
+        ],
+        "vietnamese": "giảm bớt"
+      }
+    ]
+  },
+  {
+    "word": "dip",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To put something briefly into a liquid or to move downward for a short time.",
+            "example": "She dipped the brush into the paint."
+          }
+        ],
+        "vietnamese": "nhúng; giảm xuống"
+      }
+    ]
+  },
+  {
+    "word": "directory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A book, list, or computer folder containing organized information.",
+            "example": "The phone directory is now available online."
+          }
+        ],
+        "vietnamese": "danh bạ; thư mục"
+      }
+    ]
+  },
+  {
+    "word": "disability",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A physical or mental condition that makes some activities difficult.",
+            "example": "The building has better access for people with disabilities."
+          }
+        ],
+        "vietnamese": "khuyết tật"
+      }
+    ]
+  },
+  {
+    "word": "discharge",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To allow someone to leave a hospital or official place, or to release something.",
+            "example": "The patient was discharged from hospital on Monday."
+          }
+        ],
+        "vietnamese": "xuất viện; thải ra"
+      }
+    ]
+  },
+  {
+    "word": "disclose",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make secret or new information known publicly.",
+            "example": "The company refused to disclose the full details."
+          }
+        ],
+        "vietnamese": "tiết lộ"
+      }
+    ]
+  },
+  {
+    "word": "discourse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A serious discussion or a way of speaking about a subject.",
+            "example": "Public discourse on the issue has become more respectful."
+          }
+        ],
+        "vietnamese": "diễn ngôn; thảo luận"
+      }
+    ]
+  },
+  {
+    "word": "discrimination",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Unfair treatment of people because of their race, sex, age, or other characteristics.",
+            "example": "The law is intended to prevent discrimination at work."
+          }
+        ],
+        "vietnamese": "sự phân biệt đối xử"
+      }
+    ]
+  },
+  {
+    "word": "dismiss",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To decide that someone or something is not important, or to officially remove someone from a job.",
+            "example": "He dismissed the criticism as unfair."
+          }
+        ],
+        "vietnamese": "bác bỏ; sa thải"
+      }
+    ]
+  },
+  {
+    "word": "displace",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To force someone or something out of its usual place.",
+            "example": "The conflict displaced thousands of families."
+          }
+        ],
+        "vietnamese": "di dời"
+      }
+    ]
+  },
+  {
+    "word": "disposal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of getting rid of something, or the power to use something as you wish.",
+            "example": "Safe waste disposal is a major concern."
+          }
+        ],
+        "vietnamese": "sự xử lý; quyền sử dụng"
+      }
+    ]
+  },
+  {
+    "word": "dispute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A serious disagreement or argument.",
+            "example": "The border dispute lasted for decades."
+          }
+        ],
+        "vietnamese": "tranh chấp"
+      }
+    ]
+  },
+  {
+    "word": "disrupt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To prevent something from continuing in the usual way.",
+            "example": "Heavy snow disrupted train services."
+          }
+        ],
+        "vietnamese": "làm gián đoạn"
+      }
+    ]
+  },
+  {
+    "word": "dissolve",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become part of a liquid, or to end officially.",
+            "example": "Sugar dissolves quickly in hot tea."
+          }
+        ],
+        "vietnamese": "hòa tan; giải thể"
+      }
+    ]
+  },
+  {
+    "word": "distinction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A clear difference between two similar things.",
+            "example": "There is an important distinction between the two terms."
+          }
+        ],
+        "vietnamese": "sự khác biệt"
+      }
+    ]
+  },
+  {
+    "word": "distinctive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Easy to recognize because it is different from others.",
+            "example": "The bird has a very distinctive call."
+          }
+        ],
+        "vietnamese": "đặc trưng"
+      }
+    ]
+  },
+  {
+    "word": "distort",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To change the shape, appearance, or meaning of something so that it is false or unclear.",
+            "example": "The mirror distorted her reflection."
+          }
+        ],
+        "vietnamese": "làm méo mó"
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give or deliver things to different people or places.",
+            "example": "Volunteers distributed food to the families."
+          }
+        ],
+        "vietnamese": "phân phát"
+      }
+    ]
+  },
+  {
+    "word": "distribution",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of giving things out or delivering them to places.",
+            "example": "The distribution of supplies took several hours."
+          }
+        ],
+        "vietnamese": "sự phân phối"
+      }
+    ]
+  },
+  {
+    "word": "district",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An area of a town, country, or region with official borders.",
+            "example": "They moved to a quieter district of the city."
+          }
+        ],
+        "vietnamese": "quận; khu vực"
+      }
+    ]
+  },
+  {
+    "word": "diverse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Including many different types of people or things.",
+            "example": "The city is known for its diverse population."
+          }
+        ],
+        "vietnamese": "đa dạng"
+      }
+    ]
+  },
+  {
+    "word": "diversity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The fact of including many different types of people or things.",
+            "example": "Cultural diversity is one of the country’s strengths."
+          }
+        ],
+        "vietnamese": "sự đa dạng"
+      }
+    ]
+  },
+  {
+    "word": "divorce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The legal ending of a marriage.",
+            "example": "Their divorce was finalized last year."
+          }
+        ],
+        "vietnamese": "ly hôn"
+      }
+    ]
+  },
+  {
+    "word": "domain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A particular area of knowledge or activity, or a region controlled by someone.",
+            "example": "This subject is outside my domain of expertise."
+          }
+        ],
+        "vietnamese": "lĩnh vực"
+      }
+    ]
+  },
+  {
+    "word": "dominance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being more powerful or important than others.",
+            "example": "The team’s dominance lasted for several seasons."
+          }
+        ],
+        "vietnamese": "sự thống trị"
+      }
+    ]
+  },
+  {
+    "word": "donation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Money or goods given to help a person or organization.",
+            "example": "The charity received a large donation from a local company."
+          }
+        ],
+        "vietnamese": "khoản quyên góp"
+      }
+    ]
+  },
+  {
+    "word": "dose",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A measured amount of medicine to be taken at one time.",
+            "example": "Take one dose every six hours."
+          }
+        ],
+        "vietnamese": "liều lượng"
+      }
+    ]
+  },
+  {
+    "word": "drain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To remove liquid from something or to use up completely.",
+            "example": "Rainwater drains into the river."
+          }
+        ],
+        "vietnamese": "thoát nước; làm cạn kiệt"
+      }
+    ]
+  },
+  {
+    "word": "drift",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To move slowly, especially because of wind, water, or lack of control.",
+            "example": "The boat drifted out to sea."
+          }
+        ],
+        "vietnamese": "trôi dạt"
+      }
+    ]
+  },
+  {
+    "word": "drought",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A long period with little or no rain.",
+            "example": "The region is suffering from a severe drought."
+          }
+        ],
+        "vietnamese": "hạn hán"
+      }
+    ]
+  },
+  {
+    "word": "dual",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having two parts, aspects, or functions.",
+            "example": "She has dual citizenship."
+          }
+        ],
+        "vietnamese": "kép"
+      }
+    ]
+  },
+  {
+    "word": "duration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The length of time that something lasts.",
+            "example": "The course is short in duration but very intensive."
+          }
+        ],
+        "vietnamese": "thời lượng"
+      }
+    ]
+  },
+  {
+    "word": "dynamic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having a lot of energy and new ideas; always changing.",
+            "example": "She is a dynamic leader with ambitious plans."
+          }
+        ],
+        "vietnamese": "năng động"
+      }
+    ]
+  },
+  {
+    "word": "economics",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The study of how money, industry, and trade are organized in society.",
+            "example": "He studied economics at university."
+          }
+        ],
+        "vietnamese": "kinh tế học"
+      }
+    ]
+  },
+  {
+    "word": "editorial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An article in a newspaper that gives the editors’ opinion on a topic.",
+            "example": "The editorial criticized the new policy."
+          }
+        ],
+        "vietnamese": "bài xã luận"
+      }
+    ]
+  },
+  {
+    "word": "efficiency",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to do something well without wasting time or resources.",
+            "example": "Modern machines have improved factory efficiency."
+          }
+        ],
+        "vietnamese": "hiệu quả"
+      }
+    ]
+  },
+  {
+    "word": "elaborate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Containing a lot of careful detail or decoration.",
+            "example": "They prepared an elaborate meal for the guests."
+          }
+        ],
+        "vietnamese": "cầu kỳ; chi tiết"
+      }
+    ]
+  },
+  {
+    "word": "electoral",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to voting or elections.",
+            "example": "The country is planning major electoral reforms."
+          }
+        ],
+        "vietnamese": "thuộc bầu cử"
+      }
+    ]
+  },
+  {
+    "word": "elevate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To raise something to a higher position or rank.",
+            "example": "The award helped elevate her status in the industry."
+          }
+        ],
+        "vietnamese": "nâng cao"
+      }
+    ]
+  },
+  {
+    "word": "eligible",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having the right to do or receive something.",
+            "example": "Only members are eligible for the discount."
+          }
+        ],
+        "vietnamese": "đủ điều kiện"
+      }
+    ]
+  },
+  {
+    "word": "eliminate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To completely remove or get rid of something.",
+            "example": "The new policy aims to eliminate waste."
+          }
+        ],
+        "vietnamese": "loại bỏ"
+      }
+    ]
+  },
+  {
+    "word": "embark",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To begin a journey or start something new and important.",
+            "example": "They embarked on a major research project."
+          }
+        ],
+        "vietnamese": "bắt đầu; lên đường"
+      }
+    ]
+  },
+  {
+    "word": "embody",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To represent or express an idea or quality clearly.",
+            "example": "She embodies the values of the organization."
+          }
+        ],
+        "vietnamese": "thể hiện"
+      }
+    ]
+  },
+  {
+    "word": "emergence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of appearing or becoming known.",
+            "example": "The emergence of new technologies changed the market."
+          }
+        ],
+        "vietnamese": "sự xuất hiện"
+      }
+    ]
+  },
+  {
+    "word": "emission",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A gas or other substance that is sent into the air.",
+            "example": "The factory reduced its carbon emissions."
+          }
+        ],
+        "vietnamese": "khí thải"
+      }
+    ]
+  },
+  {
+    "word": "empirical",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Based on observation or experience rather than theory.",
+            "example": "The study is based on empirical evidence."
+          }
+        ],
+        "vietnamese": "thực nghiệm"
+      }
+    ]
+  },
+  {
+    "word": "enforce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make sure that a law or rule is obeyed.",
+            "example": "Police were called in to enforce the ban."
+          }
+        ],
+        "vietnamese": "thực thi"
+      }
+    ]
+  },
+  {
+    "word": "enhance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To improve the quality, value, or attractiveness of something.",
+            "example": "The lighting was designed to enhance the atmosphere."
+          }
+        ],
+        "vietnamese": "nâng cao"
+      }
+    ]
+  },
+  {
+    "word": "enquire",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To ask for information.",
+            "example": "I am writing to enquire about the course fees."
+          }
+        ],
+        "vietnamese": "hỏi; thắc mắc"
+      }
+    ]
+  },
+  {
+    "word": "enterprise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A business or company, especially one that needs effort and skill.",
+            "example": "The region encourages small enterprise and innovation."
+          }
+        ],
+        "vietnamese": "doanh nghiệp"
+      }
+    ]
+  },
+  {
+    "word": "entitle",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give someone the official right to have or do something.",
+            "example": "This ticket entitles you to free entry."
+          }
+        ],
+        "vietnamese": "cho quyền"
+      }
+    ]
+  },
+  {
+    "word": "entity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that exists separately and has a clear identity.",
+            "example": "The two departments now operate as a single entity."
+          }
+        ],
+        "vietnamese": "thực thể"
+      }
+    ]
+  },
+  {
+    "word": "epidemic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A rapid spread of disease among many people in one area.",
+            "example": "The city struggled to control the epidemic."
+          }
+        ],
+        "vietnamese": "dịch bệnh"
+      }
+    ]
+  },
+  {
+    "word": "equation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A mathematical statement showing that two things are equal, or a complex situation between factors.",
+            "example": "Trust is an important part of the equation."
+          }
+        ],
+        "vietnamese": "phương trình"
+      }
+    ]
+  },
+  {
+    "word": "equivalent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Equal in value, amount, meaning, or importance.",
+            "example": "The qualification is equivalent to a university degree."
+          }
+        ],
+        "vietnamese": "tương đương"
+      }
+    ]
+  },
+  {
+    "word": "era",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A long period of time with particular features or events.",
+            "example": "The internet has changed life in the modern era."
+          }
+        ],
+        "vietnamese": "thời đại"
+      }
+    ]
+  },
+  {
+    "word": "erect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To build or put something upright.",
+            "example": "Workers erected a temporary fence around the site."
+          }
+        ],
+        "vietnamese": "dựng lên"
+      }
+    ]
+  },
+  {
+    "word": "erosion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The gradual destruction or removal of something, especially soil or rock.",
+            "example": "Coastal erosion is threatening nearby homes."
+          }
+        ],
+        "vietnamese": "xói mòn"
+      }
+    ]
+  },
+  {
+    "word": "essence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The most important quality or basic nature of something.",
+            "example": "In essence, the two proposals are very similar."
+          }
+        ],
+        "vietnamese": "bản chất"
+      }
+    ]
+  },
+  {
+    "word": "establishment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of starting something, or an organization or institution that is already important.",
+            "example": "The establishment of the new school took two years."
+          }
+        ],
+        "vietnamese": "sự thành lập; cơ sở"
+      }
+    ]
+  },
+  {
+    "word": "eternal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Continuing forever or for a very long time.",
+            "example": "The hills seemed covered in eternal snow."
+          }
+        ],
+        "vietnamese": "vĩnh cửu"
+      }
+    ]
+  },
+  {
+    "word": "evacuate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To move people away from a dangerous place to safety.",
+            "example": "The building was evacuated after the fire alarm sounded."
+          }
+        ],
+        "vietnamese": "sơ tán"
+      }
+    ]
+  },
+  {
+    "word": "evolution",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The gradual development of something over time.",
+            "example": "The book traces the evolution of modern medicine."
+          }
+        ],
+        "vietnamese": "sự tiến hóa"
+      }
+    ]
+  },
+  {
+    "word": "exceptional",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Much better than usual; unusually good.",
+            "example": "She showed exceptional talent at an early age."
+          }
+        ],
+        "vietnamese": "xuất sắc"
+      }
+    ]
+  },
+  {
+    "word": "exclude",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To deliberately not include someone or something.",
+            "example": "The price excludes tax and delivery charges."
+          }
+        ],
+        "vietnamese": "loại trừ"
+      }
+    ]
+  },
+  {
+    "word": "exclusion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of keeping someone or something out.",
+            "example": "The policy led to the exclusion of many families from support."
+          }
+        ],
+        "vietnamese": "sự loại trừ"
+      }
+    ]
+  },
+  {
+    "word": "execution",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of carrying out a plan, order, or piece of work.",
+            "example": "The idea was good, but the execution was poor."
+          }
+        ],
+        "vietnamese": "sự thực hiện"
+      }
+    ]
+  },
+  {
+    "word": "exert",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To use power, influence, or effort.",
+            "example": "Parents often exert a strong influence on career choices."
+          }
+        ],
+        "vietnamese": "gây ra; dùng sức"
+      }
+    ]
+  },
+  {
+    "word": "exile",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being forced to live away from your own country.",
+            "example": "The writer spent many years in exile."
+          }
+        ],
+        "vietnamese": "lưu đày"
+      }
+    ]
+  },
+  {
+    "word": "expansion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of becoming larger or more extensive.",
+            "example": "The company plans further expansion into Asia."
+          }
+        ],
+        "vietnamese": "sự mở rộng"
+      }
+    ]
+  },
+  {
+    "word": "expedition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An organized journey for a particular purpose, especially exploration or research.",
+            "example": "The team joined an expedition to the Arctic."
+          }
+        ],
+        "vietnamese": "cuộc thám hiểm"
+      }
+    ]
+  },
+  {
+    "word": "expertise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Special skill or knowledge in a particular field.",
+            "example": "We need someone with expertise in cybersecurity."
+          }
+        ],
+        "vietnamese": "chuyên môn"
+      }
+    ]
+  },
+  {
+    "word": "explicit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Clear and fully expressed, leaving nothing implied.",
+            "example": "The instructions were explicit and easy to follow."
+          }
+        ],
+        "vietnamese": "rõ ràng"
+      }
+    ]
+  },
+  {
+    "word": "exploit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To use something well in order to gain an advantage, or to treat someone unfairly for benefit.",
+            "example": "The company was accused of exploiting cheap labor."
+          }
+        ],
+        "vietnamese": "khai thác; bóc lột"
+      }
+    ]
+  },
+  {
+    "word": "exposure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being in a place or situation where something may affect you.",
+            "example": "Long exposure to the sun can damage the skin."
+          }
+        ],
+        "vietnamese": "sự tiếp xúc"
+      }
+    ]
+  },
+  {
+    "word": "extract",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To remove something from a place or source.",
+            "example": "The dentist had to extract one of my teeth."
+          }
+        ],
+        "vietnamese": "chiết xuất; lấy ra"
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make a process or action easier.",
+            "example": "The app is designed to facilitate communication between teachers and parents."
+          }
+        ],
+        "vietnamese": "tạo điều kiện"
+      }
+    ]
+  },
+  {
+    "word": "faction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A small organized group within a larger one, often with different opinions.",
+            "example": "A radical faction opposed the peace deal."
+          }
+        ],
+        "vietnamese": "phe phái"
+      }
+    ]
+  },
+  {
+    "word": "fame",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being known and admired by many people.",
+            "example": "The singer rose to fame in the 1990s."
+          }
+        ],
+        "vietnamese": "danh tiếng"
+      }
+    ]
+  },
+  {
+    "word": "fatal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Causing death, or having disastrous results.",
+            "example": "The crash proved fatal for two passengers."
+          }
+        ],
+        "vietnamese": "gây chết người"
+      }
+    ]
+  },
+  {
+    "word": "fate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The things that happen to someone, especially those beyond their control.",
+            "example": "She could not accept the fate of the old building."
+          }
+        ],
+        "vietnamese": "số phận"
+      }
+    ]
+  },
+  {
+    "word": "favorable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Showing approval, or likely to lead to success.",
+            "example": "The conditions are favorable for growth."
+          }
+        ],
+        "vietnamese": "thuận lợi"
+      }
+    ]
+  },
+  {
+    "word": "feat",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An achievement that requires great skill or courage.",
+            "example": "Climbing the mountain was an incredible feat."
+          }
+        ],
+        "vietnamese": "chiến công"
+      }
+    ]
+  },
+  {
+    "word": "feminist",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who supports equal rights and opportunities for women.",
+            "example": "She has written several books as a feminist scholar."
+          }
+        ],
+        "vietnamese": "người theo chủ nghĩa nữ quyền"
+      }
+    ]
+  },
+  {
+    "word": "fiber",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A thin thread of natural or artificial material, or plant matter important in diet.",
+            "example": "Fresh fruit is rich in fiber."
+          }
+        ],
+        "vietnamese": "sợi; chất xơ"
+      }
+    ]
+  },
+  {
+    "word": "fierce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very strong, violent, or intense.",
+            "example": "There was fierce competition for the job."
+          }
+        ],
+        "vietnamese": "dữ dội"
+      }
+    ]
+  },
+  {
+    "word": "filter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To pass through a device that removes unwanted material.",
+            "example": "Water is filtered before it reaches homes."
+          }
+        ],
+        "vietnamese": "lọc"
+      }
+    ]
+  },
+  {
+    "word": "firearm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A gun or other weapon that fires bullets.",
+            "example": "The law restricts the sale of firearms."
+          }
+        ],
+        "vietnamese": "súng"
+      }
+    ]
+  },
+  {
+    "word": "fiscal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with government money, taxes, or financial matters.",
+            "example": "The country faces serious fiscal problems."
+          }
+        ],
+        "vietnamese": "thuộc tài chính"
+      }
+    ]
+  },
+  {
+    "word": "flaw",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A fault, weakness, or mistake that makes something imperfect.",
+            "example": "The report contained a serious flaw in its reasoning."
+          }
+        ],
+        "vietnamese": "khuyết điểm"
+      }
+    ]
+  },
+  {
+    "word": "flexibility",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to change or adapt easily.",
+            "example": "Working from home offers greater flexibility."
+          }
+        ],
+        "vietnamese": "tính linh hoạt"
+      }
+    ]
   }
 ]
