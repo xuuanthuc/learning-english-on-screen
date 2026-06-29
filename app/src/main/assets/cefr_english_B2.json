@@ -76510,5 +76510,1586 @@
         "vietnamese": "điều tra viên"
       }
     ]
+  },
+  {
+    "word": "journal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A newspaper or magazine about a particular subject, or a serious academic publication.",
+            "example": "She published her findings in a medical journal."
+          }
+        ],
+        "vietnamese": "tạp chí; tạp chí học thuật"
+      }
+    ]
+  },
+  {
+    "word": "jurisdiction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The official power to make legal decisions, or the area where this power applies.",
+            "example": "The case is outside the court’s jurisdiction."
+          }
+        ],
+        "vietnamese": "thẩm quyền tài phán"
+      }
+    ]
+  },
+  {
+    "word": "keen",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very eager or interested.",
+            "example": "She is keen to learn more about the project."
+          }
+        ],
+        "vietnamese": "háo hức; nhiệt tình"
+      }
+    ]
+  },
+  {
+    "word": "kernel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The most important part of an idea or truth.",
+            "example": "There is a kernel of truth in what he said."
+          }
+        ],
+        "vietnamese": "cốt lõi"
+      }
+    ]
+  },
+  {
+    "word": "kingdom",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A country ruled by a king or queen, or a particular area of life or nature.",
+            "example": "This species belongs to the animal kingdom."
+          }
+        ],
+        "vietnamese": "vương quốc"
+      }
+    ]
+  },
+  {
+    "word": "landlord",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who owns property and rents it to others.",
+            "example": "The landlord agreed to repair the roof."
+          }
+        ],
+        "vietnamese": "chủ nhà cho thuê"
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Everything you can see in an area of land, especially in the countryside.",
+            "example": "The volcanic landscape attracts many tourists."
+          }
+        ],
+        "vietnamese": "phong cảnh"
+      }
+    ]
+  },
+  {
+    "word": "lane",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A narrow road or a marked strip on a road for one line of traffic.",
+            "example": "The cyclists stayed in the outside lane."
+          }
+        ],
+        "vietnamese": "làn đường; ngõ nhỏ"
+      }
+    ]
+  },
+  {
+    "word": "latter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Being the second of two things or people already mentioned.",
+            "example": "Of tea and coffee, I prefer the latter."
+          }
+        ],
+        "vietnamese": "cái/thứ được nhắc đến sau"
+      }
+    ]
+  },
+  {
+    "word": "lawmaker",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who makes or changes laws, especially a member of a parliament.",
+            "example": "Lawmakers are debating the proposed reforms."
+          }
+        ],
+        "vietnamese": "nhà lập pháp"
+      }
+    ]
+  },
+  {
+    "word": "legacy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something left from an earlier time or from someone who has died.",
+            "example": "The bridge remains a lasting legacy of the engineer’s work."
+          }
+        ],
+        "vietnamese": "di sản"
+      }
+    ]
+  },
+  {
+    "word": "legend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A very famous person, or an old traditional story.",
+            "example": "She became a legend in the world of jazz."
+          }
+        ],
+        "vietnamese": "huyền thoại"
+      }
+    ]
+  },
+  {
+    "word": "legislation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A law or set of laws made by a government.",
+            "example": "New legislation will protect online consumers."
+          }
+        ],
+        "vietnamese": "pháp luật; luật pháp"
+      }
+    ]
+  },
+  {
+    "word": "legitimate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Allowed by law or accepted as reasonable and proper.",
+            "example": "They had legitimate concerns about safety."
+          }
+        ],
+        "vietnamese": "hợp pháp; chính đáng"
+      }
+    ]
+  },
+  {
+    "word": "lengthy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very long, often longer than necessary.",
+            "example": "The report was accurate but rather lengthy."
+          }
+        ],
+        "vietnamese": "dài dòng"
+      }
+    ]
+  },
+  {
+    "word": "lesion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A wound or area of damaged tissue in the body.",
+            "example": "The doctor found a small lesion on the skin."
+          }
+        ],
+        "vietnamese": "tổn thương"
+      }
+    ]
+  },
+  {
+    "word": "liability",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being legally responsible for something, or a disadvantage.",
+            "example": "The company accepted liability for the accident."
+          }
+        ],
+        "vietnamese": "trách nhiệm pháp lý"
+      }
+    ]
+  },
+  {
+    "word": "liberal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Willing to accept change and new ideas, especially in politics.",
+            "example": "She comes from a politically liberal family."
+          }
+        ],
+        "vietnamese": "cởi mở; tự do"
+      }
+    ]
+  },
+  {
+    "word": "liberty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The freedom to live as you choose without too many restrictions.",
+            "example": "Many people fought for liberty and equality."
+          }
+        ],
+        "vietnamese": "tự do"
+      }
+    ]
+  },
+  {
+    "word": "likelihood",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The chance that something will happen.",
+            "example": "There is little likelihood of rain this afternoon."
+          }
+        ],
+        "vietnamese": "khả năng xảy ra"
+      }
+    ]
+  },
+  {
+    "word": "literacy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to read and write, or knowledge of a particular subject.",
+            "example": "The program aims to improve digital literacy."
+          }
+        ],
+        "vietnamese": "biết chữ; hiểu biết"
+      }
+    ]
+  },
+  {
+    "word": "liver",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large organ in the body that helps clean the blood and produce substances needed for digestion.",
+            "example": "Too much alcohol can damage the liver."
+          }
+        ],
+        "vietnamese": "gan"
+      }
+    ]
+  },
+  {
+    "word": "logic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A clear and reasonable way of thinking.",
+            "example": "I fail to see the logic behind that decision."
+          }
+        ],
+        "vietnamese": "logic; lý lẽ"
+      }
+    ]
+  },
+  {
+    "word": "long-standing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having existed for a long time.",
+            "example": "They are trying to solve a long-standing dispute."
+          }
+        ],
+        "vietnamese": "lâu đời"
+      }
+    ]
+  },
+  {
+    "word": "loyalty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong feeling of support or faithfulness toward someone or something.",
+            "example": "The brand inspires great customer loyalty."
+          }
+        ],
+        "vietnamese": "lòng trung thành"
+      }
+    ]
+  },
+  {
+    "word": "machinery",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Machines in general, especially in a factory or workplace.",
+            "example": "New machinery improved production speed."
+          }
+        ],
+        "vietnamese": "máy móc"
+      }
+    ]
+  },
+  {
+    "word": "magistrate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A judge who deals with less serious crimes in some legal systems.",
+            "example": "The magistrate fined him for careless driving."
+          }
+        ],
+        "vietnamese": "thẩm phán sơ cấp"
+      }
+    ]
+  },
+  {
+    "word": "mainstream",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Considered normal, common, or accepted by most people.",
+            "example": "The issue has entered mainstream political debate."
+          }
+        ],
+        "vietnamese": "chủ đạo"
+      }
+    ]
+  },
+  {
+    "word": "maintenance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The work needed to keep something in good condition.",
+            "example": "The building requires regular maintenance."
+          }
+        ],
+        "vietnamese": "bảo trì"
+      }
+    ]
+  },
+  {
+    "word": "mandatory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Required by law or rules; compulsory.",
+            "example": "Seat belts are mandatory in all vehicles."
+          }
+        ],
+        "vietnamese": "bắt buộc"
+      }
+    ]
+  },
+  {
+    "word": "manifest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To show something clearly through signs or actions.",
+            "example": "Stress can manifest itself in different ways."
+          }
+        ],
+        "vietnamese": "biểu hiện"
+      }
+    ]
+  },
+  {
+    "word": "manipulate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To control or influence something or someone cleverly, often unfairly.",
+            "example": "The data had been manipulated to support the argument."
+          }
+        ],
+        "vietnamese": "thao túng"
+      }
+    ]
+  },
+  {
+    "word": "marble",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A hard smooth stone used in buildings and statues.",
+            "example": "The floor was made of white marble."
+          }
+        ],
+        "vietnamese": "đá cẩm thạch"
+      }
+    ]
+  },
+  {
+    "word": "margin",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The empty space at the edge of a page, or a small difference or amount.",
+            "example": "They won the election by a narrow margin."
+          }
+        ],
+        "vietnamese": "lề; biên độ"
+      }
+    ]
+  },
+  {
+    "word": "marine",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with the sea and sea life.",
+            "example": "Marine pollution is a growing global problem."
+          }
+        ],
+        "vietnamese": "thuộc biển"
+      }
+    ]
+  },
+  {
+    "word": "mask",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To hide something, especially a feeling or problem.",
+            "example": "He tried to mask his disappointment with a smile."
+          }
+        ],
+        "vietnamese": "che giấu"
+      }
+    ]
+  },
+  {
+    "word": "massacre",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The killing of a large number of people or animals, especially in a cruel way.",
+            "example": "The memorial honors the victims of the massacre."
+          }
+        ],
+        "vietnamese": "vụ thảm sát"
+      }
+    ]
+  },
+  {
+    "word": "mature",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To develop fully and become adult or complete.",
+            "example": "The market is beginning to mature."
+          }
+        ],
+        "vietnamese": "trưởng thành; phát triển đầy đủ"
+      }
+    ]
+  },
+  {
+    "word": "meaningful",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Having serious value, purpose, or importance.",
+            "example": "They want more meaningful discussions about policy."
+          }
+        ],
+        "vietnamese": "có ý nghĩa"
+      }
+    ]
+  },
+  {
+    "word": "mechanism",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A system of parts that work together, or a way of achieving something.",
+            "example": "The body has a natural mechanism for healing."
+          }
+        ],
+        "vietnamese": "cơ chế"
+      }
+    ]
+  },
+  {
+    "word": "medal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A flat piece of metal given as an award.",
+            "example": "She won a gold medal in the final."
+          }
+        ],
+        "vietnamese": "huy chương"
+      }
+    ]
+  },
+  {
+    "word": "mediate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To try to end a disagreement by helping both sides reach an agreement.",
+            "example": "The UN offered to mediate in the conflict."
+          }
+        ],
+        "vietnamese": "làm trung gian"
+      }
+    ]
+  },
+  {
+    "word": "medieval",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to the Middle Ages in Europe.",
+            "example": "The town is famous for its medieval castle."
+          }
+        ],
+        "vietnamese": "thuộc trung cổ"
+      }
+    ]
+  },
+  {
+    "word": "meditation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The practice of thinking deeply or focusing the mind for calm or spiritual reasons.",
+            "example": "She uses meditation to manage stress."
+          }
+        ],
+        "vietnamese": "thiền định"
+      }
+    ]
+  },
+  {
+    "word": "melt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become liquid because of heat, or to disappear gradually.",
+            "example": "The ice began to melt in the sun."
+          }
+        ],
+        "vietnamese": "tan chảy"
+      }
+    ]
+  },
+  {
+    "word": "memo",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A short written message used in an office.",
+            "example": "The manager sent a memo to all employees."
+          }
+        ],
+        "vietnamese": "bản ghi nhớ"
+      }
+    ]
+  },
+  {
+    "word": "merchant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or company involved in buying and selling goods.",
+            "example": "The town grew rich through trade with foreign merchants."
+          }
+        ],
+        "vietnamese": "thương nhân"
+      }
+    ]
+  },
+  {
+    "word": "mere",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Used to emphasize that something is small or not important by itself.",
+            "example": "It took a mere five minutes to finish."
+          }
+        ],
+        "vietnamese": "chỉ là"
+      }
+    ]
+  },
+  {
+    "word": "mercy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Kindness or forgiveness shown to someone who could be punished.",
+            "example": "The judge showed mercy because it was his first offense."
+          }
+        ],
+        "vietnamese": "lòng thương xót"
+      }
+    ]
+  },
+  {
+    "word": "merit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of being good and deserving attention or reward.",
+            "example": "The proposal has some merit, but it needs work."
+          }
+        ],
+        "vietnamese": "giá trị; công lao"
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A word or phrase used to describe something by comparing it with something else.",
+            "example": "The poem uses the sea as a metaphor for freedom."
+          }
+        ],
+        "vietnamese": "ẩn dụ"
+      }
+    ]
+  },
+  {
+    "word": "methodology",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A system of methods used in a particular field or activity.",
+            "example": "The research methodology was carefully designed."
+          }
+        ],
+        "vietnamese": "phương pháp luận"
+      }
+    ]
+  },
+  {
+    "word": "midst",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The middle of a group, place, or period of time.",
+            "example": "In the midst of the crisis, they stayed calm."
+          }
+        ],
+        "vietnamese": "giữa; lúc đang"
+      }
+    ]
+  },
+  {
+    "word": "migration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The movement of people or animals from one place to another.",
+            "example": "Climate change is increasing human migration."
+          }
+        ],
+        "vietnamese": "sự di cư"
+      }
+    ]
+  },
+  {
+    "word": "militant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Using force or strong pressure to achieve political or social change.",
+            "example": "A militant group claimed responsibility for the attack."
+          }
+        ],
+        "vietnamese": "hiếu chiến"
+      }
+    ]
+  },
+  {
+    "word": "mineral",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A natural substance formed in the ground, often used in industry or health.",
+            "example": "The region is rich in valuable minerals."
+          }
+        ],
+        "vietnamese": "khoáng chất"
+      }
+    ]
+  },
+  {
+    "word": "minimal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very small in amount; as little as possible.",
+            "example": "The damage was minimal after the storm."
+          }
+        ],
+        "vietnamese": "tối thiểu"
+      }
+    ]
+  },
+  {
+    "word": "minimize",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To reduce something to the smallest possible amount or degree.",
+            "example": "We need to minimize the risk of error."
+          }
+        ],
+        "vietnamese": "giảm thiểu"
+      }
+    ]
+  },
+  {
+    "word": "mining",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The industry or activity of removing coal, gold, or other substances from the ground.",
+            "example": "Mining remains an important industry in the region."
+          }
+        ],
+        "vietnamese": "khai thác mỏ"
+      }
+    ]
+  },
+  {
+    "word": "ministry",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A government department with a particular area of responsibility.",
+            "example": "The Ministry of Health announced new measures."
+          }
+        ],
+        "vietnamese": "bộ"
+      }
+    ]
+  },
+  {
+    "word": "misery",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Great suffering or unhappiness.",
+            "example": "War has brought misery to millions."
+          }
+        ],
+        "vietnamese": "nỗi khổ"
+      }
+    ]
+  },
+  {
+    "word": "mobility",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to move easily or be moved easily.",
+            "example": "Technology has improved social mobility for some groups."
+          }
+        ],
+        "vietnamese": "khả năng di chuyển"
+      }
+    ]
+  },
+  {
+    "word": "mobilize",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To organize people or resources for action.",
+            "example": "Volunteers were mobilized within hours of the flood."
+          }
+        ],
+        "vietnamese": "huy động"
+      }
+    ]
+  },
+  {
+    "word": "modification",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A small change made to improve something.",
+            "example": "The plan needs a few modifications before approval."
+          }
+        ],
+        "vietnamese": "sự sửa đổi"
+      }
+    ]
+  },
+  {
+    "word": "module",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A separate unit that can be combined with others as part of a system or course.",
+            "example": "The course consists of six online modules."
+          }
+        ],
+        "vietnamese": "mô-đun"
+      }
+    ]
+  },
+  {
+    "word": "monetary",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to money or currency.",
+            "example": "The central bank announced new monetary measures."
+          }
+        ],
+        "vietnamese": "thuộc tiền tệ"
+      }
+    ]
+  },
+  {
+    "word": "monopoly",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Complete control of a product or service by one company or group.",
+            "example": "The company was accused of holding a monopoly in the market."
+          }
+        ],
+        "vietnamese": "độc quyền"
+      }
+    ]
+  },
+  {
+    "word": "monument",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A statue, building, or other structure built to remember a person or event.",
+            "example": "The monument honors those who died in the war."
+          }
+        ],
+        "vietnamese": "đài tưởng niệm"
+      }
+    ]
+  },
+  {
+    "word": "morality",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Beliefs about what is right and wrong.",
+            "example": "The novel raises questions about power and morality."
+          }
+        ],
+        "vietnamese": "đạo đức"
+      }
+    ]
+  },
+  {
+    "word": "mortality",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The number of deaths in a particular situation or period.",
+            "example": "Infant mortality has fallen significantly."
+          }
+        ],
+        "vietnamese": "tỷ lệ tử vong"
+      }
+    ]
+  },
+  {
+    "word": "mosque",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A building used for Muslim worship.",
+            "example": "The old mosque is one of the city’s landmarks."
+          }
+        ],
+        "vietnamese": "nhà thờ Hồi giáo"
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Movement, or a formal proposal made at a meeting.",
+            "example": "The committee passed the motion unanimously."
+          }
+        ],
+        "vietnamese": "chuyển động; kiến nghị"
+      }
+    ]
+  },
+  {
+    "word": "motivate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make someone want to do something well.",
+            "example": "Good teachers know how to motivate their students."
+          }
+        ],
+        "vietnamese": "thúc đẩy động lực"
+      }
+    ]
+  },
+  {
+    "word": "motivation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The reason why someone does something, or the enthusiasm to do it.",
+            "example": "Money is not her main motivation for working."
+          }
+        ],
+        "vietnamese": "động lực"
+      }
+    ]
+  },
+  {
+    "word": "municipal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to a town or city and its local government.",
+            "example": "Municipal authorities approved the new housing plan."
+          }
+        ],
+        "vietnamese": "thuộc đô thị"
+      }
+    ]
+  },
+  {
+    "word": "mutual",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Shared by two or more people or groups.",
+            "example": "The agreement was based on mutual respect."
+          }
+        ],
+        "vietnamese": "lẫn nhau"
+      }
+    ]
+  },
+  {
+    "word": "myth",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An ancient story or a widely believed but false idea.",
+            "example": "The book challenges the myth that success comes easily."
+          }
+        ],
+        "vietnamese": "huyền thoại; quan niệm sai"
+      }
+    ]
+  },
+  {
+    "word": "nail",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To fasten something with a nail, or to do something successfully.",
+            "example": "She really nailed the presentation."
+          }
+        ],
+        "vietnamese": "đóng đinh; làm rất tốt"
+      }
+    ]
+  },
+  {
+    "word": "narrative",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A story or account of events.",
+            "example": "The documentary presents a powerful historical narrative."
+          }
+        ],
+        "vietnamese": "tường thuật; câu chuyện"
+      }
+    ]
+  },
+  {
+    "word": "nationwide",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Existing or happening across a whole country.",
+            "example": "The strike caused nationwide disruption."
+          }
+        ],
+        "vietnamese": "toàn quốc"
+      }
+    ]
+  },
+  {
+    "word": "naval",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with a country’s navy.",
+            "example": "The port has great naval importance."
+          }
+        ],
+        "vietnamese": "thuộc hải quân"
+      }
+    ]
+  },
+  {
+    "word": "neglect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To fail to give enough care or attention to something or someone.",
+            "example": "The buildings had been neglected for years."
+          }
+        ],
+        "vietnamese": "bỏ bê"
+      }
+    ]
+  },
+  {
+    "word": "neighboring",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Located near or next to a place.",
+            "example": "Trade with neighboring countries has increased."
+          }
+        ],
+        "vietnamese": "lân cận"
+      }
+    ]
+  },
+  {
+    "word": "nest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A structure built by birds or insects to live in and care for their young.",
+            "example": "The bird returned to its nest at dusk."
+          }
+        ],
+        "vietnamese": "tổ"
+      }
+    ]
+  },
+  {
+    "word": "neural",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to nerves or the nervous system.",
+            "example": "The study examined neural activity in the brain."
+          }
+        ],
+        "vietnamese": "thuộc thần kinh"
+      }
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Despite what has just been said or referred to.",
+            "example": "The task was difficult; nevertheless, they completed it on time."
+          }
+        ],
+        "vietnamese": "tuy nhiên"
+      }
+    ]
+  },
+  {
+    "word": "nominate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially suggest someone for a job, position, or prize.",
+            "example": "She was nominated for the best actress award."
+          }
+        ],
+        "vietnamese": "đề cử"
+      }
+    ]
+  },
+  {
+    "word": "nomination",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of officially suggesting someone for a position or prize.",
+            "example": "His nomination surprised many observers."
+          }
+        ],
+        "vietnamese": "sự đề cử"
+      }
+    ]
+  },
+  {
+    "word": "nominee",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who has been officially suggested for a job, prize, or election.",
+            "example": "The nominees were announced yesterday."
+          }
+        ],
+        "vietnamese": "người được đề cử"
+      }
+    ]
+  },
+  {
+    "word": "norm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A standard or usual pattern of behavior.",
+            "example": "In many cultures, punctuality is the norm."
+          }
+        ],
+        "vietnamese": "chuẩn mực"
+      }
+    ]
+  },
+  {
+    "word": "notable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Important, interesting, or worthy of attention.",
+            "example": "The city has seen notable progress in education."
+          }
+        ],
+        "vietnamese": "đáng chú ý"
+      }
+    ]
+  },
+  {
+    "word": "notably",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Especially or in a way that deserves attention.",
+            "example": "Several countries, notably Japan, invested heavily in the project."
+          }
+        ],
+        "vietnamese": "đáng chú ý là"
+      }
+    ]
+  },
+  {
+    "word": "notion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An idea, belief, or understanding of something.",
+            "example": "I reject the notion that success is only about money."
+          }
+        ],
+        "vietnamese": "khái niệm; quan niệm"
+      }
+    ]
   }
 ]
