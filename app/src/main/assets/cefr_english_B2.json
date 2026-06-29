@@ -78091,5 +78091,2657 @@
         "vietnamese": "khái niệm; quan niệm"
       }
     ]
+  },
+  {
+    "word": "objectivity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of making decisions based on facts rather than personal feelings or opinions.",
+            "example": "Good journalism requires accuracy and objectivity."
+          }
+        ],
+        "vietnamese": "tính khách quan"
+      }
+    ]
+  },
+  {
+    "word": "objection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A reason for not agreeing with or approving of something.",
+            "example": "Do you have any objection to the proposal?"
+          }
+        ],
+        "vietnamese": "sự phản đối"
+      }
+    ]
+  },
+  {
+    "word": "oblige",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To force someone to do something, or to do someone a favor.",
+            "example": "The new rules oblige companies to reduce waste."
+          }
+        ],
+        "vietnamese": "buộc; làm ơn"
+      }
+    ]
+  },
+  {
+    "word": "obsession",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong and unhealthy interest in something.",
+            "example": "His obsession with money damaged his relationships."
+          }
+        ],
+        "vietnamese": "sự ám ảnh"
+      }
+    ]
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that makes progress or movement difficult.",
+            "example": "Lack of funding remains a major obstacle."
+          }
+        ],
+        "vietnamese": "trở ngại"
+      }
+    ]
+  },
+  {
+    "word": "occupation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person’s job, or the act of controlling a place by military force.",
+            "example": "Please state your name and occupation on the form."
+          }
+        ],
+        "vietnamese": "nghề nghiệp; sự chiếm đóng"
+      }
+    ]
+  },
+  {
+    "word": "occupy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To fill a place, use space, or control a place by force.",
+            "example": "The files occupy too much space on the server."
+          }
+        ],
+        "vietnamese": "chiếm; chiếm đóng"
+      }
+    ]
+  },
+  {
+    "word": "offender",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who commits a crime or does something wrong.",
+            "example": "First-time offenders may receive a lighter sentence."
+          }
+        ],
+        "vietnamese": "người phạm tội"
+      }
+    ]
+  },
+  {
+    "word": "offspring",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person’s child or an animal’s young.",
+            "example": "The species produces only one offspring a year."
+          }
+        ],
+        "vietnamese": "con cái; con non"
+      }
+    ]
+  },
+  {
+    "word": "ongoing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Continuing to exist or develop at the present time.",
+            "example": "The police investigation is still ongoing."
+          }
+        ],
+        "vietnamese": "đang diễn ra"
+      }
+    ]
+  },
+  {
+    "word": "operational",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Ready for use or relating to the way an activity works in practice.",
+            "example": "The airport is fully operational again."
+          }
+        ],
+        "vietnamese": "hoạt động; vận hành"
+      }
+    ]
+  },
+  {
+    "word": "opt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To choose one thing instead of another.",
+            "example": "Many students opt to study abroad for a semester."
+          }
+        ],
+        "vietnamese": "chọn"
+      }
+    ]
+  },
+  {
+    "word": "optical",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to sight, eyes, or light.",
+            "example": "The lens is part of a complex optical system."
+          }
+        ],
+        "vietnamese": "thuộc quang học"
+      }
+    ]
+  },
+  {
+    "word": "optimism",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The feeling that good things will happen in the future.",
+            "example": "There is cautious optimism about the peace talks."
+          }
+        ],
+        "vietnamese": "sự lạc quan"
+      }
+    ]
+  },
+  {
+    "word": "oral",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Spoken rather than written, or relating to the mouth.",
+            "example": "Students must pass both a written and an oral exam."
+          }
+        ],
+        "vietnamese": "bằng miệng; thuộc miệng"
+      }
+    ]
+  },
+  {
+    "word": "organizational",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with arranging activities or with the structure of an organization.",
+            "example": "She has strong organizational skills."
+          }
+        ],
+        "vietnamese": "thuộc tổ chức"
+      }
+    ]
+  },
+  {
+    "word": "orientation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The type of beliefs or interests a person has, or the process of familiarizing someone with a new situation.",
+            "example": "New employees attend an orientation session."
+          }
+        ],
+        "vietnamese": "định hướng; buổi định hướng"
+      }
+    ]
+  },
+  {
+    "word": "originate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To come from a particular place or start in a particular way.",
+            "example": "The rumor appears to have originated online."
+          }
+        ],
+        "vietnamese": "bắt nguồn"
+      }
+    ]
+  },
+  {
+    "word": "outbreak",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A sudden start of something unpleasant, especially disease or violence.",
+            "example": "The outbreak of flu closed several schools."
+          }
+        ],
+        "vietnamese": "sự bùng phát"
+      }
+    ]
+  },
+  {
+    "word": "outlet",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A store, a way of expressing feelings, or a point where electricity is supplied.",
+            "example": "Writing became an outlet for her frustration."
+          }
+        ],
+        "vietnamese": "cửa hàng; lối thoát; ổ cắm"
+      }
+    ]
+  },
+  {
+    "word": "outlook",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Your general attitude to life, or what is likely to happen in the future.",
+            "example": "The economic outlook remains uncertain."
+          }
+        ],
+        "vietnamese": "quan điểm; triển vọng"
+      }
+    ]
+  },
+  {
+    "word": "output",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The amount of something produced by a person, machine, or organization.",
+            "example": "Factory output increased by ten percent."
+          }
+        ],
+        "vietnamese": "sản lượng"
+      }
+    ]
+  },
+  {
+    "word": "overcome",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To succeed in dealing with or controlling a problem or feeling.",
+            "example": "She worked hard to overcome her fear of public speaking."
+          }
+        ],
+        "vietnamese": "vượt qua"
+      }
+    ]
+  },
+  {
+    "word": "overall",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Considering everything or everyone together.",
+            "example": "The overall result was better than expected."
+          }
+        ],
+        "vietnamese": "tổng thể"
+      }
+    ]
+  },
+  {
+    "word": "overlook",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To fail to notice something, or to have a view from above.",
+            "example": "We may have overlooked an important detail."
+          }
+        ],
+        "vietnamese": "bỏ sót; nhìn ra"
+      }
+    ]
+  },
+  {
+    "word": "overseas",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "In or to a foreign country across the sea.",
+            "example": "The company is expanding into overseas markets."
+          }
+        ],
+        "vietnamese": "ở nước ngoài"
+      }
+    ]
+  },
+  {
+    "word": "overwhelm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To defeat someone emotionally or by force because the effect is too great.",
+            "example": "She was overwhelmed by the amount of work."
+          }
+        ],
+        "vietnamese": "áp đảo; làm cho choáng ngợp"
+      }
+    ]
+  },
+  {
+    "word": "ownership",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of owning something.",
+            "example": "The document proves ownership of the land."
+          }
+        ],
+        "vietnamese": "quyền sở hữu"
+      }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A gas in the air that people and animals need to breathe.",
+            "example": "Patients with breathing problems may need extra oxygen."
+          }
+        ],
+        "vietnamese": "oxy"
+      }
+    ]
+  },
+  {
+    "word": "packet",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A small paper or plastic container with things inside.",
+            "example": "He opened a packet of sugar for his coffee."
+          }
+        ],
+        "vietnamese": "gói"
+      }
+    ]
+  },
+  {
+    "word": "pad",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A thick piece of soft material used for protection or comfort, or a block of sheets of paper.",
+            "example": "She wrote the number on a pad by the phone."
+          }
+        ],
+        "vietnamese": "miếng đệm; tập giấy"
+      }
+    ]
+  },
+  {
+    "word": "parameter",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A limit or set of limits that controls what something should be like.",
+            "example": "We need to define the main parameters of the project."
+          }
+        ],
+        "vietnamese": "tham số"
+      }
+    ]
+  },
+  {
+    "word": "parental",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with being a parent.",
+            "example": "The school encourages parental involvement."
+          }
+        ],
+        "vietnamese": "thuộc cha mẹ"
+      }
+    ]
+  },
+  {
+    "word": "partial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not complete, or unfairly favoring one side.",
+            "example": "We only have partial information at this stage."
+          }
+        ],
+        "vietnamese": "một phần; thiên vị"
+      }
+    ]
+  },
+  {
+    "word": "participant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who takes part in an activity or event.",
+            "example": "All participants received a certificate."
+          }
+        ],
+        "vietnamese": "người tham gia"
+      }
+    ]
+  },
+  {
+    "word": "partnership",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A relationship in which two or more people or groups work together.",
+            "example": "The project is a partnership between universities."
+          }
+        ],
+        "vietnamese": "quan hệ hợp tác"
+      }
+    ]
+  },
+  {
+    "word": "passive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not active or not reacting strongly to what happens.",
+            "example": "Customers remained passive during the discussion."
+          }
+        ],
+        "vietnamese": "thụ động"
+      }
+    ]
+  },
+  {
+    "word": "password",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A secret word or set of characters used to enter a computer system.",
+            "example": "Choose a strong password and change it regularly."
+          }
+        ],
+        "vietnamese": "mật khẩu"
+      }
+    ]
+  },
+  {
+    "word": "patch",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A small piece of material used to cover a hole, or a small area of land.",
+            "example": "There was a wet patch on the wall."
+          }
+        ],
+        "vietnamese": "miếng vá; mảng"
+      }
+    ]
+  },
+  {
+    "word": "patent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official legal right to make or sell an invention.",
+            "example": "The company applied for a patent for the device."
+          }
+        ],
+        "vietnamese": "bằng sáng chế"
+      }
+    ]
+  },
+  {
+    "word": "pathway",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A path, route, or process that leads to a particular result.",
+            "example": "Education can provide a pathway out of poverty."
+          }
+        ],
+        "vietnamese": "con đường; lối đi"
+      }
+    ]
+  },
+  {
+    "word": "patrol",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of checking an area regularly for safety or security.",
+            "example": "Police increased patrols in the neighborhood."
+          }
+        ],
+        "vietnamese": "cuộc tuần tra"
+      }
+    ]
+  },
+  {
+    "word": "peak",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The highest point or strongest level of something.",
+            "example": "Electricity demand reaches its peak in the evening."
+          }
+        ],
+        "vietnamese": "đỉnh"
+      }
+    ]
+  },
+  {
+    "word": "peer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person of the same age, social position, or ability as another person.",
+            "example": "Children are often influenced by their peers."
+          }
+        ],
+        "vietnamese": "bạn đồng trang lứa"
+      }
+    ]
+  },
+  {
+    "word": "penalty",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A punishment or disadvantage for breaking a rule or law.",
+            "example": "There is a heavy penalty for late payment."
+          }
+        ],
+        "vietnamese": "hình phạt"
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To notice, understand, or interpret something in a particular way.",
+            "example": "Children often perceive things differently from adults."
+          }
+        ],
+        "vietnamese": "nhận thức"
+      }
+    ]
+  },
+  {
+    "word": "perception",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A belief or opinion, often formed from the way things appear.",
+            "example": "Public perception of the company changed rapidly."
+          }
+        ],
+        "vietnamese": "nhận thức; cách nhìn nhận"
+      }
+    ]
+  },
+  {
+    "word": "persistent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Continuing to exist for a long time or refusing to give up.",
+            "example": "She made a persistent effort to improve."
+          }
+        ],
+        "vietnamese": "kiên trì; dai dẳng"
+      }
+    ]
+  },
+  {
+    "word": "personnel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The people who work in an organization or military force.",
+            "example": "All personnel must attend the safety meeting."
+          }
+        ],
+        "vietnamese": "nhân sự"
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A particular way of thinking about or understanding something.",
+            "example": "Try to see the issue from a different perspective."
+          }
+        ],
+        "vietnamese": "góc nhìn"
+      }
+    ]
+  },
+  {
+    "word": "phase",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A stage in a process of change or development.",
+            "example": "The project has entered its final phase."
+          }
+        ],
+        "vietnamese": "giai đoạn"
+      }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A fact or event that can be observed and is often unusual or interesting.",
+            "example": "The northern lights are a natural phenomenon."
+          }
+        ],
+        "vietnamese": "hiện tượng"
+      }
+    ]
+  },
+  {
+    "word": "philosophical",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to philosophy or deep thought about life and knowledge.",
+            "example": "They had a philosophical discussion about justice."
+          }
+        ],
+        "vietnamese": "thuộc triết học"
+      }
+    ]
+  },
+  {
+    "word": "physician",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A doctor, especially one who works in medicine rather than surgery.",
+            "example": "You should consult a physician if the pain continues."
+          }
+        ],
+        "vietnamese": "bác sĩ"
+      }
+    ]
+  },
+  {
+    "word": "pile",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A number of things placed one on top of another.",
+            "example": "There was a pile of books on the desk."
+          }
+        ],
+        "vietnamese": "đống"
+      }
+    ]
+  },
+  {
+    "word": "pioneer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who is among the first to develop or use something new.",
+            "example": "She was a pioneer in computer science."
+          }
+        ],
+        "vietnamese": "người tiên phong"
+      }
+    ]
+  },
+  {
+    "word": "pipeline",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A series of pipes for carrying oil, gas, or water, or a channel through which something passes.",
+            "example": "The project is still in the planning pipeline."
+          }
+        ],
+        "vietnamese": "đường ống; chuỗi cung ứng"
+      }
+    ]
+  },
+  {
+    "word": "pirate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who attacks and steals from ships, or someone who copies things illegally.",
+            "example": "Software pirate sites were shut down."
+          }
+        ],
+        "vietnamese": "cướp biển; kẻ sao chép lậu"
+      }
+    ]
+  },
+  {
+    "word": "placement",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of putting something somewhere, or a temporary job or course position.",
+            "example": "The careful placement of the lights improved the room."
+          }
+        ],
+        "vietnamese": "sự sắp đặt; vị trí thực tập"
+      }
+    ]
+  },
+  {
+    "word": "pledge",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make a serious or formal promise.",
+            "example": "The mayor pledged to improve public transport."
+          }
+        ],
+        "vietnamese": "cam kết"
+      }
+    ]
+  },
+  {
+    "word": "plug",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A device used to connect electrical equipment to a power supply.",
+            "example": "The plug needs to be replaced."
+          }
+        ],
+        "vietnamese": "phích cắm"
+      }
+    ]
+  },
+  {
+    "word": "plunge",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To fall or move suddenly and deeply downward.",
+            "example": "Temperatures plunged overnight."
+          }
+        ],
+        "vietnamese": "lao xuống; giảm mạnh"
+      }
+    ]
+  },
+  {
+    "word": "pole",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Either end of the Earth, or a long thin piece of wood or metal.",
+            "example": "The flag was tied to a wooden pole."
+          }
+        ],
+        "vietnamese": "cột; cực"
+      }
+    ]
+  },
+  {
+    "word": "poll",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A survey of people’s opinions, especially before an election.",
+            "example": "The latest poll shows rising support for the plan."
+          }
+        ],
+        "vietnamese": "cuộc thăm dò"
+      }
+    ]
+  },
+  {
+    "word": "ponder",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To think carefully about something for a long time.",
+            "example": "She sat quietly, pondering the decision."
+          }
+        ],
+        "vietnamese": "suy ngẫm"
+      }
+    ]
+  },
+  {
+    "word": "portfolio",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A set of investments, pieces of work, or responsibilities owned or managed by someone.",
+            "example": "The designer showed us her portfolio."
+          }
+        ],
+        "vietnamese": "danh mục; hồ sơ năng lực"
+      }
+    ]
+  },
+  {
+    "word": "portion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A part or share of something.",
+            "example": "Only a small portion of the budget was spent."
+          }
+        ],
+        "vietnamese": "phần"
+      }
+    ]
+  },
+  {
+    "word": "postpone",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To delay an event or action until a later time.",
+            "example": "The match was postponed because of heavy rain."
+          }
+        ],
+        "vietnamese": "hoãn lại"
+      }
+    ]
+  },
+  {
+    "word": "postwar",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Belonging to the period after a war.",
+            "example": "The city saw rapid postwar growth."
+          }
+        ],
+        "vietnamese": "hậu chiến"
+      }
+    ]
+  },
+  {
+    "word": "potentially",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Possibly; in a way that could happen or become true.",
+            "example": "This drug is potentially dangerous if misused."
+          }
+        ],
+        "vietnamese": "có khả năng"
+      }
+    ]
+  },
+  {
+    "word": "precede",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To happen or come before something else.",
+            "example": "A short introduction preceded the film."
+          }
+        ],
+        "vietnamese": "đi trước"
+      }
+    ]
+  },
+  {
+    "word": "precedent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An action or decision that is used as an example in later similar situations.",
+            "example": "The ruling could set an important legal precedent."
+          }
+        ],
+        "vietnamese": "tiền lệ"
+      }
+    ]
+  },
+  {
+    "word": "precision",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of being exact and accurate.",
+            "example": "The machine cuts with remarkable precision."
+          }
+        ],
+        "vietnamese": "độ chính xác"
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An animal that kills and eats other animals.",
+            "example": "Wolves are natural predators."
+          }
+        ],
+        "vietnamese": "động vật săn mồi"
+      }
+    ]
+  },
+  {
+    "word": "predictable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Able to be guessed or expected easily.",
+            "example": "The ending was a little too predictable."
+          }
+        ],
+        "vietnamese": "có thể đoán trước"
+      }
+    ]
+  },
+  {
+    "word": "preference",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A greater liking for one thing over another.",
+            "example": "She has a strong preference for working alone."
+          }
+        ],
+        "vietnamese": "sở thích; sự ưu tiên"
+      }
+    ]
+  },
+  {
+    "word": "pregnancy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of having a baby developing inside a woman’s body.",
+            "example": "She announced her pregnancy at the meeting."
+          }
+        ],
+        "vietnamese": "thai kỳ"
+      }
+    ]
+  },
+  {
+    "word": "prejudice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An unfair and unreasonable opinion about someone before knowing the facts.",
+            "example": "The campaign challenges racial prejudice."
+          }
+        ],
+        "vietnamese": "định kiến"
+      }
+    ]
+  },
+  {
+    "word": "premise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An idea or statement that forms the basis of an argument.",
+            "example": "The entire theory is based on a false premise."
+          }
+        ],
+        "vietnamese": "tiền đề"
+      }
+    ]
+  },
+  {
+    "word": "prescribe",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially say what should be done, or for a doctor to order medicine.",
+            "example": "The doctor prescribed rest and medication."
+          }
+        ],
+        "vietnamese": "kê đơn; quy định"
+      }
+    ]
+  },
+  {
+    "word": "prescription",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A doctor’s written order for medicine, or something officially recommended.",
+            "example": "You need a prescription to buy this drug."
+          }
+        ],
+        "vietnamese": "đơn thuốc"
+      }
+    ]
+  },
+  {
+    "word": "preservation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of protecting something from loss or damage.",
+            "example": "The museum supports the preservation of local history."
+          }
+        ],
+        "vietnamese": "sự bảo tồn"
+      }
+    ]
+  },
+  {
+    "word": "presidential",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to a president or the office of president.",
+            "example": "The presidential election will be held next year."
+          }
+        ],
+        "vietnamese": "thuộc tổng thống"
+      }
+    ]
+  },
+  {
+    "word": "prevail",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To exist or be accepted, or to win after a struggle.",
+            "example": "Common sense eventually prevailed."
+          }
+        ],
+        "vietnamese": "chiếm ưu thế; thắng thế"
+      }
+    ]
+  },
+  {
+    "word": "prevalence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The fact of being common or widespread.",
+            "example": "The prevalence of obesity has increased sharply."
+          }
+        ],
+        "vietnamese": "mức độ phổ biến"
+      }
+    ]
+  },
+  {
+    "word": "prevention",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of stopping something from happening.",
+            "example": "Early screening helps with the prevention of disease."
+          }
+        ],
+        "vietnamese": "sự phòng ngừa"
+      }
+    ]
+  },
+  {
+    "word": "privilege",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A special right or advantage given to only some people.",
+            "example": "Education should be a right, not a privilege."
+          }
+        ],
+        "vietnamese": "đặc quyền"
+      }
+    ]
+  },
+  {
+    "word": "probe",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A careful investigation into something.",
+            "example": "The government launched a probe into the scandal."
+          }
+        ],
+        "vietnamese": "cuộc điều tra"
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A fixed way of doing something, especially an official or medical process.",
+            "example": "Please follow the correct safety procedure."
+          }
+        ],
+        "vietnamese": "thủ tục; quy trình"
+      }
+    ]
+  },
+  {
+    "word": "proceed",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To continue or go forward with an action or process.",
+            "example": "The meeting will proceed as planned."
+          }
+        ],
+        "vietnamese": "tiến hành"
+      }
+    ]
+  },
+  {
+    "word": "proceeding",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An event or series of actions in a law court or official meeting.",
+            "example": "The documents were used in court proceedings."
+          }
+        ],
+        "vietnamese": "thủ tục tố tụng"
+      }
+    ]
+  },
+  {
+    "word": "processing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of preparing, changing, or handling something by a series of actions.",
+            "example": "Modern food processing can reduce waste."
+          }
+        ],
+        "vietnamese": "sự xử lý"
+      }
+    ]
+  },
+  {
+    "word": "processor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A part of a computer that controls operations and processes data.",
+            "example": "This laptop has a faster processor than my old one."
+          }
+        ],
+        "vietnamese": "bộ xử lý"
+      }
+    ]
+  },
+  {
+    "word": "proclaim",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To announce something publicly and officially.",
+            "example": "The president proclaimed a national day of mourning."
+          }
+        ],
+        "vietnamese": "tuyên bố"
+      }
+    ]
+  },
+  {
+    "word": "procure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To obtain something, especially with effort.",
+            "example": "The agency helps hospitals procure medical equipment."
+          }
+        ],
+        "vietnamese": "mua sắm; kiếm được"
+      }
+    ]
+  },
+  {
+    "word": "productivity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The rate at which a person, company, or country produces goods or work.",
+            "example": "Better tools improved worker productivity."
+          }
+        ],
+        "vietnamese": "năng suất"
+      }
+    ]
+  },
+  {
+    "word": "profession",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A type of job that needs special training or education.",
+            "example": "Teaching is a respected profession."
+          }
+        ],
+        "vietnamese": "nghề nghiệp chuyên môn"
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A description of someone or something, or a side view of a face.",
+            "example": "The magazine published a profile of the scientist."
+          }
+        ],
+        "vietnamese": "hồ sơ; chân dung"
+      }
+    ]
+  },
+  {
+    "word": "profound",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very great, deep, or strongly felt.",
+            "example": "The experience had a profound effect on her life."
+          }
+        ],
+        "vietnamese": "sâu sắc"
+      }
+    ]
+  },
+  {
+    "word": "programming",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The activity of writing computer instructions.",
+            "example": "He learned programming at university."
+          }
+        ],
+        "vietnamese": "lập trình"
+      }
+    ]
+  },
+  {
+    "word": "progressive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Favoring new ideas and social change, or developing gradually.",
+            "example": "The party is known for its progressive policies."
+          }
+        ],
+        "vietnamese": "tiến bộ"
+      }
+    ]
+  },
+  {
+    "word": "prohibit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially forbid something.",
+            "example": "The law prohibits smoking in public places."
+          }
+        ],
+        "vietnamese": "cấm"
+      }
+    ]
+  },
+  {
+    "word": "projection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A calculation or statement about what will happen in the future.",
+            "example": "Sales projections were lower than expected."
+          }
+        ],
+        "vietnamese": "dự báo"
+      }
+    ]
+  },
+  {
+    "word": "prominent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Important, famous, or easy to notice.",
+            "example": "She played a prominent role in the campaign."
+          }
+        ],
+        "vietnamese": "nổi bật"
+      }
+    ]
+  },
+  {
+    "word": "promising",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Likely to be successful or very good in the future.",
+            "example": "The research shows promising early results."
+          }
+        ],
+        "vietnamese": "đầy hứa hẹn"
+      }
+    ]
+  },
+  {
+    "word": "promotion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of advertising something, or a move to a higher position at work.",
+            "example": "She got a promotion after two years."
+          }
+        ],
+        "vietnamese": "sự thăng chức; quảng bá"
+      }
+    ]
+  },
+  {
+    "word": "prompt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To cause someone to say or do something.",
+            "example": "The question prompted a lively debate."
+          }
+        ],
+        "vietnamese": "thúc đẩy; gợi ra"
+      }
+    ]
+  },
+  {
+    "word": "proportion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A part or share of a whole, or a relationship in size or amount.",
+            "example": "A large proportion of the budget goes to healthcare."
+          }
+        ],
+        "vietnamese": "tỷ lệ"
+      }
+    ]
+  },
+  {
+    "word": "prosecute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially accuse someone in court of a crime.",
+            "example": "They decided not to prosecute due to lack of evidence."
+          }
+        ],
+        "vietnamese": "truy tố"
+      }
+    ]
+  },
+  {
+    "word": "prospect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The possibility that something will happen, or the chance of future success.",
+            "example": "The prospect of moving abroad excited her."
+          }
+        ],
+        "vietnamese": "triển vọng"
+      }
+    ]
+  },
+  {
+    "word": "prosperity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being successful, especially in making money.",
+            "example": "The reforms brought years of prosperity."
+          }
+        ],
+        "vietnamese": "sự thịnh vượng"
+      }
+    ]
+  },
+  {
+    "word": "protein",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A substance in food and the body that is needed for growth and health.",
+            "example": "Eggs are a good source of protein."
+          }
+        ],
+        "vietnamese": "chất đạm"
+      }
+    ]
+  },
+  {
+    "word": "protocol",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The official system of rules for behavior or for performing actions.",
+            "example": "Doctors followed strict safety protocols."
+          }
+        ],
+        "vietnamese": "nghi thức; quy trình"
+      }
+    ]
+  },
+  {
+    "word": "protest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A public expression of opposition to something.",
+            "example": "Thousands joined the protest in the capital."
+          }
+        ],
+        "vietnamese": "cuộc biểu tình"
+      }
+    ]
+  },
+  {
+    "word": "province",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large administrative area of a country.",
+            "example": "The new law will apply in every province."
+          }
+        ],
+        "vietnamese": "tỉnh"
+      }
+    ]
+  },
+  {
+    "word": "provision",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of supplying something, or a condition in an agreement.",
+            "example": "The agreement includes a provision for annual review."
+          }
+        ],
+        "vietnamese": "sự cung cấp; điều khoản"
+      }
+    ]
+  },
+  {
+    "word": "psychological",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to the mind or mental processes.",
+            "example": "The disaster had a deep psychological impact."
+          }
+        ],
+        "vietnamese": "thuộc tâm lý"
+      }
+    ]
+  },
+  {
+    "word": "publicity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Public attention or information spread through the media.",
+            "example": "The event attracted a lot of publicity."
+          }
+        ],
+        "vietnamese": "sự công khai; truyền thông"
+      }
+    ]
+  },
+  {
+    "word": "publishing",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The business of producing books, magazines, or digital content for sale.",
+            "example": "She works in educational publishing."
+          }
+        ],
+        "vietnamese": "ngành xuất bản"
+      }
+    ]
+  },
+  {
+    "word": "pulse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The regular beat of the heart as felt in the body.",
+            "example": "The nurse checked his pulse."
+          }
+        ],
+        "vietnamese": "mạch đập"
+      }
+    ]
+  },
+  {
+    "word": "pump",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To force liquid, gas, or blood to move through a system.",
+            "example": "The heart pumps blood around the body."
+          }
+        ],
+        "vietnamese": "bơm"
+      }
+    ]
+  },
+  {
+    "word": "pursuit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of trying to achieve or obtain something.",
+            "example": "Knowledge should be valued for its own pursuit."
+          }
+        ],
+        "vietnamese": "sự theo đuổi"
+      }
+    ]
+  },
+  {
+    "word": "qualification",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official record showing that you have completed a course or reached a standard.",
+            "example": "She has teaching qualifications from two universities."
+          }
+        ],
+        "vietnamese": "bằng cấp"
+      }
+    ]
+  },
+  {
+    "word": "quantify",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To measure or express the amount of something.",
+            "example": "It is difficult to quantify the damage."
+          }
+        ],
+        "vietnamese": "định lượng"
+      }
+    ]
+  },
+  {
+    "word": "query",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A question, especially one asking for information or expressing doubt.",
+            "example": "The report raised a query about costs."
+          }
+        ],
+        "vietnamese": "câu hỏi; truy vấn"
+      }
+    ]
+  },
+  {
+    "word": "quest",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A long search for something important.",
+            "example": "The novel follows his quest for justice."
+          }
+        ],
+        "vietnamese": "cuộc tìm kiếm"
+      }
+    ]
+  },
+  {
+    "word": "quota",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A fixed number or amount that must be reached or not exceeded.",
+            "example": "Each department has a hiring quota."
+          }
+        ],
+        "vietnamese": "hạn ngạch"
+      }
+    ]
+  },
+  {
+    "word": "racial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to race or groups of people with shared physical features.",
+            "example": "The city organized events to reduce racial tension."
+          }
+        ],
+        "vietnamese": "thuộc chủng tộc"
+      }
+    ]
+  },
+  {
+    "word": "radical",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Believing in or expressing the need for great social or political change.",
+            "example": "They proposed a radical reform of the system."
+          }
+        ],
+        "vietnamese": "cấp tiến; triệt để"
+      }
+    ]
+  },
+  {
+    "word": "random",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Chosen, done, or happening without a clear plan or pattern.",
+            "example": "The winners were selected at random."
+          }
+        ],
+        "vietnamese": "ngẫu nhiên"
+      }
+    ]
+  },
+  {
+    "word": "ranking",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A position on a list that shows quality, importance, or achievement.",
+            "example": "The university rose in the global ranking."
+          }
+        ],
+        "vietnamese": "thứ hạng"
+      }
+    ]
+  },
+  {
+    "word": "ratio",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The relationship between two amounts, showing how many times one contains the other.",
+            "example": "The ratio of men to women was almost equal."
+          }
+        ],
+        "vietnamese": "tỷ lệ"
+      }
+    ]
+  },
+  {
+    "word": "rational",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Based on clear thought and reason rather than emotion.",
+            "example": "We need a rational approach to the problem."
+          }
+        ],
+        "vietnamese": "hợp lý"
+      }
+    ]
+  },
+  {
+    "word": "ray",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A narrow line of light, heat, or energy.",
+            "example": "A ray of sunlight entered the room."
+          }
+        ],
+        "vietnamese": "tia"
+      }
+    ]
+  },
+  {
+    "word": "reactor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A device or structure where a nuclear or chemical reaction happens.",
+            "example": "The plant has two nuclear reactors."
+          }
+        ],
+        "vietnamese": "lò phản ứng"
+      }
+    ]
+  },
+  {
+    "word": "realm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A particular area of activity, interest, or knowledge.",
+            "example": "This issue belongs in the realm of ethics."
+          }
+        ],
+        "vietnamese": "lĩnh vực"
+      }
+    ]
+  },
+  {
+    "word": "reasonable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Fair, sensible, and appropriate.",
+            "example": "That seems like a reasonable suggestion."
+          }
+        ],
+        "vietnamese": "hợp lý"
+      }
+    ]
+  },
+  {
+    "word": "reasoning",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of thinking carefully to reach a conclusion.",
+            "example": "Her reasoning was clear and convincing."
+          }
+        ],
+        "vietnamese": "lý luận"
+      }
+    ]
+  },
+  {
+    "word": "reassure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make someone feel less worried or more confident.",
+            "example": "The doctor reassured the parents that the child was safe."
+          }
+        ],
+        "vietnamese": "trấn an"
+      }
+    ]
+  },
+  {
+    "word": "rebel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who fights against the government or resists authority.",
+            "example": "The rebels took control of the town."
+          }
+        ],
+        "vietnamese": "phiến quân"
+      }
+    ]
+  },
+  {
+    "word": "recipient",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who receives something.",
+            "example": "She was the recipient of a major research award."
+          }
+        ],
+        "vietnamese": "người nhận"
+      }
+    ]
+  },
+  {
+    "word": "recognition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Public praise or acceptance, or the act of identifying someone or something.",
+            "example": "Her work finally received international recognition."
+          }
+        ],
+        "vietnamese": "sự công nhận"
+      }
+    ]
+  },
+  {
+    "word": "reconstruction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of rebuilding something after damage or destruction.",
+            "example": "The bridge is still under reconstruction."
+          }
+        ],
+        "vietnamese": "sự tái thiết"
+      }
+    ]
+  },
+  {
+    "word": "recruit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To find new people to join an organization or help with an activity.",
+            "example": "The company is recruiting engineers."
+          }
+        ],
+        "vietnamese": "tuyển dụng"
+      }
+    ]
+  },
+  {
+    "word": "referee",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The official who makes sure that players follow the rules in a game or sport.",
+            "example": "The referee stopped the match for a foul."
+          }
+        ],
+        "vietnamese": "trọng tài"
+      }
+    ]
+  },
+  {
+    "word": "refine",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To improve something by making small changes.",
+            "example": "The team refined its strategy after the first test."
+          }
+        ],
+        "vietnamese": "tinh chỉnh"
+      }
+    ]
+  },
+  {
+    "word": "reform",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To improve a system, law, organization, or person by removing faults.",
+            "example": "The government plans to reform the tax system."
+          }
+        ],
+        "vietnamese": "cải cách"
+      }
+    ]
+  },
+  {
+    "word": "regime",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A system of government, especially one that is not elected fairly, or a planned system for doing something.",
+            "example": "The military regime lasted for a decade."
+          }
+        ],
+        "vietnamese": "chế độ"
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To record or enter information officially.",
+            "example": "All guests must register at the front desk."
+          }
+        ],
+        "vietnamese": "đăng ký"
+      }
+    ]
+  },
+  {
+    "word": "regulation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official rule made by a government or authority.",
+            "example": "New regulations will limit air pollution."
+          }
+        ],
+        "vietnamese": "quy định"
+      }
+    ]
+  },
+  {
+    "word": "rehabilitation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of helping someone return to a healthy or normal life.",
+            "example": "He is undergoing rehabilitation after the accident."
+          }
+        ],
+        "vietnamese": "phục hồi chức năng"
+      }
+    ]
+  },
+  {
+    "word": "reinforce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make something stronger or more certain.",
+            "example": "These findings reinforce our original conclusion."
+          }
+        ],
+        "vietnamese": "củng cố"
+      }
+    ]
+  },
+  {
+    "word": "rejection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of refusing to accept, use, or believe something.",
+            "example": "The rejection of the offer came as a surprise."
+          }
+        ],
+        "vietnamese": "sự từ chối"
+      }
+    ]
+  },
+  {
+    "word": "relevant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with what is happening or being discussed.",
+            "example": "Please include only relevant information in the report."
+          }
+        ],
+        "vietnamese": "liên quan"
+      }
+    ]
+  },
+  {
+    "word": "reluctant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not willing or eager to do something.",
+            "example": "He was reluctant to admit he was wrong."
+          }
+        ],
+        "vietnamese": "miễn cưỡng"
+      }
+    ]
+  },
+  {
+    "word": "remainder",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The part of something that is left after the rest has been used or taken.",
+            "example": "She spent the remainder of the day reading."
+          }
+        ],
+        "vietnamese": "phần còn lại"
+      }
+    ]
   }
 ]
