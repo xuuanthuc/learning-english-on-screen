@@ -71597,5 +71597,1824 @@
         "vietnamese": "chủ nghĩa cộng sản"
       }
     ]
+  },
+  {
+    "word": "companion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or animal you spend a lot of time with or travel with.",
+            "example": "For many elderly people, a dog can be a close companion."
+          }
+        ],
+        "vietnamese": "người bạn đồng hành"
+      }
+    ]
+  },
+  {
+    "word": "comparable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Similar enough to be compared.",
+            "example": "The two products are comparable in quality and price."
+          }
+        ],
+        "vietnamese": "có thể so sánh được"
+      }
+    ]
+  },
+  {
+    "word": "compassion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong feeling of sympathy and concern for others.",
+            "example": "The nurse treated every patient with compassion."
+          }
+        ],
+        "vietnamese": "lòng trắc ẩn"
+      }
+    ]
+  },
+  {
+    "word": "compel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To force or strongly persuade someone to do something.",
+            "example": "The evidence may compel the company to change its policy."
+          }
+        ],
+        "vietnamese": "buộc phải"
+      }
+    ]
+  },
+  {
+    "word": "compensation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Money or something else given to make up for loss, damage, or suffering.",
+            "example": "The airline offered compensation for the cancelled flight."
+          }
+        ],
+        "vietnamese": "sự bồi thường"
+      }
+    ]
+  },
+  {
+    "word": "competence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The ability to do something well enough.",
+            "example": "Her technical competence impressed the interview panel."
+          }
+        ],
+        "vietnamese": "năng lực"
+      }
+    ]
+  },
+  {
+    "word": "compile",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To collect information and arrange it into a list, report, or book.",
+            "example": "We need to compile the data before Friday."
+          }
+        ],
+        "vietnamese": "biên soạn"
+      }
+    ]
+  },
+  {
+    "word": "complement",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make something seem better or more attractive when added to it.",
+            "example": "The sauce perfectly complements the fish."
+          }
+        ],
+        "vietnamese": "bổ sung cho"
+      }
+    ]
+  },
+  {
+    "word": "compliance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of obeying a rule, law, or request.",
+            "example": "The factory was closed for non-compliance with safety rules."
+          }
+        ],
+        "vietnamese": "sự tuân thủ"
+      }
+    ]
+  },
+  {
+    "word": "complication",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A difficulty that makes a situation more complex.",
+            "example": "A minor complication delayed the surgery."
+          }
+        ],
+        "vietnamese": "biến chứng; sự phức tạp"
+      }
+    ]
+  },
+  {
+    "word": "comply",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To act according to a rule, order, or request.",
+            "example": "All staff must comply with the new regulations."
+          }
+        ],
+        "vietnamese": "tuân thủ"
+      }
+    ]
+  },
+  {
+    "word": "composition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way something is made up, or a piece of writing or music.",
+            "example": "The report includes a chemical composition of the water."
+          }
+        ],
+        "vietnamese": "thành phần; bài soạn"
+      }
+    ]
+  },
+  {
+    "word": "comprise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To consist of or be formed from.",
+            "example": "The committee comprises ten senior members."
+          }
+        ],
+        "vietnamese": "bao gồm"
+      }
+    ]
+  },
+  {
+    "word": "compromise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An agreement in which each side gives up something.",
+            "example": "After hours of discussion, they reached a compromise."
+          }
+        ],
+        "vietnamese": "sự thỏa hiệp"
+      }
+    ]
+  },
+  {
+    "word": "concede",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To admit that something is true, often unwillingly.",
+            "example": "The minister finally conceded that mistakes had been made."
+          }
+        ],
+        "vietnamese": "thừa nhận"
+      }
+    ]
+  },
+  {
+    "word": "conceive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To form an idea, plan, or image in your mind.",
+            "example": "It is difficult to conceive a world without the internet."
+          }
+        ],
+        "vietnamese": "hình dung; nảy ra ý tưởng"
+      }
+    ]
+  },
+  {
+    "word": "conception",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way in which something is understood or imagined.",
+            "example": "Their conception of success is very different from mine."
+          }
+        ],
+        "vietnamese": "quan niệm"
+      }
+    ]
+  },
+  {
+    "word": "concession",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that is given up in order to reach an agreement.",
+            "example": "The union won several important concessions."
+          }
+        ],
+        "vietnamese": "sự nhượng bộ"
+      }
+    ]
+  },
+  {
+    "word": "concrete",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Based on facts rather than ideas; real and definite.",
+            "example": "We need concrete evidence before making a decision."
+          }
+        ],
+        "vietnamese": "cụ thể"
+      }
+    ]
+  },
+  {
+    "word": "condemn",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To strongly criticize something, or to officially declare that someone is guilty.",
+            "example": "Leaders around the world condemned the attack."
+          }
+        ],
+        "vietnamese": "lên án"
+      }
+    ]
+  },
+  {
+    "word": "conduct",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person’s behavior, especially in a particular place or situation.",
+            "example": "The school expects high standards of conduct."
+          }
+        ],
+        "vietnamese": "hành vi"
+      }
+    ]
+  },
+  {
+    "word": "confession",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A statement admitting that you have done something wrong.",
+            "example": "The police obtained a confession after hours of questioning."
+          }
+        ],
+        "vietnamese": "lời thú nhận"
+      }
+    ]
+  },
+  {
+    "word": "configuration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The arrangement of parts or elements in a particular form.",
+            "example": "You can change the configuration of the software."
+          }
+        ],
+        "vietnamese": "cấu hình"
+      }
+    ]
+  },
+  {
+    "word": "confirmation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Proof that something is true, or a statement that confirms something.",
+            "example": "We are still waiting for confirmation of the booking."
+          }
+        ],
+        "vietnamese": "sự xác nhận"
+      }
+    ]
+  },
+  {
+    "word": "confront",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To deal with a difficult situation directly.",
+            "example": "The country must confront serious economic problems."
+          }
+        ],
+        "vietnamese": "đối mặt"
+      }
+    ]
+  },
+  {
+    "word": "confrontation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A hostile or difficult situation in which people oppose each other.",
+            "example": "Both sides wanted to avoid military confrontation."
+          }
+        ],
+        "vietnamese": "sự đối đầu"
+      }
+    ]
+  },
+  {
+    "word": "congregation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A group of people gathered together, especially in a church.",
+            "example": "The priest addressed the congregation after the service."
+          }
+        ],
+        "vietnamese": "giáo đoàn"
+      }
+    ]
+  },
+  {
+    "word": "conscience",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The part of your mind that tells you whether your actions are right or wrong.",
+            "example": "His conscience would not allow him to lie."
+          }
+        ],
+        "vietnamese": "lương tâm"
+      }
+    ]
+  },
+  {
+    "word": "consciousness",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being awake and aware of your surroundings.",
+            "example": "The patient regained consciousness after a few minutes."
+          }
+        ],
+        "vietnamese": "ý thức"
+      }
+    ]
+  },
+  {
+    "word": "consecutive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Following one after another without interruption.",
+            "example": "The team won five consecutive matches."
+          }
+        ],
+        "vietnamese": "liên tiếp"
+      }
+    ]
+  },
+  {
+    "word": "consensus",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "General agreement among a group of people.",
+            "example": "There is broad consensus that change is necessary."
+          }
+        ],
+        "vietnamese": "sự đồng thuận"
+      }
+    ]
+  },
+  {
+    "word": "conservation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The protection of nature, animals, and natural resources.",
+            "example": "The park is an important area for wildlife conservation."
+          }
+        ],
+        "vietnamese": "sự bảo tồn"
+      }
+    ]
+  },
+  {
+    "word": "conservative",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not willing to accept much change, especially in politics or behavior.",
+            "example": "She comes from a conservative family."
+          }
+        ],
+        "vietnamese": "bảo thủ"
+      }
+    ]
+  },
+  {
+    "word": "considerable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Large in size, amount, or degree.",
+            "example": "The project required a considerable amount of money."
+          }
+        ],
+        "vietnamese": "đáng kể"
+      }
+    ]
+  },
+  {
+    "word": "consistency",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of always being the same, or of having a smooth even texture.",
+            "example": "Success often depends on consistency and patience."
+          }
+        ],
+        "vietnamese": "tính nhất quán"
+      }
+    ]
+  },
+  {
+    "word": "consolidate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To combine several things into one stronger or more effective whole.",
+            "example": "The company plans to consolidate its offices."
+          }
+        ],
+        "vietnamese": "củng cố; hợp nhất"
+      }
+    ]
+  },
+  {
+    "word": "constituency",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The people who elect a particular politician in a district.",
+            "example": "She visited every town in her constituency."
+          }
+        ],
+        "vietnamese": "khu vực bầu cử"
+      }
+    ]
+  },
+  {
+    "word": "constitute",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To be or form something.",
+            "example": "Women constitute more than half of the workforce."
+          }
+        ],
+        "vietnamese": "cấu thành"
+      }
+    ]
+  },
+  {
+    "word": "constraint",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that limits what you can do.",
+            "example": "Time is the biggest constraint on the project."
+          }
+        ],
+        "vietnamese": "sự hạn chế"
+      }
+    ]
+  },
+  {
+    "word": "consultant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who gives expert advice professionally.",
+            "example": "They hired a consultant to review their finances."
+          }
+        ],
+        "vietnamese": "chuyên gia tư vấn"
+      }
+    ]
+  },
+  {
+    "word": "consumption",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of using energy, food, or other resources.",
+            "example": "Water consumption rises in the summer months."
+          }
+        ],
+        "vietnamese": "sự tiêu thụ"
+      }
+    ]
+  },
+  {
+    "word": "contemplate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To consider something carefully for a long time.",
+            "example": "She is contemplating a move abroad."
+          }
+        ],
+        "vietnamese": "suy ngẫm"
+      }
+    ]
+  },
+  {
+    "word": "contempt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A feeling that someone or something deserves no respect.",
+            "example": "He spoke with open contempt for the rules."
+          }
+        ],
+        "vietnamese": "sự khinh miệt"
+      }
+    ]
+  },
+  {
+    "word": "contend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To argue that something is true, or to compete in order to win.",
+            "example": "Lawyers contend that the decision was unlawful."
+          }
+        ],
+        "vietnamese": "cho rằng; tranh đấu"
+      }
+    ]
+  },
+  {
+    "word": "contention",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Disagreement or an opinion that is argued for.",
+            "example": "One major contention remains unresolved."
+          }
+        ],
+        "vietnamese": "sự tranh cãi; lập luận"
+      }
+    ]
+  },
+  {
+    "word": "contradiction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A difference between two statements or ideas that means both cannot be true.",
+            "example": "There is a clear contradiction in his testimony."
+          }
+        ],
+        "vietnamese": "mâu thuẫn"
+      }
+    ]
+  },
+  {
+    "word": "contrary",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Opposite in nature or effect.",
+            "example": "Contrary to expectations, the plan succeeded."
+          }
+        ],
+        "vietnamese": "trái ngược"
+      }
+    ]
+  },
+  {
+    "word": "contributor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or thing that helps cause or improve something.",
+            "example": "Stress is a major contributor to poor sleep."
+          }
+        ],
+        "vietnamese": "người đóng góp; yếu tố góp phần"
+      }
+    ]
+  },
+  {
+    "word": "conversion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of changing something from one form or use to another.",
+            "example": "The building is being renovated for conversion into apartments."
+          }
+        ],
+        "vietnamese": "sự chuyển đổi"
+      }
+    ]
+  },
+  {
+    "word": "convert",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To change something into a different form, system, or use.",
+            "example": "The farm was converted into a hotel."
+          }
+        ],
+        "vietnamese": "chuyển đổi"
+      }
+    ]
+  },
+  {
+    "word": "conviction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong belief or the act of proving someone guilty in court.",
+            "example": "She spoke with conviction about the need for reform."
+          }
+        ],
+        "vietnamese": "niềm tin chắc chắn; sự kết tội"
+      }
+    ]
+  },
+  {
+    "word": "cooperate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To work together willingly toward a shared goal.",
+            "example": "The two departments agreed to cooperate more closely."
+          }
+        ],
+        "vietnamese": "hợp tác"
+      }
+    ]
+  },
+  {
+    "word": "coordinate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To organize different people or things so that they work together effectively.",
+            "example": "She coordinated the travel arrangements for the team."
+          }
+        ],
+        "vietnamese": "phối hợp"
+      }
+    ]
+  },
+  {
+    "word": "coordination",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of making different parts work together effectively.",
+            "example": "Good coordination is essential during an emergency."
+          }
+        ],
+        "vietnamese": "sự phối hợp"
+      }
+    ]
+  },
+  {
+    "word": "correspond",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To be similar or equal to something, or to exchange letters or messages.",
+            "example": "The results do not correspond with our expectations."
+          }
+        ],
+        "vietnamese": "tương ứng; trao đổi thư từ"
+      }
+    ]
+  },
+  {
+    "word": "correspondence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Letters, emails, or the process of exchanging them.",
+            "example": "All correspondence should be sent to the head office."
+          }
+        ],
+        "vietnamese": "thư từ"
+      }
+    ]
+  },
+  {
+    "word": "correspondent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who reports news from a particular place or on a particular subject.",
+            "example": "Our foreign correspondent is based in Rome."
+          }
+        ],
+        "vietnamese": "phóng viên thường trú"
+      }
+    ]
+  },
+  {
+    "word": "corrupt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Dishonest and using power for personal gain.",
+            "example": "The official was accused of being corrupt."
+          }
+        ],
+        "vietnamese": "tham nhũng"
+      }
+    ]
+  },
+  {
+    "word": "correlation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A connection or relationship between two things.",
+            "example": "Researchers found a strong correlation between exercise and mood."
+          }
+        ],
+        "vietnamese": "mối tương quan"
+      }
+    ]
+  },
+  {
+    "word": "counterpart",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or thing that has the same role as another in a different place or organization.",
+            "example": "She met her French counterpart at the conference."
+          }
+        ],
+        "vietnamese": "người đồng cấp"
+      }
+    ]
+  },
+  {
+    "word": "countless",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Too many to be counted.",
+            "example": "The internet offers countless opportunities to learn."
+          }
+        ],
+        "vietnamese": "vô số"
+      }
+    ]
+  },
+  {
+    "word": "countryside",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Land outside towns and cities, with farms and villages.",
+            "example": "They spent the weekend in the countryside."
+          }
+        ],
+        "vietnamese": "vùng nông thôn"
+      }
+    ]
+  },
+  {
+    "word": "coverage",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The reporting of news or details about an event, or the amount something covers.",
+            "example": "The election received extensive media coverage."
+          }
+        ],
+        "vietnamese": "sự đưa tin; phạm vi bao phủ"
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A skill in making things by hand, or an activity involving this skill.",
+            "example": "She learned the craft of pottery from her grandmother."
+          }
+        ],
+        "vietnamese": "nghề thủ công"
+      }
+    ]
+  },
+  {
+    "word": "crawl",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To move slowly with the body close to the ground, or to move very slowly.",
+            "example": "Traffic was crawling along the highway."
+          }
+        ],
+        "vietnamese": "bò; di chuyển chậm"
+      }
+    ]
+  },
+  {
+    "word": "creature",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Any living being, especially an animal.",
+            "example": "The forest is home to many unusual creatures."
+          }
+        ],
+        "vietnamese": "sinh vật"
+      }
+    ]
+  },
+  {
+    "word": "credibility",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of being trusted and believed.",
+            "example": "The scandal damaged the newspaper’s credibility."
+          }
+        ],
+        "vietnamese": "uy tín"
+      }
+    ]
+  },
+  {
+    "word": "criteria",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The standards used for judging something.",
+            "example": "Price is only one of the criteria we should consider."
+          }
+        ],
+        "vietnamese": "tiêu chí"
+      }
+    ]
+  },
+  {
+    "word": "critically",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "In a way that is extremely important, or in a way that expresses careful judgment.",
+            "example": "The patient is critically ill but stable."
+          }
+        ],
+        "vietnamese": "một cách nghiêm trọng; phê phán"
+      }
+    ]
+  },
+  {
+    "word": "cruise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A holiday journey on a ship or boat.",
+            "example": "They booked a cruise around the Greek islands."
+          }
+        ],
+        "vietnamese": "chuyến du ngoạn bằng tàu"
+      }
+    ]
+  },
+  {
+    "word": "crystal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A piece of transparent mineral or glass with a regular shape.",
+            "example": "The necklace was decorated with tiny crystals."
+          }
+        ],
+        "vietnamese": "pha lê"
+      }
+    ]
+  },
+  {
+    "word": "cultivate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To grow crops, or to develop a quality, skill, or relationship.",
+            "example": "It is important to cultivate good study habits."
+          }
+        ],
+        "vietnamese": "trồng trọt; vun đắp"
+      }
+    ]
+  },
+  {
+    "word": "curiosity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A strong desire to know or learn something.",
+            "example": "His curiosity led him to open the mysterious box."
+          }
+        ],
+        "vietnamese": "sự tò mò"
+      }
+    ]
+  },
+  {
+    "word": "custody",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being kept by the police, or legal care of a child.",
+            "example": "The suspect remained in police custody overnight."
+          }
+        ],
+        "vietnamese": "sự giam giữ; quyền nuôi con"
+      }
+    ]
+  },
+  {
+    "word": "deadline",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The latest time by which something must be completed.",
+            "example": "We must finish the report before the deadline."
+          }
+        ],
+        "vietnamese": "hạn chót"
+      }
+    ]
+  },
+  {
+    "word": "debris",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Broken pieces left after something has been destroyed.",
+            "example": "Workers cleared debris from the collapsed roof."
+          }
+        ],
+        "vietnamese": "mảnh vỡ"
+      }
+    ]
+  },
+  {
+    "word": "debut",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The first public appearance or performance of someone or something.",
+            "example": "The singer made her debut at a small jazz club."
+          }
+        ],
+        "vietnamese": "lần ra mắt đầu tiên"
+      }
+    ]
+  },
+  {
+    "word": "decent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Good enough in standard or quality; socially acceptable and honest.",
+            "example": "He earns a decent salary now."
+          }
+        ],
+        "vietnamese": "tươm tất; tử tế"
+      }
+    ]
+  },
+  {
+    "word": "decisive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Able to make decisions quickly and confidently, or having a clear result.",
+            "example": "The final goal proved decisive."
+          }
+        ],
+        "vietnamese": "dứt khoát; mang tính quyết định"
+      }
+    ]
+  },
+  {
+    "word": "declaration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official statement or announcement.",
+            "example": "The declaration called for immediate action on climate change."
+          }
+        ],
+        "vietnamese": "bản tuyên bố"
+      }
+    ]
+  },
+  {
+    "word": "dedicated",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Working very hard at something because you care deeply about it.",
+            "example": "She is a dedicated teacher who stays late every day."
+          }
+        ],
+        "vietnamese": "tận tâm"
+      }
+    ]
+  },
+  {
+    "word": "deduce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To reach an answer by thinking carefully about known facts.",
+            "example": "From the evidence, detectives deduced that the fire was accidental."
+          }
+        ],
+        "vietnamese": "suy ra"
+      }
+    ]
+  },
+  {
+    "word": "defect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A fault or problem that makes something imperfect.",
+            "example": "The car was returned because of a serious defect."
+          }
+        ],
+        "vietnamese": "khiếm khuyết"
+      }
+    ]
+  },
+  {
+    "word": "defendant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person accused of a crime in a court of law.",
+            "example": "The defendant denied all charges."
+          }
+        ],
+        "vietnamese": "bị cáo"
+      }
+    ]
+  },
+  {
+    "word": "deficiency",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A lack of something that is needed.",
+            "example": "Vitamin D deficiency is common in winter."
+          }
+        ],
+        "vietnamese": "sự thiếu hụt"
+      }
+    ]
+  },
+  {
+    "word": "defy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To refuse to obey, or to be impossible to explain or resist.",
+            "example": "The small country defied international pressure."
+          }
+        ],
+        "vietnamese": "thách thức; chống lại"
+      }
+    ]
+  },
+  {
+    "word": "delegate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person chosen to represent others at a meeting.",
+            "example": "Delegates from twenty countries attended the summit."
+          }
+        ],
+        "vietnamese": "đại biểu"
+      }
+    ]
+  },
+  {
+    "word": "delicate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Easily damaged or requiring careful treatment; also subtle or sensitive.",
+            "example": "These old documents are too delicate to handle without gloves."
+          }
+        ],
+        "vietnamese": "mỏng manh; tinh tế"
+      }
+    ]
+  },
+  {
+    "word": "demographic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to the structure of populations, such as age or income groups.",
+            "example": "The survey revealed major demographic changes."
+          }
+        ],
+        "vietnamese": "thuộc nhân khẩu học"
+      }
+    ]
+  },
+  {
+    "word": "demonstration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A public protest, or an act of showing how something works.",
+            "example": "Students organized a demonstration against higher fees."
+          }
+        ],
+        "vietnamese": "cuộc biểu tình; sự trình bày"
+      }
+    ]
+  },
+  {
+    "word": "denial",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A statement that something is not true, or a refusal to accept something.",
+            "example": "His denial was not supported by the evidence."
+          }
+        ],
+        "vietnamese": "sự phủ nhận"
+      }
+    ]
+  },
+  {
+    "word": "dense",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Containing a lot in a small space; thick.",
+            "example": "The forest was so dense that little light reached the ground."
+          }
+        ],
+        "vietnamese": "dày đặc"
+      }
+    ]
+  },
+  {
+    "word": "deploy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To move soldiers or equipment into position, or to use something effectively.",
+            "example": "The company deployed new software across all offices."
+          }
+        ],
+        "vietnamese": "triển khai"
+      }
+    ]
+  },
+  {
+    "word": "deprive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To prevent someone from having something they need or want.",
+            "example": "The noise deprived us of sleep."
+          }
+        ],
+        "vietnamese": "tước đi"
+      }
+    ]
+  },
+  {
+    "word": "deputy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person whose rank is immediately below that of the leader of an organization.",
+            "example": "The deputy mayor attended the ceremony."
+          }
+        ],
+        "vietnamese": "phó; cấp phó"
+      }
+    ]
+  },
+  {
+    "word": "descend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To go down to a lower level or place.",
+            "example": "The path descends steeply into the valley."
+          }
+        ],
+        "vietnamese": "đi xuống"
+      }
+    ]
+  },
+  {
+    "word": "designate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To officially choose someone or something for a particular purpose.",
+            "example": "The area was designated a national park."
+          }
+        ],
+        "vietnamese": "chỉ định"
+      }
+    ]
+  },
+  {
+    "word": "desirable",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Worth having or wanting.",
+            "example": "Fluency in English is a desirable skill in this job."
+          }
+        ],
+        "vietnamese": "đáng mong muốn"
+      }
+    ]
+  },
+  {
+    "word": "despair",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The feeling that there is no hope.",
+            "example": "After months without work, he fell into despair."
+          }
+        ],
+        "vietnamese": "sự tuyệt vọng"
+      }
+    ]
+  },
+  {
+    "word": "destruction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of damaging something so badly that it no longer exists or works.",
+            "example": "The fire caused the destruction of several homes."
+          }
+        ],
+        "vietnamese": "sự tàn phá"
+      }
+    ]
+  },
+  {
+    "word": "detective",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A police officer or investigator whose job is to discover information about crimes.",
+            "example": "The detective interviewed several witnesses."
+          }
+        ],
+        "vietnamese": "thám tử"
+      }
+    ]
+  },
+  {
+    "word": "detention",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being officially kept somewhere, especially by police, or a punishment keeping a student after school.",
+            "example": "He spent the night in detention."
+          }
+        ],
+        "vietnamese": "sự giam giữ; phạt ở lại"
+      }
+    ]
+  },
+  {
+    "word": "devastating",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Extremely damaging or upsetting.",
+            "example": "The region was hit by a devastating earthquake."
+          }
+        ],
+        "vietnamese": "tàn khốc"
+      }
+    ]
+  },
+  {
+    "word": "devise",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To invent or design a plan, system, or machine.",
+            "example": "Engineers devised a new way to reduce waste."
+          }
+        ],
+        "vietnamese": "nghĩ ra"
+      }
+    ]
+  },
+  {
+    "word": "diagnosis",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The identification of an illness or problem after examination.",
+            "example": "The doctor confirmed the diagnosis later that day."
+          }
+        ],
+        "vietnamese": "chẩn đoán"
+      }
+    ]
+  },
+  {
+    "word": "dictate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give orders that must be obeyed, or to say words for someone else to write down.",
+            "example": "You cannot dictate how people should feel."
+          }
+        ],
+        "vietnamese": "ra lệnh; đọc cho viết"
+      }
+    ]
+  },
+  {
+    "word": "dignity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of being calm, serious, and deserving respect.",
+            "example": "She accepted the criticism with dignity."
+          }
+        ],
+        "vietnamese": "phẩm giá"
+      }
+    ]
   }
 ]
