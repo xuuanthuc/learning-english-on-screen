@@ -74980,5 +74980,1535 @@
         "vietnamese": "tính linh hoạt"
       }
     ]
+  },
+  {
+    "word": "fluid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Able to change or move easily; smooth and continuous.",
+            "example": "The company needs a more fluid structure to respond quickly."
+          }
+        ],
+        "vietnamese": "linh hoạt; trôi chảy"
+      }
+    ]
+  },
+  {
+    "word": "friction",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Disagreement or tension between people, groups, or countries.",
+            "example": "There is growing friction between management and staff."
+          }
+        ],
+        "vietnamese": "mâu thuẫn; ma sát"
+      }
+    ]
+  },
+  {
+    "word": "frontier",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The border between two countries, or the limit of what is known or possible.",
+            "example": "Scientists are exploring the frontier of genetic research."
+          }
+        ],
+        "vietnamese": "biên giới; lĩnh vực tiên phong"
+      }
+    ]
+  },
+  {
+    "word": "fuel",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To make something stronger or more intense.",
+            "example": "Rising prices have fueled public anger."
+          }
+        ],
+        "vietnamese": "thúc đẩy"
+      }
+    ]
+  },
+  {
+    "word": "functional",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Designed to be practical and useful rather than attractive.",
+            "example": "The office furniture is simple but highly functional."
+          }
+        ],
+        "vietnamese": "có chức năng; thực dụng"
+      }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Forming the basic and most important part of something.",
+            "example": "Trust is fundamental to a good relationship."
+          }
+        ],
+        "vietnamese": "cơ bản"
+      }
+    ]
+  },
+  {
+    "word": "funeral",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A ceremony held for someone who has died.",
+            "example": "Hundreds of people attended the funeral."
+          }
+        ],
+        "vietnamese": "đám tang"
+      }
+    ]
+  },
+  {
+    "word": "gambling",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The activity of betting money in games or on events.",
+            "example": "The law restricts online gambling."
+          }
+        ],
+        "vietnamese": "cờ bạc"
+      }
+    ]
+  },
+  {
+    "word": "gathering",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A meeting or occasion when people come together.",
+            "example": "The family gathering lasted all weekend."
+          }
+        ],
+        "vietnamese": "buổi tụ họp"
+      }
+    ]
+  },
+  {
+    "word": "gaze",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To look at someone or something for a long time, especially with interest.",
+            "example": "She gazed out of the window in silence."
+          }
+        ],
+        "vietnamese": "nhìn chằm chằm"
+      }
+    ]
+  },
+  {
+    "word": "gender",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The fact of being male or female, or the social roles connected with this.",
+            "example": "The study examined differences in pay by gender."
+          }
+        ],
+        "vietnamese": "giới tính"
+      }
+    ]
+  },
+  {
+    "word": "generate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To produce or create something.",
+            "example": "The campaign generated a lot of public interest."
+          }
+        ],
+        "vietnamese": "tạo ra"
+      }
+    ]
+  },
+  {
+    "word": "genre",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A particular type of art, music, film, or writing.",
+            "example": "Science fiction is my favorite genre."
+          }
+        ],
+        "vietnamese": "thể loại"
+      }
+    ]
+  },
+  {
+    "word": "genuine",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Real and honest; not pretending or false.",
+            "example": "She showed genuine concern for the patient."
+          }
+        ],
+        "vietnamese": "chân thành; thật"
+      }
+    ]
+  },
+  {
+    "word": "glance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A quick look.",
+            "example": "He took a glance at his watch before leaving."
+          }
+        ],
+        "vietnamese": "cái liếc nhìn"
+      }
+    ]
+  },
+  {
+    "word": "glimpse",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A quick and incomplete view of something.",
+            "example": "We caught a glimpse of the mountains through the clouds."
+          }
+        ],
+        "vietnamese": "thoáng nhìn"
+      }
+    ]
+  },
+  {
+    "word": "globalization",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process by which businesses and cultures become connected around the world.",
+            "example": "Globalization has changed the way companies operate."
+          }
+        ],
+        "vietnamese": "toàn cầu hóa"
+      }
+    ]
+  },
+  {
+    "word": "glory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Great praise, honor, and admiration.",
+            "example": "The athlete returned home in glory."
+          }
+        ],
+        "vietnamese": "vinh quang"
+      }
+    ]
+  },
+  {
+    "word": "governance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way in which a country or organization is controlled and directed.",
+            "example": "The report called for better corporate governance."
+          }
+        ],
+        "vietnamese": "quản trị"
+      }
+    ]
+  },
+  {
+    "word": "grace",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A quality of smoothness, beauty, and polite behavior.",
+            "example": "She accepted the award with grace."
+          }
+        ],
+        "vietnamese": "duyên dáng; ân sủng"
+      }
+    ]
+  },
+  {
+    "word": "gradual",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Happening slowly over a long period.",
+            "example": "The country is seeing a gradual economic recovery."
+          }
+        ],
+        "vietnamese": "dần dần"
+      }
+    ]
+  },
+  {
+    "word": "graphic",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Shown or described in a very clear and detailed way.",
+            "example": "The report included graphic images of the damage."
+          }
+        ],
+        "vietnamese": "rõ nét; chi tiết"
+      }
+    ]
+  },
+  {
+    "word": "grief",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Deep sadness, especially caused by death or loss.",
+            "example": "She was overcome with grief after the funeral."
+          }
+        ],
+        "vietnamese": "nỗi đau buồn"
+      }
+    ]
+  },
+  {
+    "word": "guerrilla",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A member of a small independent group fighting against a larger official force.",
+            "example": "The region was controlled by guerrilla groups for years."
+          }
+        ],
+        "vietnamese": "du kích"
+      }
+    ]
+  },
+  {
+    "word": "guideline",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A rule or instruction that tells you how something should be done.",
+            "example": "Please read the safety guidelines carefully."
+          }
+        ],
+        "vietnamese": "hướng dẫn"
+      }
+    ]
+  },
+  {
+    "word": "guilt",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The feeling of having done something wrong, or responsibility for a crime.",
+            "example": "He felt guilt about lying to his friend."
+          }
+        ],
+        "vietnamese": "cảm giác tội lỗi"
+      }
+    ]
+  },
+  {
+    "word": "gut",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The stomach or intestines, or a strong natural feeling.",
+            "example": "My gut told me something was wrong."
+          }
+        ],
+        "vietnamese": "ruột; linh cảm"
+      }
+    ]
+  },
+  {
+    "word": "habitat",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The natural environment in which an animal or plant normally lives.",
+            "example": "The new road threatens the habitat of rare birds."
+          }
+        ],
+        "vietnamese": "môi trường sống"
+      }
+    ]
+  },
+  {
+    "word": "harassment",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Behavior that annoys, threatens, or frightens someone repeatedly.",
+            "example": "The company introduced new rules to prevent harassment at work."
+          }
+        ],
+        "vietnamese": "sự quấy rối"
+      }
+    ]
+  },
+  {
+    "word": "hazard",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that is dangerous and likely to cause harm.",
+            "example": "Loose wires are a serious safety hazard."
+          }
+        ],
+        "vietnamese": "mối nguy hiểm"
+      }
+    ]
+  },
+  {
+    "word": "headline",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The main title of a newspaper story or important news item.",
+            "example": "The scandal dominated headlines for days."
+          }
+        ],
+        "vietnamese": "tiêu đề"
+      }
+    ]
+  },
+  {
+    "word": "headquarters",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The main office or center of control of an organization.",
+            "example": "The company moved its headquarters to Singapore."
+          }
+        ],
+        "vietnamese": "trụ sở chính"
+      }
+    ]
+  },
+  {
+    "word": "heal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become healthy again, or to make something healthy again.",
+            "example": "The wound took weeks to heal."
+          }
+        ],
+        "vietnamese": "chữa lành"
+      }
+    ]
+  },
+  {
+    "word": "heritage",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The traditions, values, and objects that are passed down from the past.",
+            "example": "The city is proud of its cultural heritage."
+          }
+        ],
+        "vietnamese": "di sản"
+      }
+    ]
+  },
+  {
+    "word": "hierarchy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A system in which people or things are arranged according to importance.",
+            "example": "The company has a very strict hierarchy."
+          }
+        ],
+        "vietnamese": "hệ thống phân cấp"
+      }
+    ]
+  },
+  {
+    "word": "highlight",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To emphasize or make something more noticeable.",
+            "example": "The report highlights several areas of concern."
+          }
+        ],
+        "vietnamese": "làm nổi bật"
+      }
+    ]
+  },
+  {
+    "word": "honor",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Great respect, admiration, or the quality of doing what is morally right.",
+            "example": "It was an honor to meet the president."
+          }
+        ],
+        "vietnamese": "vinh dự; danh dự"
+      }
+    ]
+  },
+  {
+    "word": "hook",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A curved piece of metal or other material used for catching or holding things.",
+            "example": "Hang your coat on the hook by the door."
+          }
+        ],
+        "vietnamese": "cái móc"
+      }
+    ]
+  },
+  {
+    "word": "hopeful",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Feeling or showing hope.",
+            "example": "We remain hopeful about the outcome."
+          }
+        ],
+        "vietnamese": "đầy hy vọng"
+      }
+    ]
+  },
+  {
+    "word": "hostile",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Unfriendly and often ready to argue or fight.",
+            "example": "The witness faced a hostile crowd outside the court."
+          }
+        ],
+        "vietnamese": "thù địch"
+      }
+    ]
+  },
+  {
+    "word": "humanitarian",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with helping people who are suffering.",
+            "example": "Several humanitarian groups delivered food and medicine."
+          }
+        ],
+        "vietnamese": "nhân đạo"
+      }
+    ]
+  },
+  {
+    "word": "humble",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not proud; having a modest opinion of yourself.",
+            "example": "Despite his success, he remained humble."
+          }
+        ],
+        "vietnamese": "khiêm tốn"
+      }
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An idea or explanation that is tested through study or experiment.",
+            "example": "The results did not support the original hypothesis."
+          }
+        ],
+        "vietnamese": "giả thuyết"
+      }
+    ]
+  },
+  {
+    "word": "identification",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of recognizing someone or something, or an official document proving who you are.",
+            "example": "You will need identification to enter the building."
+          }
+        ],
+        "vietnamese": "sự nhận dạng; giấy tờ tùy thân"
+      }
+    ]
+  },
+  {
+    "word": "ideological",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Based on a particular set of beliefs or ideas.",
+            "example": "The debate was driven by deep ideological differences."
+          }
+        ],
+        "vietnamese": "thuộc ý thức hệ"
+      }
+    ]
+  },
+  {
+    "word": "ignorance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Lack of knowledge or information.",
+            "example": "Prejudice often grows out of ignorance."
+          }
+        ],
+        "vietnamese": "sự thiếu hiểu biết"
+      }
+    ]
+  },
+  {
+    "word": "illusion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that seems different from the reality, or a false idea or belief.",
+            "example": "The mirror created the illusion of a larger room."
+          }
+        ],
+        "vietnamese": "ảo giác; ảo tưởng"
+      }
+    ]
+  },
+  {
+    "word": "imagery",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Pictures or descriptions that create clear ideas in the mind.",
+            "example": "The poem is rich in natural imagery."
+          }
+        ],
+        "vietnamese": "hình ảnh"
+      }
+    ]
+  },
+  {
+    "word": "immense",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Extremely large or great.",
+            "example": "The project required an immense amount of patience."
+          }
+        ],
+        "vietnamese": "to lớn"
+      }
+    ]
+  },
+  {
+    "word": "imminent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Likely to happen very soon.",
+            "example": "Residents were warned of imminent danger."
+          }
+        ],
+        "vietnamese": "sắp xảy ra"
+      }
+    ]
+  },
+  {
+    "word": "implementation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The process of putting a plan or system into operation.",
+            "example": "The implementation of the reforms took several years."
+          }
+        ],
+        "vietnamese": "sự thực hiện"
+      }
+    ]
+  },
+  {
+    "word": "implication",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A possible effect or meaning that is not directly stated.",
+            "example": "The decision has serious implications for small businesses."
+          }
+        ],
+        "vietnamese": "hệ quả; hàm ý"
+      }
+    ]
+  },
+  {
+    "word": "impose",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To force someone to accept something, especially a rule or punishment.",
+            "example": "The school may impose a fine for late payment."
+          }
+        ],
+        "vietnamese": "áp đặt"
+      }
+    ]
+  },
+  {
+    "word": "incentive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that encourages someone to do something.",
+            "example": "Higher pay is a strong incentive for many workers."
+          }
+        ],
+        "vietnamese": "động lực khuyến khích"
+      }
+    ]
+  },
+  {
+    "word": "incidence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The rate or number of new cases of something, especially a disease.",
+            "example": "The incidence of flu usually rises in winter."
+          }
+        ],
+        "vietnamese": "tỷ lệ xảy ra"
+      }
+    ]
+  },
+  {
+    "word": "inclined",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Likely or wanting to do something; sloping.",
+            "example": "I am inclined to agree with your suggestion."
+          }
+        ],
+        "vietnamese": "có xu hướng"
+      }
+    ]
+  },
+  {
+    "word": "incorporate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To include something as part of a whole.",
+            "example": "The design incorporates traditional patterns."
+          }
+        ],
+        "vietnamese": "kết hợp"
+      }
+    ]
+  },
+  {
+    "word": "indicator",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that shows the state or level of something else.",
+            "example": "Rising prices are an indicator of inflation."
+          }
+        ],
+        "vietnamese": "chỉ số"
+      }
+    ]
+  },
+  {
+    "word": "induce",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To cause something to happen.",
+            "example": "Lack of sleep can induce stress and anxiety."
+          }
+        ],
+        "vietnamese": "gây ra"
+      }
+    ]
+  },
+  {
+    "word": "inequality",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The unfair difference in size, value, or treatment between people or groups.",
+            "example": "The report focuses on income inequality."
+          }
+        ],
+        "vietnamese": "bất bình đẳng"
+      }
+    ]
+  },
+  {
+    "word": "infer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To form an opinion from the information you have.",
+            "example": "From his silence, we inferred that he disagreed."
+          }
+        ],
+        "vietnamese": "suy ra"
+      }
+    ]
+  },
+  {
+    "word": "infinite",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Without any limit or end.",
+            "example": "The universe once seemed infinite to early scientists."
+          }
+        ],
+        "vietnamese": "vô hạn"
+      }
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The basic systems and services that a country or organization needs to function.",
+            "example": "The storm caused major damage to local infrastructure."
+          }
+        ],
+        "vietnamese": "cơ sở hạ tầng"
+      }
+    ]
+  },
+  {
+    "word": "inhabitant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person or animal that lives in a particular place.",
+            "example": "The island has only a few hundred inhabitants."
+          }
+        ],
+        "vietnamese": "cư dân"
+      }
+    ]
+  },
+  {
+    "word": "inherit",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To receive money, property, or qualities from someone who has died or from your family.",
+            "example": "She inherited the house from her grandmother."
+          }
+        ],
+        "vietnamese": "thừa hưởng"
+      }
+    ]
+  },
+  {
+    "word": "initiate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To cause something to begin.",
+            "example": "The university initiated a review of the program."
+          }
+        ],
+        "vietnamese": "khởi xướng"
+      }
+    ]
+  },
+  {
+    "word": "injection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of putting a drug into the body with a needle, or a substance put in this way.",
+            "example": "The patient needed a daily injection."
+          }
+        ],
+        "vietnamese": "mũi tiêm"
+      }
+    ]
+  },
+  {
+    "word": "injustice",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A lack of fairness in a situation or society.",
+            "example": "Many people marched to protest social injustice."
+          }
+        ],
+        "vietnamese": "sự bất công"
+      }
+    ]
+  },
+  {
+    "word": "innovation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A new idea, method, or product.",
+            "example": "The company is known for rapid innovation."
+          }
+        ],
+        "vietnamese": "sự đổi mới"
+      }
+    ]
+  },
+  {
+    "word": "inquire",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To ask for information.",
+            "example": "Several investors inquired about the new project."
+          }
+        ],
+        "vietnamese": "hỏi thông tin"
+      }
+    ]
+  },
+  {
+    "word": "insider",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who belongs to a group and knows its secrets or details.",
+            "example": "Only insiders understood the full strategy."
+          }
+        ],
+        "vietnamese": "người trong cuộc"
+      }
+    ]
+  },
+  {
+    "word": "inspect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To look at something carefully in order to check it.",
+            "example": "Officials came to inspect the building."
+          }
+        ],
+        "vietnamese": "kiểm tra"
+      }
+    ]
+  },
+  {
+    "word": "inspection",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An official visit to check that something is working properly or being done correctly.",
+            "example": "The restaurant passed its health inspection."
+          }
+        ],
+        "vietnamese": "cuộc kiểm tra"
+      }
+    ]
+  },
+  {
+    "word": "inspiration",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A feeling or idea that makes you want to do or create something.",
+            "example": "Her journey was an inspiration to many young artists."
+          }
+        ],
+        "vietnamese": "nguồn cảm hứng"
+      }
+    ]
+  },
+  {
+    "word": "instability",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state of being likely to change suddenly or fail.",
+            "example": "Political instability frightened investors."
+          }
+        ],
+        "vietnamese": "sự bất ổn"
+      }
+    ]
+  },
+  {
+    "word": "instinct",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A natural tendency to behave in a particular way without conscious thought.",
+            "example": "Animals rely on instinct for survival."
+          }
+        ],
+        "vietnamese": "bản năng"
+      }
+    ]
+  },
+  {
+    "word": "institutional",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Connected with a large important organization such as a university, bank, or hospital.",
+            "example": "The reforms require strong institutional support."
+          }
+        ],
+        "vietnamese": "thuộc thể chế"
+      }
+    ]
+  },
+  {
+    "word": "integrity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The quality of being honest and having strong moral principles.",
+            "example": "She is respected for her integrity and fairness."
+          }
+        ],
+        "vietnamese": "chính trực"
+      }
+    ]
+  },
+  {
+    "word": "intellectual",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Related to serious thinking and understanding.",
+            "example": "The book had a huge intellectual impact."
+          }
+        ],
+        "vietnamese": "thuộc trí tuệ"
+      }
+    ]
+  },
+  {
+    "word": "intensify",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become stronger or make something stronger.",
+            "example": "The wind began to intensify during the night."
+          }
+        ],
+        "vietnamese": "tăng cường"
+      }
+    ]
+  },
+  {
+    "word": "intensive",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Involving a lot of effort or activity in a short time.",
+            "example": "She took an intensive language course in summer."
+          }
+        ],
+        "vietnamese": "chuyên sâu; tăng cường"
+      }
+    ]
+  },
+  {
+    "word": "interface",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The place or point where two systems, subjects, or organizations meet and interact.",
+            "example": "The software has a simple user interface."
+          }
+        ],
+        "vietnamese": "giao diện"
+      }
+    ]
+  },
+  {
+    "word": "interfere",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To involve yourself in a situation when your help is not wanted, or to affect something badly.",
+            "example": "I wish my parents would stop interfering in my career."
+          }
+        ],
+        "vietnamese": "can thiệp"
+      }
+    ]
+  },
+  {
+    "word": "intermediate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Between two stages, levels, or things.",
+            "example": "This course is for intermediate learners."
+          }
+        ],
+        "vietnamese": "trung cấp"
+      }
+    ]
+  },
+  {
+    "word": "interpretation",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An explanation of the meaning of something.",
+            "example": "There are different interpretations of the law."
+          }
+        ],
+        "vietnamese": "cách diễn giải"
+      }
+    ]
+  },
+  {
+    "word": "interval",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A period of time between two events, or a break in an event.",
+            "example": "The buses leave at ten-minute intervals."
+          }
+        ],
+        "vietnamese": "khoảng cách; khoảng nghỉ"
+      }
+    ]
+  },
+  {
+    "word": "intervention",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The act of becoming involved in a situation to change what happens.",
+            "example": "Government intervention saved the bank."
+          }
+        ],
+        "vietnamese": "sự can thiệp"
+      }
+    ]
+  },
+  {
+    "word": "intimate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very close and personal.",
+            "example": "They had an intimate knowledge of the local culture."
+          }
+        ],
+        "vietnamese": "thân mật; sâu sắc"
+      }
+    ]
+  },
+  {
+    "word": "inventory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A detailed list of all the goods or property in a place.",
+            "example": "The store checks its inventory every month."
+          }
+        ],
+        "vietnamese": "hàng tồn kho; danh mục"
+      }
+    ]
+  },
+  {
+    "word": "investigator",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person whose job is to discover the facts about something.",
+            "example": "The investigators interviewed every witness."
+          }
+        ],
+        "vietnamese": "điều tra viên"
+      }
+    ]
   }
 ]
