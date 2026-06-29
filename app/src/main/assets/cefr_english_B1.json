@@ -57594,5 +57594,1399 @@
         "vietnamese": "số không"
       }
     ]
+  },
+  {
+    "word": "achieve",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To succeed in doing or reaching something after effort.",
+            "example": "She worked hard to achieve her goals."
+          }
+        ],
+        "vietnamese": "đạt được"
+      }
+    ]
+  },
+  {
+    "word": "advantageous",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Giving a benefit or making success more likely.",
+            "example": "The new location is advantageous for the business."
+          }
+        ],
+        "vietnamese": "có lợi"
+      }
+    ]
+  },
+  {
+    "word": "adventure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An unusual, exciting, or sometimes dangerous experience.",
+            "example": "Their trip across the mountains was a real adventure."
+          }
+        ],
+        "vietnamese": "cuộc phiêu lưu"
+      }
+    ]
+  },
+  {
+    "word": "advertisement",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A notice, picture, or film used to promote a product, service, or event.",
+            "example": "I saw an advertisement for the new phone online."
+          }
+        ],
+        "vietnamese": "quảng cáo"
+      }
+    ]
+  },
+  {
+    "word": "affect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To influence or cause a change in someone or something.",
+            "example": "Lack of sleep can affect your mood."
+          }
+        ],
+        "vietnamese": "ảnh hưởng"
+      }
+    ]
+  },
+  {
+    "word": "argue",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To speak angrily to someone because you disagree with them.",
+            "example": "They started to argue about money."
+          }
+        ],
+        "vietnamese": "tranh cãi"
+      }
+    ]
+  },
+  {
+    "word": "argument",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A disagreement or angry discussion between people.",
+            "example": "They had an argument about who should drive."
+          }
+        ],
+        "vietnamese": "cuộc tranh cãi"
+      }
+    ]
+  },
+  {
+    "word": "assistant",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who helps someone in their work or duties.",
+            "example": "The shop assistant helped me find my size."
+          }
+        ],
+        "vietnamese": "trợ lý"
+      }
+    ]
+  },
+  {
+    "word": "athlete",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who is trained in sports or physical exercise, especially in competitions.",
+            "example": "She hopes to become a professional athlete one day."
+          }
+        ],
+        "vietnamese": "vận động viên"
+      }
+    ]
+  },
+  {
+    "word": "avoid",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To stay away from someone or something, or to prevent something from happening.",
+            "example": "You should avoid drinking too much coffee at night."
+          }
+        ],
+        "vietnamese": "tránh"
+      }
+    ]
+  },
+  {
+    "word": "behavior",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way a person or animal acts.",
+            "example": "The teacher praised the children for their good behavior."
+          }
+        ],
+        "vietnamese": "hành vi"
+      }
+    ]
+  },
+  {
+    "word": "brain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The organ inside the head that controls thought, memory, movement, and feeling.",
+            "example": "The human brain is extremely complex."
+          }
+        ],
+        "vietnamese": "não"
+      }
+    ]
+  },
+  {
+    "word": "bridge",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A structure built over a river, road, or other obstacle to allow people or vehicles to cross.",
+            "example": "We walked across the bridge at sunset."
+          }
+        ],
+        "vietnamese": "cây cầu"
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Money in the form of coins or notes rather than cards or electronic payment.",
+            "example": "I only had enough cash for a coffee."
+          }
+        ],
+        "vietnamese": "tiền mặt"
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way someone thinks and behaves, or a person in a story, play, or film.",
+            "example": "The main character in the novel is very brave."
+          }
+        ],
+        "vietnamese": "nhân vật; tính cách"
+      }
+    ]
+  },
+  {
+    "word": "cheaply",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "At a low price or in an inexpensive way.",
+            "example": "The furniture was made cheaply and broke quickly."
+          }
+        ],
+        "vietnamese": "một cách rẻ tiền"
+      }
+    ]
+  },
+  {
+    "word": "clearly",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "In a way that is easy to see, hear, or understand.",
+            "example": "She explained the rules clearly to the group."
+          }
+        ],
+        "vietnamese": "một cách rõ ràng"
+      }
+    ]
+  },
+  {
+    "word": "climate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The usual weather conditions of a place over a long period of time.",
+            "example": "The region has a warm, dry climate."
+          }
+        ],
+        "vietnamese": "khí hậu"
+      }
+    ]
+  },
+  {
+    "word": "completely",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Fully; in every way or to the greatest possible degree.",
+            "example": "I completely forgot about the meeting."
+          }
+        ],
+        "vietnamese": "hoàn toàn"
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The state that someone or something is in.",
+            "example": "The car is still in good condition."
+          }
+        ],
+        "vietnamese": "tình trạng"
+      }
+    ]
+  },
+  {
+    "word": "conference",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A formal meeting in which people discuss ideas, work, or shared interests.",
+            "example": "She is speaking at an education conference this weekend."
+          }
+        ],
+        "vietnamese": "hội nghị"
+      }
+    ]
+  },
+  {
+    "word": "connect",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To join two or more things together, or to create a relationship between them.",
+            "example": "The bridge connects the two sides of the city."
+          }
+        ],
+        "vietnamese": "kết nối"
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To have something inside or to include something as a part.",
+            "example": "This box contains old family photos."
+          }
+        ],
+        "vietnamese": "chứa đựng"
+      }
+    ]
+  },
+  {
+    "word": "correct",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Accurate or true; without mistakes.",
+            "example": "Please check that your answer is correct."
+          }
+        ],
+        "vietnamese": "đúng"
+      }
+    ]
+  },
+  {
+    "word": "couple",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Two people or things considered together.",
+            "example": "A couple of students stayed after class to ask questions."
+          }
+        ],
+        "vietnamese": "cặp; vài"
+      }
+    ]
+  },
+  {
+    "word": "crazy",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Very strange, foolish, or extremely enthusiastic.",
+            "example": "That sounds like a crazy idea, but it might work."
+          }
+        ],
+        "vietnamese": "điên rồ"
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Able to produce new and original ideas.",
+            "example": "She found a creative way to solve the problem."
+          }
+        ],
+        "vietnamese": "sáng tạo"
+      }
+    ]
+  },
+  {
+    "word": "customer",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person who buys goods or services from a shop or business.",
+            "example": "The restaurant was full of customers at lunch time."
+          }
+        ],
+        "vietnamese": "khách hàng"
+      }
+    ]
+  },
+  {
+    "word": "debate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A formal discussion in which people express different opinions about a subject.",
+            "example": "The class had a debate about school uniforms."
+          }
+        ],
+        "vietnamese": "cuộc tranh luận"
+      }
+    ]
+  },
+  {
+    "word": "delay",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A situation in which something happens later than expected.",
+            "example": "Our flight was cancelled because of a long delay."
+          }
+        ],
+        "vietnamese": "sự trì hoãn"
+      }
+    ]
+  },
+  {
+    "word": "depend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To need someone or something in order to continue, succeed, or exist.",
+            "example": "Children depend on adults for care and support."
+          }
+        ],
+        "vietnamese": "phụ thuộc"
+      }
+    ]
+  },
+  {
+    "word": "detail",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A single small fact or feature of something.",
+            "example": "Pay attention to every detail in the instructions."
+          }
+        ],
+        "vietnamese": "chi tiết"
+      }
+    ]
+  },
+  {
+    "word": "disappear",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To become impossible to see or find.",
+            "example": "The sun disappeared behind the clouds."
+          }
+        ],
+        "vietnamese": "biến mất"
+      }
+    ]
+  },
+  {
+    "word": "disaster",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A sudden event that causes great damage, suffering, or loss.",
+            "example": "The flood was a natural disaster for the village."
+          }
+        ],
+        "vietnamese": "thảm họa"
+      }
+    ]
+  },
+  {
+    "word": "discover",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To find something for the first time, or to learn something previously unknown.",
+            "example": "Scientists hope to discover a better treatment."
+          }
+        ],
+        "vietnamese": "khám phá"
+      }
+    ]
+  },
+  {
+    "word": "discussion",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A conversation about a subject in which ideas or opinions are exchanged.",
+            "example": "We had a long discussion about our travel plans."
+          }
+        ],
+        "vietnamese": "cuộc thảo luận"
+      }
+    ]
+  },
+  {
+    "word": "distance",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The amount of space between two places or things.",
+            "example": "The distance from my house to school is about two kilometers."
+          }
+        ],
+        "vietnamese": "khoảng cách"
+      }
+    ]
+  },
+  {
+    "word": "document",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A written, printed, or electronic record that provides information or proof.",
+            "example": "Please bring your passport and other travel documents."
+          }
+        ],
+        "vietnamese": "tài liệu"
+      }
+    ]
+  },
+  {
+    "word": "double",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Twice as much or twice as many.",
+            "example": "We paid double the usual price for the tickets."
+          }
+        ],
+        "vietnamese": "gấp đôi"
+      }
+    ]
+  },
+  {
+    "word": "download",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To copy data or a file from the internet or another computer to your device.",
+            "example": "You can download the app for free."
+          }
+        ],
+        "vietnamese": "tải xuống"
+      }
+    ]
+  },
+  {
+    "word": "evidence",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Facts or information that show whether something is true or not.",
+            "example": "There is no evidence that he broke the window."
+          }
+        ],
+        "vietnamese": "bằng chứng"
+      }
+    ]
+  },
+  {
+    "word": "exact",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Completely correct in every detail.",
+            "example": "What is the exact time of the meeting?"
+          }
+        ],
+        "vietnamese": "chính xác"
+      }
+    ]
+  },
+  {
+    "word": "excellent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Extremely good.",
+            "example": "The hotel offers excellent service."
+          }
+        ],
+        "vietnamese": "xuất sắc"
+      }
+    ]
+  },
+  {
+    "word": "exist",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To be real or to be present in the world.",
+            "example": "Do you think life exists on other planets?"
+          }
+        ],
+        "vietnamese": "tồn tại"
+      }
+    ]
+  },
+  {
+    "word": "extra",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "More than what is usual, expected, or necessary.",
+            "example": "We need extra chairs for the guests."
+          }
+        ],
+        "vietnamese": "thêm"
+      }
+    ]
+  },
+  {
+    "word": "finally",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "After a long time, or after everything else has happened.",
+            "example": "We finally arrived home after midnight."
+          }
+        ],
+        "vietnamese": "cuối cùng"
+      }
+    ]
+  },
+  {
+    "word": "focus",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To give special attention to one thing, or to make something clear to see.",
+            "example": "We need to focus on the main problem first."
+          }
+        ],
+        "vietnamese": "tập trung"
+      }
+    ]
+  },
+  {
+    "word": "formal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Following accepted rules of style or behavior; official or serious.",
+            "example": "The invitation says the dinner is a formal event."
+          }
+        ],
+        "vietnamese": "trang trọng"
+      }
+    ]
+  },
+  {
+    "word": "forward",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "Toward the front or in the direction ahead.",
+            "example": "He stepped forward to ask a question."
+          }
+        ],
+        "vietnamese": "về phía trước"
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Something that you hope to achieve.",
+            "example": "Her main goal is to improve her English this year."
+          }
+        ],
+        "vietnamese": "mục tiêu"
+      }
+    ]
+  },
+  {
+    "word": "guide",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A person, book, or piece of information that helps you understand or reach something.",
+            "example": "The tour guide showed us around the old town."
+          }
+        ],
+        "vietnamese": "hướng dẫn viên; sách hướng dẫn"
+      }
+    ]
+  },
+  {
+    "word": "harm",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "Physical or emotional damage or injury.",
+            "example": "The dog did not mean to cause any harm."
+          }
+        ],
+        "vietnamese": "tổn hại"
+      }
+    ]
+  },
+  {
+    "word": "identity",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The qualities, beliefs, or information that make a person or group who they are.",
+            "example": "The police checked his identity at the station."
+          }
+        ],
+        "vietnamese": "danh tính"
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A single person, considered separately from a group.",
+            "example": "Each individual has the right to express an opinion."
+          }
+        ],
+        "vietnamese": "cá nhân"
+      }
+    ]
+  },
+  {
+    "word": "informal",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Relaxed and friendly; not following official or strict rules of style.",
+            "example": "It was just an informal conversation over coffee."
+          }
+        ],
+        "vietnamese": "không trang trọng"
+      }
+    ]
+  },
+  {
+    "word": "kill",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To cause a person, animal, or other living thing to die.",
+            "example": "The disease can kill young plants quickly."
+          }
+        ],
+        "vietnamese": "giết chết"
+      }
+    ]
+  },
+  {
+    "word": "organization",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A group of people working together for a shared purpose.",
+            "example": "She works for an international health organization."
+          }
+        ],
+        "vietnamese": "tổ chức"
+      }
+    ]
+  },
+  {
+    "word": "organize",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To plan, arrange, or prepare people or things so that they work effectively.",
+            "example": "We need to organize the event carefully."
+          }
+        ],
+        "vietnamese": "tổ chức"
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To stop something from happening, or to stop someone from doing something.",
+            "example": "Regular exercise can help prevent illness."
+          }
+        ],
+        "vietnamese": "ngăn chặn"
+      }
+    ]
+  },
+  {
+    "word": "publish",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To prepare and produce a book, article, or other work for public sale or reading.",
+            "example": "The author plans to publish a new novel next year."
+          }
+        ],
+        "vietnamese": "xuất bản"
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A measure, level, or amount compared with something else, often over a period of time.",
+            "example": "The birth rate has fallen in recent years."
+          }
+        ],
+        "vietnamese": "tỷ lệ"
+      }
+    ]
+  },
+  {
+    "word": "recognize",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To know who someone is or what something is because you have seen, heard, or learned about it before.",
+            "example": "I recognized her voice immediately."
+          }
+        ],
+        "vietnamese": "nhận ra"
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To suggest that someone should do something or choose something because it is good.",
+            "example": "Can you recommend a good restaurant nearby?"
+          }
+        ],
+        "vietnamese": "đề nghị; giới thiệu"
+      }
+    ]
+  },
+  {
+    "word": "regular",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Happening often or at set times; usual or normal.",
+            "example": "He is a regular customer at the café."
+          }
+        ],
+        "vietnamese": "đều đặn"
+      }
+    ]
+  },
+  {
+    "word": "remove",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To take something away from a place or position.",
+            "example": "Please remove your shoes before entering the room."
+          }
+        ],
+        "vietnamese": "loại bỏ"
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To put something new in the place of something old, lost, or broken.",
+            "example": "We need to replace the battery in the clock."
+          }
+        ],
+        "vietnamese": "thay thế"
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A particular way or direction between one place and another.",
+            "example": "This bus takes a different route through the city."
+          }
+        ],
+        "vietnamese": "tuyến đường"
+      }
+    ]
+  },
+  {
+    "word": "rude",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Not polite; showing little respect for other people.",
+            "example": "It is rude to interrupt someone while they are speaking."
+          }
+        ],
+        "vietnamese": "thô lỗ"
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Protected from danger, harm, or risk.",
+            "example": "The children were safe inside the house."
+          }
+        ],
+        "vietnamese": "an toàn"
+      }
+    ]
+  },
+  {
+    "word": "schedule",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A plan that shows the times when events or tasks will happen.",
+            "example": "According to the schedule, the train leaves at 8:15."
+          }
+        ],
+        "vietnamese": "lịch trình"
+      }
+    ]
+  },
+  {
+    "word": "score",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The number of points achieved in a game, test, or competition.",
+            "example": "She got the highest score in the class."
+          }
+        ],
+        "vietnamese": "điểm số"
+      }
+    ]
+  },
+  {
+    "word": "select",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "To choose someone or something from a group.",
+            "example": "You can select up to three topics for the project."
+          }
+        ],
+        "vietnamese": "lựa chọn"
+      }
+    ]
+  },
+  {
+    "word": "sense",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A feeling, understanding, or natural ability to notice something.",
+            "example": "He has a strong sense of responsibility."
+          }
+        ],
+        "vietnamese": "ý thức; cảm giác"
+      }
+    ]
+  },
+  {
+    "word": "site",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A place where something is or happens, especially one used for a particular purpose.",
+            "example": "The museum was built on the site of an old market."
+          }
+        ],
+        "vietnamese": "địa điểm"
+      }
+    ]
+  },
+  {
+    "word": "smartphone",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A mobile phone that can connect to the internet and run apps.",
+            "example": "She uses her smartphone to check email at work."
+          }
+        ],
+        "vietnamese": "điện thoại thông minh"
+      }
+    ]
+  },
+  {
+    "word": "specific",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Clearly defined and exact.",
+            "example": "Please give me a specific example of the problem."
+          }
+        ],
+        "vietnamese": "cụ thể"
+      }
+    ]
+  },
+  {
+    "word": "stress",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A state of worry or mental pressure caused by difficulties in life or work.",
+            "example": "Too much stress can affect your health."
+          }
+        ],
+        "vietnamese": "căng thẳng"
+      }
+    ]
+  },
+  {
+    "word": "structure",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "The way in which the parts of something are arranged or organized.",
+            "example": "The course has a clear structure and practical exercises."
+          }
+        ],
+        "vietnamese": "cấu trúc"
+      }
+    ]
+  },
+  {
+    "word": "system",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A set of connected parts or methods that work together.",
+            "example": "The school uses an online system for homework."
+          }
+        ],
+        "vietnamese": "hệ thống"
+      }
+    ]
+  },
+  {
+    "word": "theory",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A set of ideas intended to explain how or why something happens.",
+            "example": "In theory, the plan should save both time and money."
+          }
+        ],
+        "vietnamese": "lý thuyết"
+      }
+    ]
+  },
+  {
+    "word": "therefore",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adverb",
+        "definitions": [
+          {
+            "definition": "For that reason; as a result.",
+            "example": "The road was closed, and therefore we had to walk."
+          }
+        ],
+        "vietnamese": "vì vậy"
+      }
+    ]
+  },
+  {
+    "word": "traditional",
+    "phonetic": "",
+    "phonetics": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "definitions": [
+          {
+            "definition": "Following customs or ways of behaving that have continued for a long time.",
+            "example": "They wore traditional clothes for the festival."
+          }
+        ],
+        "vietnamese": "truyền thống"
+      }
+    ]
   }
 ]
