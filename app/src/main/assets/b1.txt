@@ -391,6 +391,7 @@ check
 cheer
 cheerful
 chemical
+chemistry
 chest
 chief
 child
@@ -512,6 +513,7 @@ count
 country
 countryside
 couple
+courage
 course
 court
 cover
@@ -524,6 +526,7 @@ cream
 create
 creative
 credit
+crime
 criminal
 crisps
 critical
@@ -539,6 +542,7 @@ curious
 currency
 current
 currently
+curriculum
 curtain
 custom
 customary
@@ -723,7 +727,7 @@ engaged
 engagement
 engine
 engineering
-English
+english
 enjoy
 enormous
 enough
@@ -940,6 +944,7 @@ gather
 general
 generally
 generation
+generosity
 generous
 gentle
 gentleman
@@ -966,6 +971,7 @@ grade
 gradually
 graduate
 grain
+grammar
 grand
 grandfather
 grandmother
@@ -1005,6 +1011,7 @@ head
 headache
 headline
 headmaster
+healing
 health
 healthy
 hear
@@ -1132,7 +1139,6 @@ iron
 island
 islander
 issue
-IT
 it
 jam
 jazz
@@ -1227,6 +1233,7 @@ located
 location
 log
 logical
+loneliness
 lonely
 long
 look
@@ -1592,6 +1599,7 @@ project
 projector
 promise
 promote
+pronunciation
 proper
 properly
 property
@@ -2215,6 +2223,7 @@ wing
 winner
 winter
 wire
+wisdom
 wise
 wisely
 within
