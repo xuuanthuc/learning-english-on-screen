@@ -156,13 +156,13 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
             }
 
 
-            Text(
-                text = word?.word?.vietnamese ?: "", style = TextStyle(
-                    fontSize = 30.sp,
-                    color = Color.White,
-                    fontWeight = FontWeight.Medium
-                )
-            )
+//            Text(
+//                text = word?.word?.vietnamese ?: "", style = TextStyle(
+//                    fontSize = 30.sp,
+//                    color = Color.White,
+//                    fontWeight = FontWeight.Medium
+//                )
+//            )
             Box(
                 modifier = Modifier
                     .padding(top = 16.dp)

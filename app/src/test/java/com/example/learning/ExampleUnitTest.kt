@@ -26,10 +26,10 @@ class ExampleUnitTest {
     suspend fun fetchWord() {
         try {
             val paths = listOf<String>(
-                "cefr_english_B1",
-                "cefr_english_B2",
+//                "cefr_english_B1",
+//                "cefr_english_B2",
                 "cefr_english_C1",
-//                "cefr_english_C2"
+                "cefr_english_C2"
             )
 
             paths.forEach { p ->

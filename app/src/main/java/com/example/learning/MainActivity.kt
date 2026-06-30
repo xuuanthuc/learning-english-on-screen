@@ -169,7 +169,6 @@ class MainActivity : ComponentActivity() {
                         dao.insertWord(
                             WordEntity(
                                 word = word.word,
-                                vietnamese = word.vietnamese,
                                 phonetic = word.phonetic,
                                 level = p
                             )

@@ -5,11 +5,9 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import androidx.room.Relation
 
-
 @Entity(tableName = "words")
 data class WordEntity(
     @PrimaryKey val word: String,
-    val vietnamese: String?,
     val phonetic: String?,
     val level: String?
 )
