@@ -2,7 +2,6 @@ package com.example.learning.models
 
 data class WordData(
     val word: String,
-    val vietnamese: String?,
     val phonetic: String?,
     val phonetics: List<Phonetic>?,
     val meanings: List<Meaning>?,
@@ -15,15 +14,12 @@ data class WordResponse(
     val meanings: List<Meaning>?
 )
 
-fun WordResponse.toWord(
-    vietnameseMeaning: String
-): WordData {
+fun WordResponse.toWord(): WordData {
     return WordData(
         word = this.word,
         phonetic = this.phonetic,
         phonetics = this.phonetics,
-        meanings = this.meanings.orEmpty(),
-        vietnamese = vietnameseMeaning
+        meanings = this.meanings.orEmpty()
     )
 }
 
@@ -47,7 +43,8 @@ fun Phonetic.toEntity(wordId: String): PhoneticEntity {
 
 data class Meaning(
     val partOfSpeech: String?,
-    val definitions: List<Definition>?
+    val definitions: List<Definition>?,
+    val vietnamese: String?,
 )
 
 data class Definition(

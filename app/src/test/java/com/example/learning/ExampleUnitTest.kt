@@ -29,7 +29,7 @@ class ExampleUnitTest {
                 "cefr_english_B1",
                 "cefr_english_B2",
                 "cefr_english_C1",
-                "cefr_english_C2"
+//                "cefr_english_C2"
             )
 
             paths.forEach { p ->
@@ -40,7 +40,7 @@ class ExampleUnitTest {
                 val words: List<CsvTrans> = rows.map { row ->
                     CsvTrans(
                         english = row[0].trim(),
-                        vietnamese = row[1].trim()
+//                        vietnamese = row[1].trim()
                     )
                 }
 
@@ -48,7 +48,7 @@ class ExampleUnitTest {
                     delay(1000)
                     val first = try {
                         val response = RetrofitClient.api.getWord(w.english)
-                        response.firstOrNull()?.toWord(w.vietnamese)
+                        response.firstOrNull()?.toWord()
                     } catch (_: Exception) {
                         null
                     }
