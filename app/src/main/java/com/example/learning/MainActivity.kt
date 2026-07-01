@@ -190,7 +190,8 @@ class MainActivity : ComponentActivity() {
                             val meaningId = dao.insertMeaning(
                                 MeaningEntity(
                                     wordId = word.word,
-                                    partOfSpeech = meaning.partOfSpeech
+                                    partOfSpeech = meaning.partOfSpeech,
+                                    vietnamese = meaning.vietnamese
                                 )
                             )
 

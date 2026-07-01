@@ -54,6 +54,7 @@ import androidx.compose.ui.text.style.TextAlign
 import java.util.Locale
 import kotlin.math.abs
 import androidx.compose.ui.platform.toClipEntry
+import androidx.compose.ui.text.capitalize
 import com.example.learning.tools.SettingsRepository
 
 class AlarmOverlayActivity : ComponentActivity() {
@@ -155,14 +156,6 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                 }
             }
 
-
-//            Text(
-//                text = word?.word?.vietnamese ?: "", style = TextStyle(
-//                    fontSize = 30.sp,
-//                    color = Color.White,
-//                    fontWeight = FontWeight.Medium
-//                )
-//            )
             Box(
                 modifier = Modifier
                     .padding(top = 16.dp)
@@ -209,6 +202,19 @@ fun MyOverlayScreen(viewModel: WordViewModel, onDismiss: () -> Unit) {
                                     fontWeight = FontWeight.Bold,
                                     fontStyle = FontStyle.Italic
                                 )
+                            )
+                            Text(
+                                text = m.meaning.vietnamese?.replaceFirstChar {
+                                    if (it.isLowerCase()) it.titlecase(
+                                        Locale.ROOT
+                                    ) else it.toString()
+                                } ?: "", style = TextStyle(
+                                    fontSize = 14.sp,
+                                    color = Color.White,
+                                    fontWeight = FontWeight.Medium,
+
+                                ),
+                                modifier = Modifier.padding(horizontal = 10.dp)
                             )
                         }
 

@@ -22,7 +22,8 @@ import androidx.room.Relation
 data class MeaningEntity(
     @PrimaryKey(autoGenerate = true) val id: Int = 0,
     val wordId: String,
-    val partOfSpeech: String?
+    val partOfSpeech: String?,
+    val vietnamese: String?
 )
 
 data class MeaningWithDefinitions(
